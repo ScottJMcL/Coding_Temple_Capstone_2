@@ -1,1297 +1,1297 @@
-,Pollutant,Symbol,State,CAV_adoption,Year,Concern,Total Emmisions,UOM
+,Pollutant,Symbol,State,CAV_adoption,Year,Concern,Total Emisions,UOM
 Pollutant,,,,,,,,
-Pollutant,Carbon Dioxide,CO2,VT,Top,2008.0,GHG,3631471.1850093002,TON
-Pollutant,Carbon Monoxide,CO,VT,Top,2008.0,GHG,66710.129780172,TON
-Pollutant,Chromium (VI),Cr VI,VT,Top,2008.0,Health,61.627562040262,LB
-Pollutant,Manganese,Mn,VT,Top,2008.0,Health,30.472312864344,LB
-Pollutant,Mercury,Hg,VT,Top,2008.0,Health,1.76157341059068,LB
-Pollutant,Methane,CH4,VT,Top,2008.0,GHG,323.277605566341,TON
-Pollutant,Nickel,Ni,VT,Top,2008.0,Health,63.97885994346,LB
-Pollutant,Nitrogen Oxides,NOx,VT,Top,2008.0,Health,12212.253389313,TON
-Pollutant,Nitrous Oxide,N2O,VT,Top,2008.0,GHG,163.548446030504,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,Top,2008.0,Health,616.037089233219,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Top,2008.0,Health,477.092018685432,TON
-Pollutant,Sulfur Dioxide,SO2,VT,Top,2008.0,Health,73.257463427726,TON
-Pollutant,Volatile Organic Compounds,VOC,VT,Top,2008.0,Health,6273.6014306882,TON
-Pollutant,Carbon Dioxide,CO2,MA,Top,2008.0,GHG,32404588.883425,TON
-Pollutant,Carbon Monoxide,CO,MA,Top,2008.0,GHG,383819.927516816,TON
-Pollutant,Chromium (VI),Cr VI,MA,Top,2008.0,Health,461.13276941354,LB
-Pollutant,Manganese,Mn,MA,Top,2008.0,Health,239.5760398024,LB
-Pollutant,Mercury,Hg,MA,Top,2008.0,Health,13.0550033720852,LB
-Pollutant,Methane,CH4,MA,Top,2008.0,GHG,1996.57434710981,TON
-Pollutant,Nickel,Ni,MA,Top,2008.0,Health,499.1629180544,LB
-Pollutant,Nitrogen Oxides,NOx,MA,Top,2008.0,Health,84748.14175773,TON
-Pollutant,Nitrous Oxide,N2O,MA,Top,2008.0,GHG,1251.649638618837,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,Top,2008.0,Health,5557.98063634692,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Top,2008.0,Health,3941.0159288899,TON
-Pollutant,Sulfur Dioxide,SO2,MA,Top,2008.0,Health,624.57896162459,TON
-Pollutant,Volatile Organic Compounds,VOC,MA,Top,2008.0,Health,34481.415686612,TON
-Pollutant,Carbon Dioxide,CO2,MD,Top,2008.0,GHG,30932200.730935,TON
-Pollutant,Carbon Monoxide,CO,MD,Top,2008.0,GHG,455710.988329252,TON
-Pollutant,Chromium (VI),Cr VI,MD,Top,2008.0,Health,476.57643042246,LB
-Pollutant,Manganese,Mn,MD,Top,2008.0,Health,247.27544474064,LB
-Pollutant,Mercury,Hg,MD,Top,2008.0,Health,13.505941881013,LB
-Pollutant,Methane,CH4,MD,Top,2008.0,GHG,1893.31627480607,TON
-Pollutant,Nickel,Ni,MD,Top,2008.0,Health,515.3230718926,LB
-Pollutant,Nitrogen Oxides,NOx,MD,Top,2008.0,Health,95784.52978449,TON
-Pollutant,Nitrous Oxide,N2O,MD,Top,2008.0,GHG,1385.55900742863,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,Top,2008.0,Health,4729.71961303718,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Top,2008.0,Health,3618.80863573736,TON
-Pollutant,Sulfur Dioxide,SO2,MD,Top,2008.0,Health,630.96006592116,TON
-Pollutant,Volatile Organic Compounds,VOC,MD,Top,2008.0,Health,40821.29320657,TON
-Pollutant,Carbon Dioxide,CO2,VA,Top,2008.0,GHG,46340771.2470319,TON
-Pollutant,Carbon Monoxide,CO,VA,Top,2008.0,GHG,923380.2677822114,TON
-Pollutant,Chromium (VI),Cr VI,VA,Top,2008.0,Health,694.0734145718146,LB
-Pollutant,Manganese,Mn,VA,Top,2008.0,Health,363.539141628686,LB
-Pollutant,Mercury,Hg,VA,Top,2008.0,Health,19.68141943269541,LB
-Pollutant,Methane,CH4,VA,Top,2008.0,GHG,3910.239924397795,TON
-Pollutant,Nickel,Ni,VA,Top,2008.0,Health,756.54733819571,LB
-Pollutant,Nitrogen Oxides,NOx,VA,Top,2008.0,Health,180179.763805006,TON
-Pollutant,Nitrous Oxide,N2O,VA,Top,2008.0,GHG,2526.986076731422,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,Top,2008.0,Health,7336.549300464379,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Top,2008.0,Health,5552.880546837637,TON
-Pollutant,Sulfur Dioxide,SO2,VA,Top,2008.0,Health,935.337891720199,TON
-Pollutant,Volatile Organic Compounds,VOC,VA,Top,2008.0,Health,82607.8037772812,TON
-Pollutant,Carbon Dioxide,CO2,WV,Bottom,2008.0,GHG,12261191.6765523,TON
-Pollutant,Carbon Monoxide,CO,WV,Bottom,2008.0,GHG,254429.254793774,TON
-Pollutant,Chromium (VI),Cr VI,WV,Bottom,2008.0,Health,173.2810125132716,LB
-Pollutant,Manganese,Mn,WV,Bottom,2008.0,Health,95.390128501506,LB
-Pollutant,Mercury,Hg,WV,Bottom,2008.0,Health,4.92087518553974,LB
-Pollutant,Methane,CH4,WV,Bottom,2008.0,GHG,1127.326486544336,TON
-Pollutant,Nickel,Ni,WV,Bottom,2008.0,Health,197.064770620048,LB
-Pollutant,Nitrogen Oxides,NOx,WV,Bottom,2008.0,Health,51845.8397736455,TON
-Pollutant,Nitrous Oxide,N2O,WV,Bottom,2008.0,GHG,599.704627003842,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,Bottom,2008.0,Health,2000.1880525962,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,Bottom,2008.0,Health,1565.3039583842317,TON
-Pollutant,Sulfur Dioxide,SO2,WV,Bottom,2008.0,Health,240.945073301625,TON
-Pollutant,Volatile Organic Compounds,VOC,WV,Bottom,2008.0,Health,22192.7734820845,TON
-Pollutant,Carbon Dioxide,CO2,AL,Bottom,2008.0,GHG,35289549.3995628,TON
-Pollutant,Carbon Monoxide,CO,AL,Bottom,2008.0,GHG,633900.3770732762,TON
-Pollutant,Chromium (VI),Cr VI,AL,Bottom,2008.0,Health,496.6827064047748,LB
-Pollutant,Manganese,Mn,AL,Bottom,2008.0,Health,268.495749686028,LB
-Pollutant,Mercury,Hg,AL,Bottom,2008.0,Health,14.086491892672232,LB
-Pollutant,Methane,CH4,AL,Bottom,2008.0,GHG,2666.1519639640173,TON
-Pollutant,Nickel,Ni,AL,Bottom,2008.0,Health,556.115331867372,LB
-Pollutant,Nitrogen Oxides,NOx,AL,Bottom,2008.0,Health,133827.7221848789,TON
-Pollutant,Nitrous Oxide,N2O,AL,Bottom,2008.0,GHG,1637.6379480581795,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,Bottom,2008.0,Health,5370.6046961819075,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Bottom,2008.0,Health,3881.0734428111923,TON
-Pollutant,Sulfur Dioxide,SO2,AL,Bottom,2008.0,Health,680.636988558038,TON
-Pollutant,Volatile Organic Compounds,VOC,AL,Bottom,2008.0,Health,59131.1166709283,TON
-Pollutant,Carbon Dioxide,CO2,KY,Bottom,2008.0,GHG,29085383.910658,TON
-Pollutant,Carbon Monoxide,CO,KY,Bottom,2008.0,GHG,515411.566736752,TON
-Pollutant,Chromium (VI),Cr VI,KY,Bottom,2008.0,Health,393.3234301412964,LB
-Pollutant,Manganese,Mn,KY,Bottom,2008.0,Health,223.01770613899401,LB
-Pollutant,Mercury,Hg,KY,Bottom,2008.0,Health,11.13034888453957,LB
-Pollutant,Methane,CH4,KY,Bottom,2008.0,GHG,2250.707210123486,TON
-Pollutant,Nickel,Ni,KY,Bottom,2008.0,Health,458.776450589136,LB
-Pollutant,Nitrogen Oxides,NOx,KY,Bottom,2008.0,Health,122228.003321693,TON
-Pollutant,Nitrous Oxide,N2O,KY,Bottom,2008.0,GHG,1265.347981873113,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,Bottom,2008.0,Health,5445.30669691451,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Bottom,2008.0,Health,4281.297731276925,TON
-Pollutant,Sulfur Dioxide,SO2,KY,Bottom,2008.0,Health,553.85421151344,TON
-Pollutant,Volatile Organic Compounds,VOC,KY,Bottom,2008.0,Health,46798.2523877866,TON
-Pollutant,Carbon Dioxide,CO2,MI,Bottom,2008.0,GHG,63633145.864485,TON
-Pollutant,Carbon Monoxide,CO,MI,Bottom,2008.0,GHG,1398566.645421716,TON
-Pollutant,Chromium (VI),Cr VI,MI,Bottom,2008.0,Health,827.5268143187,LB
-Pollutant,Manganese,Mn,MI,Bottom,2008.0,Health,456.5652914442,LB
-Pollutant,Mercury,Hg,MI,Bottom,2008.0,Health,23.3820226507722,LB
-Pollutant,Methane,CH4,MI,Bottom,2008.0,GHG,6619.80515061145,TON
-Pollutant,Nickel,Ni,MI,Bottom,2008.0,Health,942.8763228376,LB
-Pollutant,Nitrogen Oxides,NOx,MI,Bottom,2008.0,Health,265825.00522663,TON
-Pollutant,Nitrous Oxide,N2O,MI,Bottom,2008.0,GHG,3033.83672644975,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,Bottom,2008.0,Health,14161.11872725594,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Bottom,2008.0,Health,10897.038846173475,TON
-Pollutant,Sulfur Dioxide,SO2,MI,Bottom,2008.0,Health,1257.6344234339,TON
-Pollutant,Volatile Organic Compounds,VOC,MI,Bottom,2008.0,Health,121293.539720174,TON
-Pollutant,Carbon Dioxide,CO2,LA,Bottom,2008.0,GHG,27796861.247019902,TON
-Pollutant,Carbon Monoxide,CO,LA,Bottom,2008.0,GHG,490106.8433702934,TON
-Pollutant,Chromium (VI),Cr VI,LA,Bottom,2008.0,Health,381.8416057645828,LB
-Pollutant,Manganese,Mn,LA,Bottom,2008.0,Health,208.160594446548,LB
-Pollutant,Mercury,Hg,LA,Bottom,2008.0,Health,10.812694862529314,LB
-Pollutant,Methane,CH4,LA,Bottom,2008.0,GHG,1894.3476957915163,TON
-Pollutant,Nickel,Ni,LA,Bottom,2008.0,Health,430.62758929154,LB
-Pollutant,Nitrogen Oxides,NOx,LA,Bottom,2008.0,Health,108646.4437073649,TON
-Pollutant,Nitrous Oxide,N2O,LA,Bottom,2008.0,GHG,1282.829065248422,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,Bottom,2008.0,Health,4603.9674907334365,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Bottom,2008.0,Health,3422.043058057189,TON
-Pollutant,Sulfur Dioxide,SO2,LA,Bottom,2008.0,Health,536.920255260849,TON
-Pollutant,Volatile Organic Compounds,VOC,LA,Bottom,2008.0,Health,46013.8270520073,TON
-Pollutant,Carbon Dioxide,CO2,AR,Bottom,2008.0,GHG,19767263.44045404,TON
-Pollutant,Carbon Monoxide,CO,AR,Bottom,2008.0,GHG,470695.7091412236,TON
-Pollutant,Chromium (VI),Cr VI,AR,Bottom,2008.0,Health,269.77983780477354,LB
-Pollutant,Manganese,Mn,AR,Bottom,2008.0,Health,147.18647479479145,LB
-Pollutant,Mercury,Hg,AR,Bottom,2008.0,Health,7.653559384242214,LB
-Pollutant,Methane,CH4,AR,Bottom,2008.0,GHG,1803.2941871364942,TON
-Pollutant,Nickel,Ni,AR,Bottom,2008.0,Health,304.4606962402332,LB
-Pollutant,Nitrogen Oxides,NOx,AR,Bottom,2008.0,Health,88415.988868112,TON
-Pollutant,Nitrous Oxide,N2O,AR,Bottom,2008.0,GHG,1053.0734734859916,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,Bottom,2008.0,Health,3646.911118953765,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Bottom,2008.0,Health,2817.7232770032633,TON
-Pollutant,Sulfur Dioxide,SO2,AR,Bottom,2008.0,Health,818.9500070378884,TON
-Pollutant,Volatile Organic Compounds,VOC,AR,Bottom,2008.0,Health,40952.44724183263,TON
-Pollutant,Carbon Dioxide,CO2,OK,Bottom,2008.0,GHG,29883155.899054,TON
-Pollutant,Carbon Monoxide,CO,OK,Bottom,2008.0,GHG,635713.19788044,TON
-Pollutant,Chromium (VI),Cr VI,OK,Bottom,2008.0,Health,403.79656816199,LB
-Pollutant,Manganese,Mn,OK,Bottom,2008.0,Health,223.55669211962,LB
-Pollutant,Mercury,Hg,OK,Bottom,2008.0,Health,11.43055475767772,LB
-Pollutant,Methane,CH4,OK,Bottom,2008.0,GHG,2519.003259113297,TON
-Pollutant,Nickel,Ni,OK,Bottom,2008.0,Health,461.44423433148,LB
-Pollutant,Nitrogen Oxides,NOx,OK,Bottom,2008.0,Health,135337.507256852,TON
-Pollutant,Nitrous Oxide,N2O,OK,Bottom,2008.0,GHG,1427.952991485172,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,Bottom,2008.0,Health,5647.3959733759,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Bottom,2008.0,Health,4352.701020078054,TON
-Pollutant,Sulfur Dioxide,SO2,OK,Bottom,2008.0,Health,1207.27880972884,TON
-Pollutant,Volatile Organic Compounds,VOC,OK,Bottom,2008.0,Health,56959.7271387074,TON
-Pollutant,Carbon Monoxide,CO,CA,Top,2008.0,GHG,2226017.663,TON
-Pollutant,Manganese,Mn,CA,Top,2008.0,Health,6965.3577270000005,LB
-Pollutant,Mercury,Hg,CA,Top,2008.0,Health,710.998388,LB
-Pollutant,Nickel,Ni,CA,Top,2008.0,Health,6773.935228,LB
-Pollutant,Nitrogen Oxides,NOx,CA,Top,2008.0,Health,578276.3575,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,Top,2008.0,Health,28177.084,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,Top,2008.0,Health,21183.331,TON
-Pollutant,Sulfur Dioxide,SO2,CA,Top,2008.0,Health,1974.613,TON
-Pollutant,Volatile Organic Compounds,VOC,CA,Top,2008.0,Health,247367.508,TON
-Pollutant,Carbon Dioxide,CO2,WA,Top,2008.0,GHG,35047059.744189,TON
-Pollutant,Carbon Monoxide,CO,WA,Top,2008.0,GHG,1001689.026359389,TON
-Pollutant,Chromium (VI),Cr VI,WA,Top,2008.0,Health,462.888461257244,LB
-Pollutant,Manganese,Mn,WA,Top,2008.0,Health,255.69799388506,LB
-Pollutant,Mercury,Hg,WA,Top,2008.0,Health,13.08210693930822,LB
-Pollutant,Methane,CH4,WA,Top,2008.0,GHG,3657.097305076517,TON
-Pollutant,Nickel,Ni,WA,Top,2008.0,Health,527.96269519194,LB
-Pollutant,Nitrogen Oxides,NOx,WA,Top,2008.0,Health,166030.476417848,TON
-Pollutant,Nitrous Oxide,N2O,WA,Top,2008.0,GHG,2135.963871828366,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,Top,2008.0,Health,8828.52201751053,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Top,2008.0,Health,7051.801653712836,TON
-Pollutant,Sulfur Dioxide,SO2,WA,Top,2008.0,Health,905.10752389263,TON
-Pollutant,Volatile Organic Compounds,VOC,WA,Top,2008.0,Health,76361.0406148539,TON
-Pollutant,Carbon Dioxide,CO2,OR,Top,2008.0,GHG,20004016.438559,TON
-Pollutant,Carbon Monoxide,CO,OR,Top,2008.0,GHG,523920.048947102,TON
-Pollutant,Chromium (VI),Cr VI,OR,Top,2008.0,Health,281.55568230754,LB
-Pollutant,Manganese,Mn,OR,Top,2008.0,Health,149.80922921378001,LB
-Pollutant,Mercury,Hg,OR,Top,2008.0,Health,7.9921779792624,LB
-Pollutant,Methane,CH4,OR,Top,2008.0,GHG,2053.683609801151,TON
-Pollutant,Nickel,Ni,OR,Top,2008.0,Health,311.0262112898,LB
-Pollutant,Nitrogen Oxides,NOx,OR,Top,2008.0,Health,90378.70306681,TON
-Pollutant,Nitrous Oxide,N2O,OR,Top,2008.0,GHG,1214.136979649229,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,Top,2008.0,Health,4397.19418623237,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Top,2008.0,Health,3466.577247231544,TON
-Pollutant,Sulfur Dioxide,SO2,OR,Top,2008.0,Health,532.07514321833,TON
-Pollutant,Volatile Organic Compounds,VOC,OR,Top,2008.0,Health,42818.962654466,TON
-Pollutant,Carbon Dioxide,CO2,HI,Top,2008.0,GHG,5785895.60288,TON
-Pollutant,Carbon Monoxide,CO,HI,Top,2008.0,GHG,134340.17990284,TON
-Pollutant,Chromium (VI),Cr VI,HI,Top,2008.0,Health,20.195539814059998,LB
-Pollutant,Manganese,Mn,HI,Top,2008.0,Health,41.8910529984,LB
-Pollutant,Mercury,Hg,HI,Top,2008.0,Health,2.5322551041358,LB
-Pollutant,Methane,CH4,HI,Top,2008.0,GHG,400.00196911885,TON
-Pollutant,Nickel,Ni,HI,Top,2008.0,Health,88.58482891,LB
-Pollutant,Nitrogen Oxides,NOx,HI,Top,2008.0,Health,19889.9722608,TON
-Pollutant,Nitrous Oxide,N2O,HI,Top,2008.0,GHG,318.71765715286,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,Top,2008.0,Health,1081.0770787428,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Top,2008.0,Health,821.0983974638,TON
-Pollutant,Sulfur Dioxide,SO2,HI,Top,2008.0,Health,252.580120525,TON
-Pollutant,Volatile Organic Compounds,VOC,HI,Top,2008.0,Health,11349.649852539,TON
-Pollutant,Carbon Dioxide,CO2,CO,Top,2008.0,GHG,27460554.4704168,TON
-Pollutant,Carbon Monoxide,CO,CO,Top,2008.0,GHG,521736.64565025264,TON
-Pollutant,Chromium (VI),Cr VI,CO,Top,2008.0,Health,406.58677663806947,LB
-Pollutant,Manganese,Mn,CO,Top,2008.0,Health,207.7636177686616,LB
-Pollutant,Mercury,Hg,CO,Top,2008.0,Health,11.541459364011123,LB
-Pollutant,Methane,CH4,CO,Top,2008.0,GHG,2269.7196871935407,TON
-Pollutant,Nickel,Ni,CO,Top,2008.0,Health,433.9797862329616,LB
-Pollutant,Nitrogen Oxides,NOx,CO,Top,2008.0,Health,100338.0155700757,TON
-Pollutant,Nitrous Oxide,N2O,CO,Top,2008.0,GHG,1302.9064981334739,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,Top,2008.0,Health,5008.9960297456155,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Top,2008.0,Health,3710.242191790877,TON
-Pollutant,Sulfur Dioxide,SO2,CO,Top,2008.0,Health,745.1144772258473,TON
-Pollutant,Volatile Organic Compounds,VOC,CO,Top,2008.0,Health,47556.885275478824,TON
-Pollutant,Carbon Dioxide,CO2,NV,Top,2008.0,GHG,11195955.55802436,TON
-Pollutant,Carbon Monoxide,CO,NV,Top,2008.0,GHG,222362.39258619727,TON
-Pollutant,Chromium (VI),Cr VI,NV,Top,2008.0,Health,177.17187549574516,LB
-Pollutant,Manganese,Mn,NV,Top,2008.0,Health,84.3176090222416,LB
-Pollutant,Mercury,Hg,NV,Top,2008.0,Health,5.047010426380628,LB
-Pollutant,Methane,CH4,NV,Top,2008.0,GHG,825.5054281466098,TON
-Pollutant,Nickel,Ni,NV,Top,2008.0,Health,178.1148555851722,LB
-Pollutant,Nitrogen Oxides,NOx,NV,Top,2008.0,Health,40642.7455840891,TON
-Pollutant,Nitrous Oxide,N2O,NV,Top,2008.0,GHG,574.2343618346973,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,Top,2008.0,Health,1751.4748141281377,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Top,2008.0,Health,1221.7501904430644,TON
-Pollutant,Sulfur Dioxide,SO2,NV,Top,2008.0,Health,510.7704288296527,TON
-Pollutant,Volatile Organic Compounds,VOC,NV,Top,2008.0,Health,27083.96131491587,TON
-Pollutant,Carbon Dioxide,CO2,ND,Bottom,2008.0,GHG,4803702.679565,TON
-Pollutant,Carbon Monoxide,CO,ND,Bottom,2008.0,GHG,105667.980588495,TON
-Pollutant,Chromium (VI),Cr VI,ND,Bottom,2008.0,Health,64.34764598054,LB
-Pollutant,Manganese,Mn,ND,Bottom,2008.0,Health,37.2625160626,LB
-Pollutant,Mercury,Hg,ND,Bottom,2008.0,Health,1.8215643461706,LB
-Pollutant,Methane,CH4,ND,Bottom,2008.0,GHG,553.6395429601899,TON
-Pollutant,Nickel,Ni,ND,Bottom,2008.0,Health,76.429371108,LB
-Pollutant,Nitrogen Oxides,NOx,ND,Bottom,2008.0,Health,22184.29513207,TON
-Pollutant,Nitrous Oxide,N2O,ND,Bottom,2008.0,GHG,206.891447535165,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,Bottom,2008.0,Health,1083.82285084269,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,Bottom,2008.0,Health,889.94789792671,TON
-Pollutant,Sulfur Dioxide,SO2,ND,Bottom,2008.0,Health,86.75231667888,TON
-Pollutant,Volatile Organic Compounds,VOC,ND,Bottom,2008.0,Health,9486.657720201,TON
-Pollutant,Carbon Dioxide,CO2,WY,Bottom,2008.0,GHG,6342214.088933,TON
-Pollutant,Carbon Monoxide,CO,WY,Bottom,2008.0,GHG,135412.71932947,TON
-Pollutant,Chromium (VI),Cr VI,WY,Bottom,2008.0,Health,77.20961957749999,LB
-Pollutant,Manganese,Mn,WY,Bottom,2008.0,Health,45.8592395362,LB
-Pollutant,Mercury,Hg,WY,Bottom,2008.0,Health,2.182121092995,LB
-Pollutant,Methane,CH4,WY,Bottom,2008.0,GHG,601.63407036192,TON
-Pollutant,Nickel,Ni,WY,Bottom,2008.0,Health,93.7382208936,LB
-Pollutant,Nitrogen Oxides,NOx,WY,Bottom,2008.0,Health,31295.86820494,TON
-Pollutant,Nitrous Oxide,N2O,WY,Bottom,2008.0,GHG,247.12661308078,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,Bottom,2008.0,Health,1321.7873970621,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Bottom,2008.0,Health,1100.47193490157,TON
-Pollutant,Sulfur Dioxide,SO2,WY,Bottom,2008.0,Health,154.55790713069,TON
-Pollutant,Volatile Organic Compounds,VOC,WY,Bottom,2008.0,Health,10485.962654276,TON
-Pollutant,Carbon Dioxide,CO2,SD,Bottom,2008.0,GHG,5584378.757476,TON
-Pollutant,Carbon Monoxide,CO,SD,Bottom,2008.0,GHG,117001.799635007,TON
-Pollutant,Chromium (VI),Cr VI,SD,Bottom,2008.0,Health,73.639824975562,LB
-Pollutant,Manganese,Mn,SD,Bottom,2008.0,Health,43.3050292252,LB
-Pollutant,Mercury,Hg,SD,Bottom,2008.0,Health,2.08234462945718,LB
-Pollutant,Methane,CH4,SD,Bottom,2008.0,GHG,561.507045027976,TON
-Pollutant,Nickel,Ni,SD,Bottom,2008.0,Health,88.63647382742,LB
-Pollutant,Nitrogen Oxides,NOx,SD,Bottom,2008.0,Health,26018.52896271,TON
-Pollutant,Nitrous Oxide,N2O,SD,Bottom,2008.0,GHG,235.128563998499,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,Bottom,2008.0,Health,1175.64394348417,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,Bottom,2008.0,Health,964.233790102176,TON
-Pollutant,Sulfur Dioxide,SO2,SD,Bottom,2008.0,Health,100.04322034336,TON
-Pollutant,Volatile Organic Compounds,VOC,SD,Bottom,2008.0,Health,10299.7440308814,TON
-Pollutant,Carbon Dioxide,CO2,VT,Top,2011.0,GHG,3707364.149799,TON
-Pollutant,Carbon Monoxide,CO,VT,Top,2011.0,GHG,49036.0875656,TON
-Pollutant,Chromium (VI),Cr VI,VT,Top,2011.0,Health,0.1910404716726,LB
-Pollutant,Manganese,Mn,VT,Top,2011.0,Health,24.54333544894,LB
-Pollutant,Mercury,Hg,VT,Top,2011.0,Health,1.7895516877122,LB
-Pollutant,Methane,CH4,VT,Top,2011.0,GHG,228.2308848993,TON
-Pollutant,Nickel,Ni,VT,Top,2011.0,Health,30.59961553694,LB
-Pollutant,Nitrogen Oxides,NOx,VT,Top,2011.0,Health,10807.53871752,TON
-Pollutant,Nitrous Oxide,N2O,VT,Top,2011.0,GHG,130.6489655135,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,Top,2011.0,Health,705.3815906732,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Top,2011.0,Health,404.8311313297,TON
-Pollutant,Sulfur Dioxide,SO2,VT,Top,2011.0,Health,65.44457548712,TON
-Pollutant,Volatile Organic Compounds,VOC,VT,Top,2011.0,Health,5304.60128857,TON
-Pollutant,Carbon Dioxide,CO2,MA,Top,2011.0,GHG,28238448.4560221,TON
-Pollutant,Carbon Monoxide,CO,MA,Top,2011.0,GHG,327615.26754188,TON
-Pollutant,Chromium (VI),Cr VI,MA,Top,2011.0,Health,1.439632403322964,LB
-Pollutant,Manganese,Mn,MA,Top,2011.0,Health,179.2172829708178,LB
-Pollutant,Mercury,Hg,MA,Top,2011.0,Health,13.72596281341604,LB
-Pollutant,Methane,CH4,MA,Top,2011.0,GHG,1164.988396689,TON
-Pollutant,Nickel,Ni,MA,Top,2011.0,Health,219.16477547272285,LB
-Pollutant,Nitrogen Oxides,NOx,MA,Top,2011.0,Health,60818.863531767,TON
-Pollutant,Nitrous Oxide,N2O,MA,Top,2011.0,GHG,1070.25467538686,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,Top,2011.0,Health,5861.3824260332,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Top,2011.0,Health,2615.75824101357,TON
-Pollutant,Sulfur Dioxide,SO2,MA,Top,2011.0,Health,524.45000295854,TON
-Pollutant,Volatile Organic Compounds,VOC,MA,Top,2011.0,Health,34311.396383439,TON
-Pollutant,Carbon Dioxide,CO2,MD,Top,2011.0,GHG,30521013.08487,TON
-Pollutant,Carbon Monoxide,CO,MD,Top,2011.0,GHG,369069.397945,TON
-Pollutant,Chromium (VI),Cr VI,MD,Top,2011.0,Health,1.49527336711592,LB
-Pollutant,Manganese,Mn,MD,Top,2011.0,Health,193.230920980128,LB
-Pollutant,Mercury,Hg,MD,Top,2011.0,Health,13.953751731507,LB
-Pollutant,Methane,CH4,MD,Top,2011.0,GHG,1328.348555801,TON
-Pollutant,Nickel,Ni,MD,Top,2011.0,Health,241.863781383374,LB
-Pollutant,Nitrogen Oxides,NOx,MD,Top,2011.0,Health,81571.87412887,TON
-Pollutant,Nitrous Oxide,N2O,MD,Top,2011.0,GHG,1005.6521192149,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,Top,2011.0,Health,5533.881117717,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Top,2011.0,Health,2810.7775023023,TON
-Pollutant,Sulfur Dioxide,SO2,MD,Top,2011.0,Health,545.4880303327,TON
-Pollutant,Volatile Organic Compounds,VOC,MD,Top,2011.0,Health,36718.94481265,TON
-Pollutant,Carbon Dioxide,CO2,VA,Top,2011.0,GHG,40902090.22059529,TON
-Pollutant,Carbon Monoxide,CO,VA,Top,2011.0,GHG,566930.147371022,TON
-Pollutant,Chromium (VI),Cr VI,VA,Top,2011.0,Health,2.245118040627291,LB
-Pollutant,Manganese,Mn,VA,Top,2011.0,Health,295.77334794974126,LB
-Pollutant,Mercury,Hg,VA,Top,2011.0,Health,20.811980975666216,LB
-Pollutant,Methane,CH4,VA,Top,2011.0,GHG,2188.32559599549,TON
-Pollutant,Nickel,Ni,VA,Top,2011.0,Health,374.2810768214407,LB
-Pollutant,Nitrogen Oxides,NOx,VA,Top,2011.0,Health,145761.7956832654,TON
-Pollutant,Nitrous Oxide,N2O,VA,Top,2011.0,GHG,1653.878446614806,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,Top,2011.0,Health,7214.79576928871,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Top,2011.0,Health,4395.05155048876,TON
-Pollutant,Sulfur Dioxide,SO2,VA,Top,2011.0,Health,712.7454427028119,TON
-Pollutant,Volatile Organic Compounds,VOC,VA,Top,2011.0,Health,63850.0823854732,TON
-Pollutant,Carbon Dioxide,CO2,WV,Bottom,2011.0,GHG,10631304.234536,TON
-Pollutant,Carbon Monoxide,CO,WV,Bottom,2011.0,GHG,185578.55902253,TON
-Pollutant,Chromium (VI),Cr VI,WV,Bottom,2011.0,Health,0.480378098873438,LB
-Pollutant,Manganese,Mn,WV,Bottom,2011.0,Health,66.1617906928082,LB
-Pollutant,Mercury,Hg,WV,Bottom,2011.0,Health,4.3289018912915,LB
-Pollutant,Methane,CH4,WV,Bottom,2011.0,GHG,689.1972568718,TON
-Pollutant,Nickel,Ni,WV,Bottom,2011.0,Health,85.8708873986422,LB
-Pollutant,Nitrogen Oxides,NOx,WV,Bottom,2011.0,Health,41879.391652859,TON
-Pollutant,Nitrous Oxide,N2O,WV,Bottom,2011.0,GHG,462.65540789141,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,Bottom,2011.0,Health,2201.8280774432,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,Bottom,2011.0,Health,1287.2693786319,TON
-Pollutant,Sulfur Dioxide,SO2,WV,Bottom,2011.0,Health,179.53273932433,TON
-Pollutant,Volatile Organic Compounds,VOC,WV,Bottom,2011.0,Health,20759.033755888,TON
-Pollutant,Carbon Dioxide,CO2,AL,Bottom,2011.0,GHG,40302510.906096,TON
-Pollutant,Carbon Monoxide,CO,AL,Bottom,2011.0,GHG,701777.6914722,TON
-Pollutant,Chromium (VI),Cr VI,AL,Bottom,2011.0,Health,1.74908148644458,LB
-Pollutant,Manganese,Mn,AL,Bottom,2011.0,Health,243.22319745426,LB
-Pollutant,Mercury,Hg,AL,Bottom,2011.0,Health,15.6803981952544,LB
-Pollutant,Methane,CH4,AL,Bottom,2011.0,GHG,2120.5577369342,TON
-Pollutant,Nickel,Ni,AL,Bottom,2011.0,Health,317.290485638906,LB
-Pollutant,Nitrogen Oxides,NOx,AL,Bottom,2011.0,Health,152745.4848092,TON
-Pollutant,Nitrous Oxide,N2O,AL,Bottom,2011.0,GHG,1554.2298204397,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,Bottom,2011.0,Health,8511.490015747,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Bottom,2011.0,Health,4685.0614899438,TON
-Pollutant,Sulfur Dioxide,SO2,AL,Bottom,2011.0,Health,683.0679618073,TON
-Pollutant,Volatile Organic Compounds,VOC,AL,Bottom,2011.0,Health,76388.35631317,TON
-Pollutant,Carbon Dioxide,CO2,KY,Bottom,2011.0,GHG,29756708.4509172,TON
-Pollutant,Carbon Monoxide,CO,KY,Bottom,2011.0,GHG,498980.44622476,TON
-Pollutant,Chromium (VI),Cr VI,KY,Bottom,2011.0,Health,1.32665133821504,LB
-Pollutant,Manganese,Mn,KY,Bottom,2011.0,Health,183.6560275003026,LB
-Pollutant,Mercury,Hg,KY,Bottom,2011.0,Health,11.924079436536,LB
-Pollutant,Methane,CH4,KY,Bottom,2011.0,GHG,1710.21073912578,TON
-Pollutant,Nickel,Ni,KY,Bottom,2011.0,Health,239.0096674359972,LB
-Pollutant,Nitrogen Oxides,NOx,KY,Bottom,2011.0,Health,115640.847780276,TON
-Pollutant,Nitrous Oxide,N2O,KY,Bottom,2011.0,GHG,1138.95641463607,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,Bottom,2011.0,Health,5786.2615433202,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Bottom,2011.0,Health,3390.32763697498,TON
-Pollutant,Sulfur Dioxide,SO2,KY,Bottom,2011.0,Health,503.15653176242,TON
-Pollutant,Volatile Organic Compounds,VOC,KY,Bottom,2011.0,Health,50934.122835138,TON
-Pollutant,Carbon Dioxide,CO2,MI,Bottom,2011.0,GHG,53515173.1689442,TON
-Pollutant,Carbon Monoxide,CO,MI,Bottom,2011.0,GHG,1047726.29264573,TON
-Pollutant,Chromium (VI),Cr VI,MI,Bottom,2011.0,Health,2.627776462999336,LB
-Pollutant,Manganese,Mn,MI,Bottom,2011.0,Health,343.35067451296743,LB
-Pollutant,Mercury,Hg,MI,Bottom,2011.0,Health,24.45399009400734,LB
-Pollutant,Methane,CH4,MI,Bottom,2011.0,GHG,3466.26222260445,TON
-Pollutant,Nickel,Ni,MI,Bottom,2011.0,Health,432.3407402897452,LB
-Pollutant,Nitrogen Oxides,NOx,MI,Bottom,2011.0,Health,194730.386067826,TON
-Pollutant,Nitrous Oxide,N2O,MI,Bottom,2011.0,GHG,2193.10060149956,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,Bottom,2011.0,Health,10972.237552224,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Bottom,2011.0,Health,6293.2473193936,TON
-Pollutant,Sulfur Dioxide,SO2,MI,Bottom,2011.0,Health,955.16349711469,TON
-Pollutant,Volatile Organic Compounds,VOC,MI,Bottom,2011.0,Health,106976.4794677,TON
-Pollutant,Carbon Dioxide,CO2,LA,Bottom,2011.0,GHG,29232056.132908,TON
-Pollutant,Carbon Monoxide,CO,LA,Bottom,2011.0,GHG,464443.2790744,TON
-Pollutant,Chromium (VI),Cr VI,LA,Bottom,2011.0,Health,1.24753619371542,LB
-Pollutant,Manganese,Mn,LA,Bottom,2011.0,Health,169.31715184610601,LB
-Pollutant,Mercury,Hg,LA,Bottom,2011.0,Health,11.3262281839094,LB
-Pollutant,Methane,CH4,LA,Bottom,2011.0,GHG,1447.6104717023,TON
-Pollutant,Nickel,Ni,LA,Bottom,2011.0,Health,218.0160755684906,LB
-Pollutant,Nitrogen Oxides,NOx,LA,Bottom,2011.0,Health,94078.36668512,TON
-Pollutant,Nitrous Oxide,N2O,LA,Bottom,2011.0,GHG,1095.5870044347,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,Bottom,2011.0,Health,5906.5932202272,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Bottom,2011.0,Health,2983.7396701509,TON
-Pollutant,Sulfur Dioxide,SO2,LA,Bottom,2011.0,Health,505.63172775111997,TON
-Pollutant,Volatile Organic Compounds,VOC,LA,Bottom,2011.0,Health,48655.625340086,TON
-Pollutant,Carbon Dioxide,CO2,AR,Bottom,2011.0,GHG,22555450.554002,TON
-Pollutant,Carbon Monoxide,CO,AR,Bottom,2011.0,GHG,330470.6313199,TON
-Pollutant,Chromium (VI),Cr VI,AR,Bottom,2011.0,Health,0.89316654691306,LB
-Pollutant,Manganese,Mn,AR,Bottom,2011.0,Health,132.064139817452,LB
-Pollutant,Mercury,Hg,AR,Bottom,2011.0,Health,7.7118346421534,LB
-Pollutant,Methane,CH4,AR,Bottom,2011.0,GHG,1281.9398613646,TON
-Pollutant,Nickel,Ni,AR,Bottom,2011.0,Health,177.7422107278158,LB
-Pollutant,Nitrogen Oxides,NOx,AR,Bottom,2011.0,Health,91215.33691246,TON
-Pollutant,Nitrous Oxide,N2O,AR,Bottom,2011.0,GHG,746.4205884792,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,Bottom,2011.0,Health,4971.1266345522,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Bottom,2011.0,Health,2981.0985308907,TON
-Pollutant,Sulfur Dioxide,SO2,AR,Bottom,2011.0,Health,360.1257767738,TON
-Pollutant,Volatile Organic Compounds,VOC,AR,Bottom,2011.0,Health,35406.516200549,TON
-Pollutant,Carbon Dioxide,CO2,OK,Bottom,2011.0,GHG,30593845.915625,TON
-Pollutant,Carbon Monoxide,CO,OK,Bottom,2011.0,GHG,516140.83265636,TON
-Pollutant,Chromium (VI),Cr VI,OK,Bottom,2011.0,Health,1.278069291228436,LB
-Pollutant,Manganese,Mn,OK,Bottom,2011.0,Health,178.609176399922,LB
-Pollutant,Mercury,Hg,OK,Bottom,2011.0,Health,11.41653725368528,LB
-Pollutant,Methane,CH4,OK,Bottom,2011.0,GHG,1683.9755758717,TON
-Pollutant,Nickel,Ni,OK,Bottom,2011.0,Health,233.630938564396,LB
-Pollutant,Nitrogen Oxides,NOx,OK,Bottom,2011.0,Health,115105.48620213,TON
-Pollutant,Nitrous Oxide,N2O,OK,Bottom,2011.0,GHG,1199.06371644493,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,Bottom,2011.0,Health,6566.0627994597,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Bottom,2011.0,Health,3555.0147365668,TON
-Pollutant,Sulfur Dioxide,SO2,OK,Bottom,2011.0,Health,515.51709502037,TON
-Pollutant,Volatile Organic Compounds,VOC,OK,Bottom,2011.0,Health,54975.239752283,TON
-Pollutant,Carbon Dioxide,CO2,CA,Top,2011.0,GHG,184193673.676241,TON
-Pollutant,Carbon Monoxide,CO,CA,Top,2011.0,GHG,1586343.71094015,TON
-Pollutant,Chromium (VI),Cr VI,CA,Top,2011.0,Health,367.8490329853344,LB
-Pollutant,Manganese,Mn,CA,Top,2011.0,Health,558.548888644626,LB
-Pollutant,Mercury,Hg,CA,Top,2011.0,Health,152.8261031661862,LB
-Pollutant,Methane,CH4,CA,Top,2011.0,GHG,4755.38816964444,TON
-Pollutant,Nickel,Ni,CA,Top,2011.0,Health,1066.833244750321,LB
-Pollutant,Nitrogen Oxides,NOx,CA,Top,2011.0,Health,413442.215799498,TON
-Pollutant,Nitrous Oxide,N2O,CA,Top,2011.0,GHG,7958.30471783619,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,Top,2011.0,Health,29195.47105127989,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,Top,2011.0,Health,16568.80417497903,TON
-Pollutant,Sulfur Dioxide,SO2,CA,Top,2011.0,Health,1976.90971341276,TON
-Pollutant,Volatile Organic Compounds,VOC,CA,Top,2011.0,Health,172028.306392648,TON
-Pollutant,Carbon Dioxide,CO2,WA,Top,2011.0,GHG,36121182.386709,TON
-Pollutant,Carbon Monoxide,CO,WA,Top,2011.0,GHG,809244.5357848901,TON
-Pollutant,Chromium (VI),Cr VI,WA,Top,2011.0,Health,1.540637423433632,LB
-Pollutant,Manganese,Mn,WA,Top,2011.0,Health,215.831623812778,LB
-Pollutant,Mercury,Hg,WA,Top,2011.0,Health,13.7937719455664,LB
-Pollutant,Methane,CH4,WA,Top,2011.0,GHG,2448.0193051922,TON
-Pollutant,Nickel,Ni,WA,Top,2011.0,Health,282.5849767129444,LB
-Pollutant,Nitrogen Oxides,NOx,WA,Top,2011.0,Health,163897.755038987,TON
-Pollutant,Nitrous Oxide,N2O,WA,Top,2011.0,GHG,1900.07922101024,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,Top,2011.0,Health,9406.8173375893,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Top,2011.0,Health,5389.6990374392,TON
-Pollutant,Sulfur Dioxide,SO2,WA,Top,2011.0,Health,618.4130270941,TON
-Pollutant,Volatile Organic Compounds,VOC,WA,Top,2011.0,Health,77859.741481864,TON
-Pollutant,Carbon Dioxide,CO2,OR,Top,2011.0,GHG,19046666.950371,TON
-Pollutant,Carbon Monoxide,CO,OR,Top,2011.0,GHG,427977.0551146,TON
-Pollutant,Chromium (VI),Cr VI,OR,Top,2011.0,Health,0.8829130633696081,LB
-Pollutant,Manganese,Mn,OR,Top,2011.0,Health,117.111028949026,LB
-Pollutant,Mercury,Hg,OR,Top,2011.0,Health,8.1344553875906,LB
-Pollutant,Methane,CH4,OR,Top,2011.0,GHG,1277.7006922007,TON
-Pollutant,Nickel,Ni,OR,Top,2011.0,Health,148.831063576637,LB
-Pollutant,Nitrogen Oxides,NOx,OR,Top,2011.0,Health,80981.220301646,TON
-Pollutant,Nitrous Oxide,N2O,OR,Top,2011.0,GHG,1164.9210323361,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,Top,2011.0,Health,4411.3999911161,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Top,2011.0,Health,2440.4553256853,TON
-Pollutant,Sulfur Dioxide,SO2,OR,Top,2011.0,Health,333.05351184913,TON
-Pollutant,Volatile Organic Compounds,VOC,OR,Top,2011.0,Health,45206.58223254,TON
-Pollutant,Carbon Dioxide,CO2,HI,Top,2011.0,GHG,5549074.45682,TON
-Pollutant,Carbon Monoxide,CO,HI,Top,2011.0,GHG,109427.8825125,TON
-Pollutant,Chromium (VI),Cr VI,HI,Top,2011.0,Health,0.25851783589222,LB
-Pollutant,Manganese,Mn,HI,Top,2011.0,Health,31.898729443408,LB
-Pollutant,Mercury,Hg,HI,Top,2011.0,Health,2.46997843158,LB
-Pollutant,Methane,CH4,HI,Top,2011.0,GHG,280.877439803,TON
-Pollutant,Nickel,Ni,HI,Top,2011.0,Health,38.80171386307,LB
-Pollutant,Nitrogen Oxides,NOx,HI,Top,2011.0,Health,15503.36819178,TON
-Pollutant,Nitrous Oxide,N2O,HI,Top,2011.0,GHG,302.5562184138,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,Top,2011.0,Health,305.2216672984,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Top,2011.0,Health,276.5932788502,TON
-Pollutant,Sulfur Dioxide,SO2,HI,Top,2011.0,Health,102.4887215103,TON
-Pollutant,Volatile Organic Compounds,VOC,HI,Top,2011.0,Health,11180.23793539,TON
-Pollutant,Carbon Dioxide,CO2,CO,Top,2011.0,GHG,27874763.077562,TON
-Pollutant,Carbon Monoxide,CO,CO,Top,2011.0,GHG,582060.39287358,TON
-Pollutant,Chromium (VI),Cr VI,CO,Top,2011.0,Health,1.245312255488098,LB
-Pollutant,Manganese,Mn,CO,Top,2011.0,Health,162.5899593710652,LB
-Pollutant,Mercury,Hg,CO,Top,2011.0,Health,11.56242075016608,LB
-Pollutant,Methane,CH4,CO,Top,2011.0,GHG,1902.55452641937,TON
-Pollutant,Nickel,Ni,CO,Top,2011.0,Health,204.76067786488295,LB
-Pollutant,Nitrogen Oxides,NOx,CO,Top,2011.0,Health,105790.317986219,TON
-Pollutant,Nitrous Oxide,N2O,CO,Top,2011.0,GHG,1377.6395168409,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,Top,2011.0,Health,6188.4687100806,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Top,2011.0,Health,3172.96513653436,TON
-Pollutant,Sulfur Dioxide,SO2,CO,Top,2011.0,Health,496.597526163424,TON
-Pollutant,Volatile Organic Compounds,VOC,CO,Top,2011.0,Health,57198.9665926799,TON
-Pollutant,Carbon Dioxide,CO2,NV,Top,2011.0,GHG,15612918.844922,TON
-Pollutant,Carbon Monoxide,CO,NV,Top,2011.0,GHG,258112.1977471,TON
-Pollutant,Chromium (VI),Cr VI,NV,Top,2011.0,Health,0.67717153580976,LB
-Pollutant,Manganese,Mn,NV,Top,2011.0,Health,89.002085475332,LB
-Pollutant,Mercury,Hg,NV,Top,2011.0,Health,6.264685511207,LB
-Pollutant,Methane,CH4,NV,Top,2011.0,GHG,771.1588567586,TON
-Pollutant,Nickel,Ni,NV,Top,2011.0,Health,112.51248503553019,LB
-Pollutant,Nitrogen Oxides,NOx,NV,Top,2011.0,Health,56022.07555805,TON
-Pollutant,Nitrous Oxide,N2O,NV,Top,2011.0,GHG,590.30932103461,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,Top,2011.0,Health,3421.4762305996,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Top,2011.0,Health,1625.441724232,TON
-Pollutant,Sulfur Dioxide,SO2,NV,Top,2011.0,Health,272.19461966662,TON
-Pollutant,Volatile Organic Compounds,VOC,NV,Top,2011.0,Health,24209.495075138,TON
-Pollutant,Carbon Dioxide,CO2,ND,Bottom,2011.0,GHG,5916956.607232,TON
-Pollutant,Carbon Monoxide,CO,ND,Bottom,2011.0,GHG,111214.35340797,TON
-Pollutant,Chromium (VI),Cr VI,ND,Bottom,2011.0,Health,0.247572570357006,LB
-Pollutant,Manganese,Mn,ND,Bottom,2011.0,Health,36.1949079118978,LB
-Pollutant,Mercury,Hg,ND,Bottom,2011.0,Health,2.15320938053128,LB
-Pollutant,Methane,CH4,ND,Bottom,2011.0,GHG,414.83296437954,TON
-Pollutant,Nickel,Ni,ND,Bottom,2011.0,Health,48.4448546508918,LB
-Pollutant,Nitrogen Oxides,NOx,ND,Bottom,2011.0,Health,26420.107275484,TON
-Pollutant,Nitrous Oxide,N2O,ND,Bottom,2011.0,GHG,226.11964213058,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,Bottom,2011.0,Health,1450.7161746013,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,Bottom,2011.0,Health,941.491919404,TON
-Pollutant,Sulfur Dioxide,SO2,ND,Bottom,2011.0,Health,96.77564247359,TON
-Pollutant,Volatile Organic Compounds,VOC,ND,Bottom,2011.0,Health,11719.239631813,TON
-Pollutant,Carbon Dioxide,CO2,WY,Bottom,2011.0,GHG,6695263.951498,TON
-Pollutant,Carbon Monoxide,CO,WY,Bottom,2011.0,GHG,111918.9571022,TON
-Pollutant,Chromium (VI),Cr VI,WY,Bottom,2011.0,Health,0.252639118536896,LB
-Pollutant,Manganese,Mn,WY,Bottom,2011.0,Health,39.284509588956,LB
-Pollutant,Mercury,Hg,WY,Bottom,2011.0,Health,2.1112981824248,LB
-Pollutant,Methane,CH4,WY,Bottom,2011.0,GHG,496.0136882174,TON
-Pollutant,Nickel,Ni,WY,Bottom,2011.0,Health,54.1277737052722,LB
-Pollutant,Nitrogen Oxides,NOx,WY,Bottom,2011.0,Health,35103.0342445,TON
-Pollutant,Nitrous Oxide,N2O,WY,Bottom,2011.0,GHG,219.8467043057,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,Bottom,2011.0,Health,1644.46569909,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Bottom,2011.0,Health,1107.4798277728,TON
-Pollutant,Sulfur Dioxide,SO2,WY,Bottom,2011.0,Health,102.78274572993,TON
-Pollutant,Volatile Organic Compounds,VOC,WY,Bottom,2011.0,Health,11742.413857581,TON
-Pollutant,Carbon Dioxide,CO2,SD,Bottom,2011.0,GHG,5652567.4546529,TON
-Pollutant,Carbon Monoxide,CO,SD,Bottom,2011.0,GHG,128983.70142176,TON
-Pollutant,Chromium (VI),Cr VI,SD,Bottom,2011.0,Health,0.24309796212787,LB
-Pollutant,Manganese,Mn,SD,Bottom,2011.0,Health,33.9966042441894,LB
-Pollutant,Mercury,Hg,SD,Bottom,2011.0,Health,2.17389539215144,LB
-Pollutant,Methane,CH4,SD,Bottom,2011.0,GHG,468.69602518423,TON
-Pollutant,Nickel,Ni,SD,Bottom,2011.0,Health,44.47994629987018,LB
-Pollutant,Nitrogen Oxides,NOx,SD,Bottom,2011.0,Health,26525.074882571,TON
-Pollutant,Nitrous Oxide,N2O,SD,Bottom,2011.0,GHG,288.00712264439,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,Bottom,2011.0,Health,1281.3954282388,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,Bottom,2011.0,Health,818.94553583547,TON
-Pollutant,Sulfur Dioxide,SO2,SD,Bottom,2011.0,Health,95.399377002389,TON
-Pollutant,Volatile Organic Compounds,VOC,SD,Bottom,2011.0,Health,13920.3859391539,TON
-Pollutant,Carbon Dioxide,CO2,VT,Top,2014.0,GHG,3900878.96137579,TON
-Pollutant,Carbon Monoxide,CO,VT,Top,2014.0,GHG,47145.560440082,TON
-Pollutant,Chromium (VI),Cr VI,VT,Top,2014.0,Health,0.186566147262468,LB
-Pollutant,Manganese,Mn,VT,Top,2014.0,Health,107.15047002989961,LB
-Pollutant,Mercury,Hg,VT,Top,2014.0,Health,1.7595129725799161,LB
-Pollutant,Methane,CH4,VT,Top,2014.0,GHG,186.50966217456,TON
-Pollutant,Nickel,Ni,VT,Top,2014.0,Health,28.52715360119328,LB
-Pollutant,Nitrogen Oxides,NOx,VT,Top,2014.0,Health,7618.9837748375,TON
-Pollutant,Nitrous Oxide,N2O,VT,Top,2014.0,GHG,109.03109125937,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,Top,2014.0,Health,683.2890245144,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Top,2014.0,Health,315.67840186947,TON
-Pollutant,Sulfur Dioxide,SO2,VT,Top,2014.0,Health,80.938929935389,TON
-Pollutant,Volatile Organic Compounds,VOC,VT,Top,2014.0,Health,4523.2760111604,TON
-Pollutant,Carbon Dioxide,CO2,MA,Top,2014.0,GHG,28297192.4368139,TON
-Pollutant,Carbon Monoxide,CO,MA,Top,2014.0,GHG,312802.92207132,TON
-Pollutant,Chromium (VI),Cr VI,MA,Top,2014.0,Health,1.442371962850786,LB
-Pollutant,Manganese,Mn,MA,Top,2014.0,Health,759.57328896433,LB
-Pollutant,Mercury,Hg,MA,Top,2014.0,Health,13.9771171384729,LB
-Pollutant,Methane,CH4,MA,Top,2014.0,GHG,1093.761586106,TON
-Pollutant,Nickel,Ni,MA,Top,2014.0,Health,202.950073926985,LB
-Pollutant,Nitrogen Oxides,NOx,MA,Top,2014.0,Health,44728.953092188,TON
-Pollutant,Nitrous Oxide,N2O,MA,Top,2014.0,GHG,845.15772817713,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,Top,2014.0,Health,4282.2342590867,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Top,2014.0,Health,1726.23280518167,TON
-Pollutant,Sulfur Dioxide,SO2,MA,Top,2014.0,Health,554.977112807561,TON
-Pollutant,Volatile Organic Compounds,VOC,MA,Top,2014.0,Health,29365.429359141,TON
-Pollutant,Carbon Dioxide,CO2,MD,Top,2014.0,GHG,31508434.584902,TON
-Pollutant,Carbon Monoxide,CO,MD,Top,2014.0,GHG,369937.62773515,TON
-Pollutant,Chromium (VI),Cr VI,MD,Top,2014.0,Health,1.4857849546800599,LB
-Pollutant,Manganese,Mn,MD,Top,2014.0,Health,807.528097972388,LB
-Pollutant,Mercury,Hg,MD,Top,2014.0,Health,13.7418749989218,LB
-Pollutant,Methane,CH4,MD,Top,2014.0,GHG,1264.0525103926,TON
-Pollutant,Nickel,Ni,MD,Top,2014.0,Health,239.812626293042,LB
-Pollutant,Nitrogen Oxides,NOx,MD,Top,2014.0,Health,73231.697216762,TON
-Pollutant,Nitrous Oxide,N2O,MD,Top,2014.0,GHG,876.25028712779,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,Top,2014.0,Health,5510.9964505924,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Top,2014.0,Health,2743.69470815365,TON
-Pollutant,Sulfur Dioxide,SO2,MD,Top,2014.0,Health,536.65986238165,TON
-Pollutant,Volatile Organic Compounds,VOC,MD,Top,2014.0,Health,33808.090196955,TON
-Pollutant,Carbon Dioxide,CO2,VA,Top,2014.0,GHG,46861751.05825988,TON
-Pollutant,Carbon Monoxide,CO,VA,Top,2014.0,GHG,704749.813897971,TON
-Pollutant,Chromium (VI),Cr VI,VA,Top,2014.0,Health,2.225244285497776,LB
-Pollutant,Manganese,Mn,VA,Top,2014.0,Health,1081.417068273166,LB
-Pollutant,Mercury,Hg,VA,Top,2014.0,Health,20.53983794444421,LB
-Pollutant,Methane,CH4,VA,Top,2014.0,GHG,2015.718485961085,TON
-Pollutant,Nickel,Ni,VA,Top,2014.0,Health,365.72574008370856,LB
-Pollutant,Nitrogen Oxides,NOx,VA,Top,2014.0,Health,132762.4133965295,TON
-Pollutant,Nitrous Oxide,N2O,VA,Top,2014.0,GHG,1520.226227597543,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,Top,2014.0,Health,7703.19282915304,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Top,2014.0,Health,4021.517432593442,TON
-Pollutant,Sulfur Dioxide,SO2,VA,Top,2014.0,Health,849.916776594884,TON
-Pollutant,Volatile Organic Compounds,VOC,VA,Top,2014.0,Health,65139.8075935395,TON
-Pollutant,Carbon Dioxide,CO2,WV,Bottom,2014.0,GHG,11654260.91559178,TON
-Pollutant,Carbon Monoxide,CO,WV,Bottom,2014.0,GHG,173600.720162288,TON
-Pollutant,Chromium (VI),Cr VI,WV,Bottom,2014.0,Health,0.5201910873502198,LB
-Pollutant,Manganese,Mn,WV,Bottom,2014.0,Health,225.1547044579936,LB
-Pollutant,Mercury,Hg,WV,Bottom,2014.0,Health,4.527643922756438,LB
-Pollutant,Methane,CH4,WV,Bottom,2014.0,GHG,641.98215131763,TON
-Pollutant,Nickel,Ni,WV,Bottom,2014.0,Health,98.13897865720485,LB
-Pollutant,Nitrogen Oxides,NOx,WV,Bottom,2014.0,Health,40879.7315886615,TON
-Pollutant,Nitrous Oxide,N2O,WV,Bottom,2014.0,GHG,357.803744570791,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,Bottom,2014.0,Health,2122.1407267642,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,Bottom,2014.0,Health,1336.7464288654419,TON
-Pollutant,Sulfur Dioxide,SO2,WV,Bottom,2014.0,Health,175.68068049820099,TON
-Pollutant,Volatile Organic Compounds,VOC,WV,Bottom,2014.0,Health,17352.6740786748,TON
-Pollutant,Carbon Dioxide,CO2,AL,Bottom,2014.0,GHG,39592791.4935562,TON
-Pollutant,Carbon Monoxide,CO,AL,Bottom,2014.0,GHG,716553.709592037,TON
-Pollutant,Chromium (VI),Cr VI,AL,Bottom,2014.0,Health,1.73979176974456,LB
-Pollutant,Manganese,Mn,AL,Bottom,2014.0,Health,933.9187767711236,LB
-Pollutant,Mercury,Hg,AL,Bottom,2014.0,Health,15.57191095756918,LB
-Pollutant,Methane,CH4,AL,Bottom,2014.0,GHG,2014.72730745807,TON
-Pollutant,Nickel,Ni,AL,Bottom,2014.0,Health,307.2620427337796,LB
-Pollutant,Nitrogen Oxides,NOx,AL,Bottom,2014.0,Health,129445.4644821848,TON
-Pollutant,Nitrous Oxide,N2O,AL,Bottom,2014.0,GHG,1361.93349922344,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,Bottom,2014.0,Health,7149.4518843642,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Bottom,2014.0,Health,3918.739084032363,TON
-Pollutant,Sulfur Dioxide,SO2,AL,Bottom,2014.0,Health,723.786686989621,TON
-Pollutant,Volatile Organic Compounds,VOC,AL,Bottom,2014.0,Health,67278.3247585647,TON
-Pollutant,Carbon Dioxide,CO2,KY,Bottom,2014.0,GHG,29372673.1805198,TON
-Pollutant,Carbon Monoxide,CO,KY,Bottom,2014.0,GHG,486485.715909936,TON
-Pollutant,Chromium (VI),Cr VI,KY,Bottom,2014.0,Health,1.274554821035658,LB
-Pollutant,Manganese,Mn,KY,Bottom,2014.0,Health,627.028141667184,LB
-Pollutant,Mercury,Hg,KY,Bottom,2014.0,Health,11.181619548725,LB
-Pollutant,Methane,CH4,KY,Bottom,2014.0,GHG,1686.25600810174,TON
-Pollutant,Nickel,Ni,KY,Bottom,2014.0,Health,237.889958343797,LB
-Pollutant,Nitrogen Oxides,NOx,KY,Bottom,2014.0,Health,104469.837141753,TON
-Pollutant,Nitrous Oxide,N2O,KY,Bottom,2014.0,GHG,1001.42946229015,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,Bottom,2014.0,Health,5510.77539788878,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Bottom,2014.0,Health,3321.92356830126,TON
-Pollutant,Sulfur Dioxide,SO2,KY,Bottom,2014.0,Health,411.661298168974,TON
-Pollutant,Volatile Organic Compounds,VOC,KY,Bottom,2014.0,Health,47420.4392568957,TON
-Pollutant,Carbon Dioxide,CO2,MI,Bottom,2014.0,GHG,50093185.20448589,TON
-Pollutant,Carbon Monoxide,CO,MI,Bottom,2014.0,GHG,842202.038577289,TON
-Pollutant,Chromium (VI),Cr VI,MI,Bottom,2014.0,Health,2.5312640659128727,LB
-Pollutant,Manganese,Mn,MI,Bottom,2014.0,Health,1160.9827666543024,LB
-Pollutant,Mercury,Hg,MI,Bottom,2014.0,Health,23.819876351823844,LB
-Pollutant,Methane,CH4,MI,Bottom,2014.0,GHG,2970.52559406731,TON
-Pollutant,Nickel,Ni,MI,Bottom,2014.0,Health,394.0719758528661,LB
-Pollutant,Nitrogen Oxides,NOx,MI,Bottom,2014.0,Health,134323.1588523741,TON
-Pollutant,Nitrous Oxide,N2O,MI,Bottom,2014.0,GHG,1745.529028848024,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,Bottom,2014.0,Health,8440.42507489433,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Bottom,2014.0,Health,4462.843411047051,TON
-Pollutant,Sulfur Dioxide,SO2,MI,Bottom,2014.0,Health,745.4616755226692,TON
-Pollutant,Volatile Organic Compounds,VOC,MI,Bottom,2014.0,Health,84777.2815342707,TON
-Pollutant,Carbon Dioxide,CO2,LA,Bottom,2014.0,GHG,32084576.3781193,TON
-Pollutant,Carbon Monoxide,CO,LA,Bottom,2014.0,GHG,418958.488622838,TON
-Pollutant,Chromium (VI),Cr VI,LA,Bottom,2014.0,Health,1.27119326805139,LB
-Pollutant,Manganese,Mn,LA,Bottom,2014.0,Health,743.026748700714,LB
-Pollutant,Mercury,Hg,LA,Bottom,2014.0,Health,10.84319668056704,LB
-Pollutant,Methane,CH4,LA,Bottom,2014.0,GHG,1586.11776342373,TON
-Pollutant,Nickel,Ni,LA,Bottom,2014.0,Health,246.9531777161856,LB
-Pollutant,Nitrogen Oxides,NOx,LA,Bottom,2014.0,Health,96957.1140617948,TON
-Pollutant,Nitrous Oxide,N2O,LA,Bottom,2014.0,GHG,867.41268933787,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,Bottom,2014.0,Health,5879.61809067414,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Bottom,2014.0,Health,3307.02958328833,TON
-Pollutant,Sulfur Dioxide,SO2,LA,Bottom,2014.0,Health,568.3072469528,TON
-Pollutant,Volatile Organic Compounds,VOC,LA,Bottom,2014.0,Health,40102.6487108005,TON
-Pollutant,Carbon Dioxide,CO2,AR,Bottom,2014.0,GHG,22397857.892422,TON
-Pollutant,Carbon Monoxide,CO,AR,Bottom,2014.0,GHG,333500.41174712,TON
-Pollutant,Chromium (VI),Cr VI,AR,Bottom,2014.0,Health,0.90232951094928,LB
-Pollutant,Manganese,Mn,AR,Bottom,2014.0,Health,446.152268579928,LB
-Pollutant,Mercury,Hg,AR,Bottom,2014.0,Health,7.7143480277706,LB
-Pollutant,Methane,CH4,AR,Bottom,2014.0,GHG,1216.41499273317,TON
-Pollutant,Nickel,Ni,AR,Bottom,2014.0,Health,175.9668842812778,LB
-Pollutant,Nitrogen Oxides,NOx,AR,Bottom,2014.0,Health,79428.343014385,TON
-Pollutant,Nitrous Oxide,N2O,AR,Bottom,2014.0,GHG,684.75582666142,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,Bottom,2014.0,Health,4001.12990104072,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Bottom,2014.0,Health,2436.39597080105,TON
-Pollutant,Sulfur Dioxide,SO2,AR,Bottom,2014.0,Health,333.244809245529,TON
-Pollutant,Volatile Organic Compounds,VOC,AR,Bottom,2014.0,Health,33171.479116028,TON
-Pollutant,Carbon Dioxide,CO2,OK,Bottom,2014.0,GHG,29610611.676159002,TON
-Pollutant,Carbon Monoxide,CO,OK,Bottom,2014.0,GHG,428665.761170776,TON
-Pollutant,Chromium (VI),Cr VI,OK,Bottom,2014.0,Health,1.254287428368208,LB
-Pollutant,Manganese,Mn,OK,Bottom,2014.0,Health,626.01567531484,LB
-Pollutant,Mercury,Hg,OK,Bottom,2014.0,Health,10.8232936585277,LB
-Pollutant,Methane,CH4,OK,Bottom,2014.0,GHG,1597.92576862615,TON
-Pollutant,Nickel,Ni,OK,Bottom,2014.0,Health,236.6575060410594,LB
-Pollutant,Nitrogen Oxides,NOx,OK,Bottom,2014.0,Health,92071.255857027,TON
-Pollutant,Nitrous Oxide,N2O,OK,Bottom,2014.0,GHG,913.827854510842,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,Bottom,2014.0,Health,4986.2230750922,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Bottom,2014.0,Health,2834.4303920713,TON
-Pollutant,Sulfur Dioxide,SO2,OK,Bottom,2014.0,Health,450.25970604821,TON
-Pollutant,Volatile Organic Compounds,VOC,OK,Bottom,2014.0,Health,42735.2238771375,TON
-Pollutant,Carbon Dioxide,CO2,CA,Top,2014.0,GHG,182923241.513744,TON
-Pollutant,Carbon Monoxide,CO,CA,Top,2014.0,GHG,971515.66249841,TON
-Pollutant,Chromium (VI),Cr VI,CA,Top,2014.0,Health,116.95043181482,LB
-Pollutant,Manganese,Mn,CA,Top,2014.0,Health,53159.719095168,LB
-Pollutant,Mercury,Hg,CA,Top,2014.0,Health,77.59966354043,LB
-Pollutant,Methane,CH4,CA,Top,2014.0,GHG,10824.19610938045,TON
-Pollutant,Nickel,Ni,CA,Top,2014.0,Health,21127.052283298,LB
-Pollutant,Nitrogen Oxides,NOx,CA,Top,2014.0,Health,274369.39651918,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,Top,2014.0,Health,22283.969370028,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,Top,2014.0,Health,11073.123050056,TON
-Pollutant,Sulfur Dioxide,SO2,CA,Top,2014.0,Health,1722.4375916131,TON
-Pollutant,Volatile Organic Compounds,VOC,CA,Top,2014.0,Health,124804.403769332,TON
-Pollutant,Carbon Dioxide,CO2,WA,Top,2014.0,GHG,34484024.644849,TON
-Pollutant,Carbon Monoxide,CO,WA,Top,2014.0,GHG,712299.97356064,TON
-Pollutant,Chromium (VI),Cr VI,WA,Top,2014.0,Health,1.544803183245172,LB
-Pollutant,Manganese,Mn,WA,Top,2014.0,Health,882.547734153854,LB
-Pollutant,Mercury,Hg,WA,Top,2014.0,Health,13.7851188022153,LB
-Pollutant,Methane,CH4,WA,Top,2014.0,GHG,2201.30445026828,TON
-Pollutant,Nickel,Ni,WA,Top,2014.0,Health,277.5660016985898,LB
-Pollutant,Nitrogen Oxides,NOx,WA,Top,2014.0,Health,129267.23927085601,TON
-Pollutant,Nitrous Oxide,N2O,WA,Top,2014.0,GHG,1638.44130217411,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,Top,2014.0,Health,6857.36940736477,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Top,2014.0,Health,3777.58743944474,TON
-Pollutant,Sulfur Dioxide,SO2,WA,Top,2014.0,Health,547.64686826006,TON
-Pollutant,Volatile Organic Compounds,VOC,WA,Top,2014.0,Health,70567.02095845,TON
-Pollutant,Carbon Dioxide,CO2,OR,Top,2014.0,GHG,19172947.29344,TON
-Pollutant,Carbon Monoxide,CO,OR,Top,2014.0,GHG,388940.74406128,TON
-Pollutant,Chromium (VI),Cr VI,OR,Top,2014.0,Health,0.882142201881844,LB
-Pollutant,Manganese,Mn,OR,Top,2014.0,Health,478.70651270784,LB
-Pollutant,Mercury,Hg,OR,Top,2014.0,Health,7.8414972899618,LB
-Pollutant,Methane,CH4,OR,Top,2014.0,GHG,1147.27722821845,TON
-Pollutant,Nickel,Ni,OR,Top,2014.0,Health,161.5095741246068,LB
-Pollutant,Nitrogen Oxides,NOx,OR,Top,2014.0,Health,71134.435143786,TON
-Pollutant,Nitrous Oxide,N2O,OR,Top,2014.0,GHG,954.78531320325,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,Top,2014.0,Health,3646.9868329189,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Top,2014.0,Health,2000.4146071443,TON
-Pollutant,Sulfur Dioxide,SO2,OR,Top,2014.0,Health,306.57004218858003,TON
-Pollutant,Volatile Organic Compounds,VOC,OR,Top,2014.0,Health,40290.6044862352,TON
-Pollutant,Carbon Dioxide,CO2,HI,Top,2014.0,GHG,5599418.064037706,TON
-Pollutant,Carbon Monoxide,CO,HI,Top,2014.0,GHG,97732.21757756251,TON
-Pollutant,Chromium (VI),Cr VI,HI,Top,2014.0,Health,0.25824411980438,LB
-Pollutant,Manganese,Mn,HI,Top,2014.0,Health,141.52828179384,LB
-Pollutant,Mercury,Hg,HI,Top,2014.0,Health,2.46594872408,LB
-Pollutant,Methane,CH4,HI,Top,2014.0,GHG,287.775881923109,TON
-Pollutant,Nickel,Ni,HI,Top,2014.0,Health,37.79587120552,LB
-Pollutant,Nitrogen Oxides,NOx,HI,Top,2014.0,Health,12076.50531033061,TON
-Pollutant,Nitrous Oxide,N2O,HI,Top,2014.0,GHG,264.4857694470293,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,Top,2014.0,Health,770.1538468396583,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Top,2014.0,Health,300.30973630505423,TON
-Pollutant,Sulfur Dioxide,SO2,HI,Top,2014.0,Health,103.61914340916424,TON
-Pollutant,Volatile Organic Compounds,VOC,HI,Top,2014.0,Health,10383.079845553728,TON
-Pollutant,Carbon Dioxide,CO2,CO,Top,2014.0,GHG,28179383.6681024,TON
-Pollutant,Carbon Monoxide,CO,CO,Top,2014.0,GHG,497501.41766601,TON
-Pollutant,Chromium (VI),Cr VI,CO,Top,2014.0,Health,1.301269074919998,LB
-Pollutant,Manganese,Mn,CO,Top,2014.0,Health,678.76876430937,LB
-Pollutant,Mercury,Hg,CO,Top,2014.0,Health,11.79141363426942,LB
-Pollutant,Methane,CH4,CO,Top,2014.0,GHG,1621.96880453691,TON
-Pollutant,Nickel,Ni,CO,Top,2014.0,Health,225.010604689596,LB
-Pollutant,Nitrogen Oxides,NOx,CO,Top,2014.0,Health,89794.367850644,TON
-Pollutant,Nitrous Oxide,N2O,CO,Top,2014.0,GHG,1200.56773421875,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,Top,2014.0,Health,5223.50850340816,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Top,2014.0,Health,2868.21994274475,TON
-Pollutant,Sulfur Dioxide,SO2,CO,Top,2014.0,Health,457.244295450404,TON
-Pollutant,Volatile Organic Compounds,VOC,CO,Top,2014.0,Health,47417.2208716475,TON
-Pollutant,Carbon Dioxide,CO2,NV,Top,2014.0,GHG,14292596.1907071,TON
-Pollutant,Carbon Monoxide,CO,NV,Top,2014.0,GHG,202123.30202341,TON
-Pollutant,Chromium (VI),Cr VI,NV,Top,2014.0,Health,0.670513839007426,LB
-Pollutant,Manganese,Mn,NV,Top,2014.0,Health,368.648563774362,LB
-Pollutant,Mercury,Hg,NV,Top,2014.0,Health,6.13982899645302,LB
-Pollutant,Methane,CH4,NV,Top,2014.0,GHG,765.51750336063,TON
-Pollutant,Nickel,Ni,NV,Top,2014.0,Health,113.063469036399,LB
-Pollutant,Nitrogen Oxides,NOx,NV,Top,2014.0,Health,44313.390036198,TON
-Pollutant,Nitrous Oxide,N2O,NV,Top,2014.0,GHG,468.896226576381,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,Top,2014.0,Health,2481.20987350939,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Top,2014.0,Health,1229.67166285921,TON
-Pollutant,Sulfur Dioxide,SO2,NV,Top,2014.0,Health,195.85418115669998,TON
-Pollutant,Volatile Organic Compounds,VOC,NV,Top,2014.0,Health,20005.5551677106,TON
-Pollutant,Carbon Dioxide,CO2,ND,Bottom,2014.0,GHG,8229329.857352,TON
-Pollutant,Carbon Monoxide,CO,ND,Bottom,2014.0,GHG,110770.374800679,TON
-Pollutant,Chromium (VI),Cr VI,ND,Bottom,2014.0,Health,0.2816623951468024,LB
-Pollutant,Manganese,Mn,ND,Bottom,2014.0,Health,174.7597342541436,LB
-Pollutant,Mercury,Hg,ND,Bottom,2014.0,Health,2.043466915546748,LB
-Pollutant,Methane,CH4,ND,Bottom,2014.0,GHG,519.53182255433,TON
-Pollutant,Nickel,Ni,ND,Bottom,2014.0,Health,72.82234219471479,LB
-Pollutant,Nitrogen Oxides,NOx,ND,Bottom,2014.0,Health,36072.7336207374,TON
-Pollutant,Nitrous Oxide,N2O,ND,Bottom,2014.0,GHG,200.05421026134,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,Bottom,2014.0,Health,2111.44128031302,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,Bottom,2014.0,Health,1455.5992265724,TON
-Pollutant,Sulfur Dioxide,SO2,ND,Bottom,2014.0,Health,99.44923854175799,TON
-Pollutant,Volatile Organic Compounds,VOC,ND,Bottom,2014.0,Health,11495.5985081846,TON
-Pollutant,Carbon Dioxide,CO2,WY,Bottom,2014.0,GHG,6889738.62249,TON
-Pollutant,Carbon Monoxide,CO,WY,Bottom,2014.0,GHG,102343.77362295,TON
-Pollutant,Chromium (VI),Cr VI,WY,Bottom,2014.0,Health,0.25510100197798,LB
-Pollutant,Manganese,Mn,WY,Bottom,2014.0,Health,123.71597746884,LB
-Pollutant,Mercury,Hg,WY,Bottom,2014.0,Health,1.9605737456106,LB
-Pollutant,Methane,CH4,WY,Bottom,2014.0,GHG,570.89495637422,TON
-Pollutant,Nickel,Ni,WY,Bottom,2014.0,Health,61.0027943454,LB
-Pollutant,Nitrogen Oxides,NOx,WY,Bottom,2014.0,Health,32044.610026905,TON
-Pollutant,Nitrous Oxide,N2O,WY,Bottom,2014.0,GHG,184.60663083663,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,Bottom,2014.0,Health,1427.6181036612,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Bottom,2014.0,Health,979.5565379376001,TON
-Pollutant,Sulfur Dioxide,SO2,WY,Bottom,2014.0,Health,93.58486517887,TON
-Pollutant,Volatile Organic Compounds,VOC,WY,Bottom,2014.0,Health,10391.629645857,TON
-Pollutant,Carbon Dioxide,CO2,SD,Bottom,2014.0,GHG,6372085.27851901,TON
-Pollutant,Carbon Monoxide,CO,SD,Bottom,2014.0,GHG,121062.14645047,TON
-Pollutant,Chromium (VI),Cr VI,SD,Bottom,2014.0,Health,0.247669800322483,LB
-Pollutant,Manganese,Mn,SD,Bottom,2014.0,Health,119.7176121174972,LB
-Pollutant,Mercury,Hg,SD,Bottom,2014.0,Health,2.0077115024626297,LB
-Pollutant,Methane,CH4,SD,Bottom,2014.0,GHG,484.89834042202,TON
-Pollutant,Nickel,Ni,SD,Bottom,2014.0,Health,54.35559549419114,LB
-Pollutant,Nitrogen Oxides,NOx,SD,Bottom,2014.0,Health,27733.7356789125,TON
-Pollutant,Nitrous Oxide,N2O,SD,Bottom,2014.0,GHG,240.48949838421,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,Bottom,2014.0,Health,1405.588534347883,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,Bottom,2014.0,Health,963.067016736145,TON
-Pollutant,Sulfur Dioxide,SO2,SD,Bottom,2014.0,Health,83.1146196992662,TON
-Pollutant,Volatile Organic Compounds,VOC,SD,Bottom,2014.0,Health,12516.4444285855,TON
-Pollutant,Carbon Dioxide,CO2,VT,Top,2017.0,GHG,3639303.87797986,TON
-Pollutant,Carbon Monoxide,CO,VT,Top,2017.0,GHG,36762.37246563,TON
-Pollutant,Chromium (VI),Cr VI,VT,Top,2017.0,Health,0.1941046155109734,LB
-Pollutant,Manganese,Mn,VT,Top,2017.0,Health,74.529113830829,LB
-Pollutant,Mercury,Hg,VT,Top,2017.0,Health,1.86528406612092,LB
-Pollutant,Methane,CH4,VT,Top,2017.0,GHG,164.662650890019,TON
-Pollutant,Nickel,Ni,VT,Top,2017.0,Health,27.15141031938376,LB
-Pollutant,Nitrogen Oxides,NOx,VT,Top,2017.0,Health,5121.1751604883,TON
-Pollutant,Nitrous Oxide,N2O,VT,Top,2017.0,GHG,75.57669443101601,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,Top,2017.0,Health,426.42163670151,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Top,2017.0,Health,184.27502450897,TON
-Pollutant,Sulfur Dioxide,SO2,VT,Top,2017.0,Health,69.4402219712108,TON
-Pollutant,Volatile Organic Compounds,VOC,VT,Top,2017.0,Health,3097.0022080986,TON
-Pollutant,Carbon Dioxide,CO2,MA,Top,2017.0,GHG,33282780.961740497,TON
-Pollutant,Carbon Monoxide,CO,MA,Top,2017.0,GHG,292921.909318782,TON
-Pollutant,Chromium (VI),Cr VI,MA,Top,2017.0,Health,1.627989548224932,LB
-Pollutant,Manganese,Mn,MA,Top,2017.0,Health,857.540073022668,LB
-Pollutant,Mercury,Hg,MA,Top,2017.0,Health,15.65001873490128,LB
-Pollutant,Methane,CH4,MA,Top,2017.0,GHG,1104.47098710935,TON
-Pollutant,Nickel,Ni,MA,Top,2017.0,Health,228.2313100129662,LB
-Pollutant,Nitrogen Oxides,NOx,MA,Top,2017.0,Health,41863.0347837415,TON
-Pollutant,Nitrous Oxide,N2O,MA,Top,2017.0,GHG,706.376559409378,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,Top,2017.0,Health,4628.84170125778,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Top,2017.0,Health,1785.7003806237,TON
-Pollutant,Sulfur Dioxide,SO2,MA,Top,2017.0,Health,622.687174022096,TON
-Pollutant,Volatile Organic Compounds,VOC,MA,Top,2017.0,Health,24742.2616723652,TON
-Pollutant,Carbon Dioxide,CO2,MD,Top,2017.0,GHG,31699972.85802818,TON
-Pollutant,Carbon Monoxide,CO,MD,Top,2017.0,GHG,282596.9069624277,TON
-Pollutant,Chromium (VI),Cr VI,MD,Top,2017.0,Health,1.5532354521126466,LB
-Pollutant,Manganese,Mn,MD,Top,2017.0,Health,719.8163754111338,LB
-Pollutant,Mercury,Hg,MD,Top,2017.0,Health,14.726529586454664,LB
-Pollutant,Methane,CH4,MD,Top,2017.0,GHG,1094.7987157105185,TON
-Pollutant,Nickel,Ni,MD,Top,2017.0,Health,223.11165252878806,LB
-Pollutant,Nitrogen Oxides,NOx,MD,Top,2017.0,Health,46615.7819269241,TON
-Pollutant,Nitrous Oxide,N2O,MD,Top,2017.0,GHG,649.3235019320696,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,Top,2017.0,Health,3973.332872960328,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Top,2017.0,Health,1607.088044727184,TON
-Pollutant,Sulfur Dioxide,SO2,MD,Top,2017.0,Health,571.725826727697,TON
-Pollutant,Volatile Organic Compounds,VOC,MD,Top,2017.0,Health,24087.55867413497,TON
-Pollutant,Carbon Dioxide,CO2,VA,Top,2017.0,GHG,45721570.59343231,TON
-Pollutant,Carbon Monoxide,CO,VA,Top,2017.0,GHG,604590.4294741247,TON
-Pollutant,Chromium (VI),Cr VI,VA,Top,2017.0,Health,2.2115791830069385,LB
-Pollutant,Manganese,Mn,VA,Top,2017.0,Health,848.9496215200946,LB
-Pollutant,Mercury,Hg,VA,Top,2017.0,Health,20.87116302877626,LB
-Pollutant,Methane,CH4,VA,Top,2017.0,GHG,2113.4686418242823,TON
-Pollutant,Nickel,Ni,VA,Top,2017.0,Health,326.6907694822422,LB
-Pollutant,Nitrogen Oxides,NOx,VA,Top,2017.0,Health,96522.92340346938,TON
-Pollutant,Nitrous Oxide,N2O,VA,Top,2017.0,GHG,1316.498917262811,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,Top,2017.0,Health,5393.781353084854,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Top,2017.0,Health,2611.0273520046862,TON
-Pollutant,Sulfur Dioxide,SO2,VA,Top,2017.0,Health,830.0265452262555,TON
-Pollutant,Volatile Organic Compounds,VOC,VA,Top,2017.0,Health,54937.693098127296,TON
-Pollutant,Carbon Dioxide,CO2,WV,Bottom,2017.0,GHG,10950847.481529618,TON
-Pollutant,Carbon Monoxide,CO,WV,Bottom,2017.0,GHG,150103.2769711031,TON
-Pollutant,Chromium (VI),Cr VI,WV,Bottom,2017.0,Health,0.5095654730783207,LB
-Pollutant,Manganese,Mn,WV,Bottom,2017.0,Health,226.99381079612823,LB
-Pollutant,Mercury,Hg,WV,Bottom,2017.0,Health,4.749194142363831,LB
-Pollutant,Methane,CH4,WV,Bottom,2017.0,GHG,536.1736890780365,TON
-Pollutant,Nickel,Ni,WV,Bottom,2017.0,Health,77.90109541678858,LB
-Pollutant,Nitrogen Oxides,NOx,WV,Bottom,2017.0,Health,24336.055306619164,TON
-Pollutant,Nitrous Oxide,N2O,WV,Bottom,2017.0,GHG,310.5506769427847,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,Bottom,2017.0,Health,1457.93821379415,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,Bottom,2017.0,Health,703.5222445817042,TON
-Pollutant,Sulfur Dioxide,SO2,WV,Bottom,2017.0,Health,153.1390635123342,TON
-Pollutant,Volatile Organic Compounds,VOC,WV,Bottom,2017.0,Health,13932.182458031893,TON
-Pollutant,Carbon Dioxide,CO2,AL,Bottom,2017.0,GHG,41527599.34286952,TON
-Pollutant,Carbon Monoxide,CO,AL,Bottom,2017.0,GHG,556784.9026770745,TON
-Pollutant,Chromium (VI),Cr VI,AL,Bottom,2017.0,Health,1.826868725849276,LB
-Pollutant,Manganese,Mn,AL,Bottom,2017.0,Health,853.4607458725598,LB
-Pollutant,Mercury,Hg,AL,Bottom,2017.0,Health,16.775630333314453,LB
-Pollutant,Methane,CH4,AL,Bottom,2017.0,GHG,1723.742900986565,TON
-Pollutant,Nickel,Ni,AL,Bottom,2017.0,Health,286.2632835577089,LB
-Pollutant,Nitrogen Oxides,NOx,AL,Bottom,2017.0,Health,94852.84883530806,TON
-Pollutant,Nitrous Oxide,N2O,AL,Bottom,2017.0,GHG,1039.154219632526,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,Bottom,2017.0,Health,5512.5996183583,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Bottom,2017.0,Health,2652.425385012065,TON
-Pollutant,Sulfur Dioxide,SO2,AL,Bottom,2017.0,Health,725.0759568168003,TON
-Pollutant,Volatile Organic Compounds,VOC,AL,Bottom,2017.0,Health,50953.32079812902,TON
-Pollutant,Carbon Dioxide,CO2,KY,Bottom,2017.0,GHG,30228213.48598138,TON
-Pollutant,Carbon Monoxide,CO,KY,Bottom,2017.0,GHG,378525.576635276,TON
-Pollutant,Chromium (VI),Cr VI,KY,Bottom,2017.0,Health,1.2731103660450525,LB
-Pollutant,Manganese,Mn,KY,Bottom,2017.0,Health,564.4818181814668,LB
-Pollutant,Mercury,Hg,KY,Bottom,2017.0,Health,11.403223406249401,LB
-Pollutant,Methane,CH4,KY,Bottom,2017.0,GHG,1340.618584753152,TON
-Pollutant,Nickel,Ni,KY,Bottom,2017.0,Health,212.2503383678236,LB
-Pollutant,Nitrogen Oxides,NOx,KY,Bottom,2017.0,Health,72247.79570506,TON
-Pollutant,Nitrous Oxide,N2O,KY,Bottom,2017.0,GHG,742.819834294384,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,Bottom,2017.0,Health,4167.559265224176,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Bottom,2017.0,Health,2260.60947718498,TON
-Pollutant,Sulfur Dioxide,SO2,KY,Bottom,2017.0,Health,318.07118907065427,TON
-Pollutant,Volatile Organic Compounds,VOC,KY,Bottom,2017.0,Health,34295.55461619386,TON
-Pollutant,Carbon Dioxide,CO2,MI,Bottom,2017.0,GHG,54716340.14858224,TON
-Pollutant,Carbon Monoxide,CO,MI,Bottom,2017.0,GHG,679678.01982688,TON
-Pollutant,Chromium (VI),Cr VI,MI,Bottom,2017.0,Health,2.5834278801505035,LB
-Pollutant,Manganese,Mn,MI,Bottom,2017.0,Health,1124.819099922171,LB
-Pollutant,Mercury,Hg,MI,Bottom,2017.0,Health,24.168886124619043,LB
-Pollutant,Methane,CH4,MI,Bottom,2017.0,GHG,2719.624155265471,TON
-Pollutant,Nickel,Ni,MI,Bottom,2017.0,Health,385.052023502038,LB
-Pollutant,Nitrogen Oxides,NOx,MI,Bottom,2017.0,Health,105629.61769156586,TON
-Pollutant,Nitrous Oxide,N2O,MI,Bottom,2017.0,GHG,1326.0618063940738,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,Bottom,2017.0,Health,7300.388467108267,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Bottom,2017.0,Health,3533.4196022012247,TON
-Pollutant,Sulfur Dioxide,SO2,MI,Bottom,2017.0,Health,639.2629261822273,TON
-Pollutant,Volatile Organic Compounds,VOC,MI,Bottom,2017.0,Health,61789.72110163967,TON
-Pollutant,Carbon Dioxide,CO2,LA,Bottom,2017.0,GHG,32591982.64451608,TON
-Pollutant,Carbon Monoxide,CO,LA,Bottom,2017.0,GHG,335524.993795455,TON
-Pollutant,Chromium (VI),Cr VI,LA,Bottom,2017.0,Health,1.2488649557511373,LB
-Pollutant,Manganese,Mn,LA,Bottom,2017.0,Health,655.9785922183816,LB
-Pollutant,Mercury,Hg,LA,Bottom,2017.0,Health,10.912622552983239,LB
-Pollutant,Methane,CH4,LA,Bottom,2017.0,GHG,1366.857678907708,TON
-Pollutant,Nickel,Ni,LA,Bottom,2017.0,Health,213.10837287034565,LB
-Pollutant,Nitrogen Oxides,NOx,LA,Bottom,2017.0,Health,68212.58941038426,TON
-Pollutant,Nitrous Oxide,N2O,LA,Bottom,2017.0,GHG,652.766268722035,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,Bottom,2017.0,Health,4520.506762518145,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Bottom,2017.0,Health,2287.8986967575092,TON
-Pollutant,Sulfur Dioxide,SO2,LA,Bottom,2017.0,Health,524.391491308921,TON
-Pollutant,Volatile Organic Compounds,VOC,LA,Bottom,2017.0,Health,30141.8076362103,TON
-Pollutant,Carbon Dioxide,CO2,AR,Bottom,2017.0,GHG,23919183.55516367,TON
-Pollutant,Carbon Monoxide,CO,AR,Bottom,2017.0,GHG,247804.145929452,TON
-Pollutant,Chromium (VI),Cr VI,AR,Bottom,2017.0,Health,0.9282972219180604,LB
-Pollutant,Manganese,Mn,AR,Bottom,2017.0,Health,413.2389854911268,LB
-Pollutant,Mercury,Hg,AR,Bottom,2017.0,Health,8.186025693310276,LB
-Pollutant,Methane,CH4,AR,Bottom,2017.0,GHG,1048.0580656395339,TON
-Pollutant,Nickel,Ni,AR,Bottom,2017.0,Health,155.9971983521342,LB
-Pollutant,Nitrogen Oxides,NOx,AR,Bottom,2017.0,Health,54277.79816677877,TON
-Pollutant,Nitrous Oxide,N2O,AR,Bottom,2017.0,GHG,469.485932460722,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,Bottom,2017.0,Health,3007.015583232311,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Bottom,2017.0,Health,1599.56545068436,TON
-Pollutant,Sulfur Dioxide,SO2,AR,Bottom,2017.0,Health,311.7730606561818,TON
-Pollutant,Volatile Organic Compounds,VOC,AR,Bottom,2017.0,Health,22587.82869139836,TON
-Pollutant,Carbon Dioxide,CO2,OK,Bottom,2017.0,GHG,30561234.47927901,TON
-Pollutant,Carbon Monoxide,CO,OK,Bottom,2017.0,GHG,375929.957642809,TON
-Pollutant,Chromium (VI),Cr VI,OK,Bottom,2017.0,Health,1.2639487417621575,LB
-Pollutant,Manganese,Mn,OK,Bottom,2017.0,Health,560.4684384184136,LB
-Pollutant,Mercury,Hg,OK,Bottom,2017.0,Health,11.148880303949106,LB
-Pollutant,Methane,CH4,OK,Bottom,2017.0,GHG,1434.894308189024,TON
-Pollutant,Nickel,Ni,OK,Bottom,2017.0,Health,214.36101062117143,LB
-Pollutant,Nitrogen Oxides,NOx,OK,Bottom,2017.0,Health,72377.39938001835,TON
-Pollutant,Nitrous Oxide,N2O,OK,Bottom,2017.0,GHG,816.8394954402906,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,Bottom,2017.0,Health,4076.768954239525,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Bottom,2017.0,Health,2185.197742728136,TON
-Pollutant,Sulfur Dioxide,SO2,OK,Bottom,2017.0,Health,408.68323894276,TON
-Pollutant,Volatile Organic Compounds,VOC,OK,Bottom,2017.0,Health,36947.33645415306,TON
-Pollutant,Carbon Dioxide,CO2,CA,Top,2017.0,GHG,181615552.341263,TON
-Pollutant,Carbon Monoxide,CO,CA,Top,2017.0,GHG,721087.945728559,TON
-Pollutant,Chromium (VI),Cr VI,CA,Top,2017.0,Health,2.42518604075861,LB
-Pollutant,Manganese,Mn,CA,Top,2017.0,Health,325.5482130641856,LB
-Pollutant,Mercury,Hg,CA,Top,2017.0,Health,20.95925778152842,LB
-Pollutant,Methane,CH4,CA,Top,2017.0,GHG,6048.620116784384,TON
-Pollutant,Nickel,Ni,CA,Top,2017.0,Health,412.6776536368104,LB
-Pollutant,Nitrogen Oxides,NOx,CA,Top,2017.0,Health,201240.79243991,TON
-Pollutant,Nitrous Oxide,N2O,CA,Top,2017.0,GHG,4815.9053134915,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,Top,2017.0,Health,22169.9730943468,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,Top,2017.0,Health,10690.4403533653,TON
-Pollutant,Sulfur Dioxide,SO2,CA,Top,2017.0,Health,1574.28745245329,TON
-Pollutant,Volatile Organic Compounds,VOC,CA,Top,2017.0,Health,89109.67299195263,TON
-Pollutant,Carbon Dioxide,CO2,WA,Top,2017.0,GHG,35131315.574458316,TON
-Pollutant,Carbon Monoxide,CO,WA,Top,2017.0,GHG,537748.344833192,TON
-Pollutant,Chromium (VI),Cr VI,WA,Top,2017.0,Health,1.5876685281710075,LB
-Pollutant,Manganese,Mn,WA,Top,2017.0,Health,779.9452351320197,LB
-Pollutant,Mercury,Hg,WA,Top,2017.0,Health,14.601587879217163,LB
-Pollutant,Methane,CH4,WA,Top,2017.0,GHG,2137.687793244476,TON
-Pollutant,Nickel,Ni,WA,Top,2017.0,Health,250.0645681928334,LB
-Pollutant,Nitrogen Oxides,NOx,WA,Top,2017.0,Health,89318.76802982508,TON
-Pollutant,Nitrous Oxide,N2O,WA,Top,2017.0,GHG,1444.8854521745068,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,Top,2017.0,Health,5219.333015998027,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Top,2017.0,Health,2572.719368982403,TON
-Pollutant,Sulfur Dioxide,SO2,WA,Top,2017.0,Health,409.9922820125978,TON
-Pollutant,Volatile Organic Compounds,VOC,WA,Top,2017.0,Health,59158.46239635871,TON
-Pollutant,Carbon Dioxide,CO2,OR,Top,2017.0,GHG,23791868.9834032,TON
-Pollutant,Carbon Monoxide,CO,OR,Top,2017.0,GHG,301253.381609672,TON
-Pollutant,Chromium (VI),Cr VI,OR,Top,2017.0,Health,0.94384140688321,LB
-Pollutant,Manganese,Mn,OR,Top,2017.0,Health,561.3824098898413,LB
-Pollutant,Mercury,Hg,OR,Top,2017.0,Health,8.12362931001274,LB
-Pollutant,Methane,CH4,OR,Top,2017.0,GHG,1300.94632676776,TON
-Pollutant,Nickel,Ni,OR,Top,2017.0,Health,171.40310981818462,LB
-Pollutant,Nitrogen Oxides,NOx,OR,Top,2017.0,Health,65195.7180514735,TON
-Pollutant,Nitrous Oxide,N2O,OR,Top,2017.0,GHG,786.756036178016,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,Top,2017.0,Health,4113.89297403743,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Top,2017.0,Health,2170.96477186547,TON
-Pollutant,Sulfur Dioxide,SO2,OR,Top,2017.0,Health,265.652396574593,TON
-Pollutant,Volatile Organic Compounds,VOC,OR,Top,2017.0,Health,33895.9236964783,TON
-Pollutant,Carbon Dioxide,CO2,HI,Top,2017.0,GHG,5722168.135978284,TON
-Pollutant,Carbon Monoxide,CO,HI,Top,2017.0,GHG,78655.8342224324,TON
-Pollutant,Chromium (VI),Cr VI,HI,Top,2017.0,Health,0.28184443263820397,LB
-Pollutant,Manganese,Mn,HI,Top,2017.0,Health,160.315710051606,LB
-Pollutant,Mercury,Hg,HI,Top,2017.0,Health,2.70593390269146,LB
-Pollutant,Methane,CH4,HI,Top,2017.0,GHG,228.34077848949113,TON
-Pollutant,Nickel,Ni,HI,Top,2017.0,Health,40.507563815929004,LB
-Pollutant,Nitrogen Oxides,NOx,HI,Top,2017.0,Health,9327.104048974601,TON
-Pollutant,Nitrous Oxide,N2O,HI,Top,2017.0,GHG,195.37892694709478,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,Top,2017.0,Health,841.016224793739,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Top,2017.0,Health,307.998009731297,TON
-Pollutant,Sulfur Dioxide,SO2,HI,Top,2017.0,Health,52.14280178583196,TON
-Pollutant,Volatile Organic Compounds,VOC,HI,Top,2017.0,Health,8109.081886529632,TON
-Pollutant,Carbon Dioxide,CO2,CO,Top,2017.0,GHG,29905638.56707996,TON
-Pollutant,Carbon Monoxide,CO,CO,Top,2017.0,GHG,373574.4169662814,TON
-Pollutant,Chromium (VI),Cr VI,CO,Top,2017.0,Health,1.3863643796306833,LB
-Pollutant,Manganese,Mn,CO,Top,2017.0,Health,634.3508224045779,LB
-Pollutant,Mercury,Hg,CO,Top,2017.0,Health,12.848457988739417,LB
-Pollutant,Methane,CH4,CO,Top,2017.0,GHG,1429.417699332362,TON
-Pollutant,Nickel,Ni,CO,Top,2017.0,Health,215.67460000894775,LB
-Pollutant,Nitrogen Oxides,NOx,CO,Top,2017.0,Health,64093.94172669108,TON
-Pollutant,Nitrous Oxide,N2O,CO,Top,2017.0,GHG,910.236857641272,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,Top,2017.0,Health,4064.345435979989,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Top,2017.0,Health,1950.690368922292,TON
-Pollutant,Sulfur Dioxide,SO2,CO,Top,2017.0,Health,352.9424274342684,TON
-Pollutant,Volatile Organic Compounds,VOC,CO,Top,2017.0,Health,37413.68635139985,TON
-Pollutant,Carbon Dioxide,CO2,NV,Top,2017.0,GHG,14328646.66416149,TON
-Pollutant,Carbon Monoxide,CO,NV,Top,2017.0,GHG,167945.3761428505,TON
-Pollutant,Chromium (VI),Cr VI,NV,Top,2017.0,Health,0.6757861870179944,LB
-Pollutant,Manganese,Mn,NV,Top,2017.0,Health,299.53058743417847,LB
-Pollutant,Mercury,Hg,NV,Top,2017.0,Health,6.3388520900953615,LB
-Pollutant,Methane,CH4,NV,Top,2017.0,GHG,618.119269204048,TON
-Pollutant,Nickel,Ni,NV,Top,2017.0,Health,101.54256353227636,LB
-Pollutant,Nitrogen Oxides,NOx,NV,Top,2017.0,Health,28506.76135924736,TON
-Pollutant,Nitrous Oxide,N2O,NV,Top,2017.0,GHG,387.013679630058,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,Top,2017.0,Health,1810.541412453705,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Top,2017.0,Health,823.238602433593,TON
-Pollutant,Sulfur Dioxide,SO2,NV,Top,2017.0,Health,129.2150219367086,TON
-Pollutant,Volatile Organic Compounds,VOC,NV,Top,2017.0,Health,16101.06548645131,TON
-Pollutant,Carbon Dioxide,CO2,ND,Bottom,2017.0,GHG,6230691.51472088,TON
-Pollutant,Carbon Monoxide,CO,ND,Bottom,2017.0,GHG,77803.1788960617,TON
-Pollutant,Chromium (VI),Cr VI,ND,Bottom,2017.0,Health,0.24943755062711925,LB
-Pollutant,Manganese,Mn,ND,Bottom,2017.0,Health,115.60452480119814,LB
-Pollutant,Mercury,Hg,ND,Bottom,2017.0,Health,2.1160519867994636,LB
-Pollutant,Methane,CH4,ND,Bottom,2017.0,GHG,351.121227355925,TON
-Pollutant,Nickel,Ni,ND,Bottom,2017.0,Health,46.41426526516488,LB
-Pollutant,Nitrogen Oxides,NOx,ND,Bottom,2017.0,Health,16583.23155599176,TON
-Pollutant,Nitrous Oxide,N2O,ND,Bottom,2017.0,GHG,148.27965728473,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,Bottom,2017.0,Health,1018.125445817773,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,Bottom,2017.0,Health,613.138441886243,TON
-Pollutant,Sulfur Dioxide,SO2,ND,Bottom,2017.0,Health,65.7067498419492,TON
-Pollutant,Volatile Organic Compounds,VOC,ND,Bottom,2017.0,Health,7631.3533313672,TON
-Pollutant,Carbon Dioxide,CO2,WY,Bottom,2017.0,GHG,6958900.72433363,TON
-Pollutant,Carbon Monoxide,CO,WY,Bottom,2017.0,GHG,75986.562791829,TON
-Pollutant,Chromium (VI),Cr VI,WY,Bottom,2017.0,Health,0.2499310418394712,LB
-Pollutant,Manganese,Mn,WY,Bottom,2017.0,Health,107.21981413488601,LB
-Pollutant,Mercury,Hg,WY,Bottom,2017.0,Health,2.036970084599912,LB
-Pollutant,Methane,CH4,WY,Bottom,2017.0,GHG,389.707787579015,TON
-Pollutant,Nickel,Ni,WY,Bottom,2017.0,Health,49.51069594857652,LB
-Pollutant,Nitrogen Oxides,NOx,WY,Bottom,2017.0,Health,20265.6735155269,TON
-Pollutant,Nitrous Oxide,N2O,WY,Bottom,2017.0,GHG,142.384555762376,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,Bottom,2017.0,Health,973.79791350761,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Bottom,2017.0,Health,599.359178278091,TON
-Pollutant,Sulfur Dioxide,SO2,WY,Bottom,2017.0,Health,74.42520126218,TON
-Pollutant,Volatile Organic Compounds,VOC,WY,Bottom,2017.0,Health,7380.3754941572,TON
-Pollutant,Carbon Dioxide,CO2,SD,Bottom,2017.0,GHG,6084728.507236396,TON
-Pollutant,Carbon Monoxide,CO,SD,Bottom,2017.0,GHG,91465.4601675077,TON
-Pollutant,Chromium (VI),Cr VI,SD,Bottom,2017.0,Health,0.24973897835326822,LB
-Pollutant,Manganese,Mn,SD,Bottom,2017.0,Health,98.73182501775361,LB
-Pollutant,Mercury,Hg,SD,Bottom,2017.0,Health,2.1753958669466313,LB
-Pollutant,Methane,CH4,SD,Bottom,2017.0,GHG,362.5287674907666,TON
-Pollutant,Nickel,Ni,SD,Bottom,2017.0,Health,44.61415720216517,LB
-Pollutant,Nitrogen Oxides,NOx,SD,Bottom,2017.0,Health,17382.682391220194,TON
-Pollutant,Nitrous Oxide,N2O,SD,Bottom,2017.0,GHG,183.4807111472757,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,Bottom,2017.0,Health,877.7950448694564,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,Bottom,2017.0,Health,536.8388777145632,TON
-Pollutant,Sulfur Dioxide,SO2,SD,Bottom,2017.0,Health,64.84794996523038,TON
-Pollutant,Volatile Organic Compounds,VOC,SD,Bottom,2017.0,Health,9093.324487511687,TON
-Pollutant,Carbon Dioxide,CO2,VT,Top,2020.0,GHG,2854235.0768989,TON
-Pollutant,Carbon Monoxide,CO,VT,Top,2020.0,GHG,21233.000359109,TON
-Pollutant,Chromium (VI),Cr VI,VT,Top,2020.0,Health,0.15248683274624406,LB
-Pollutant,Manganese,Mn,VT,Top,2020.0,Health,106.239048725692,LB
-Pollutant,Mercury,Hg,VT,Top,2020.0,Health,1.50351582543766,LB
-Pollutant,Methane,CH4,VT,Top,2020.0,GHG,174.2094063095,TON
-Pollutant,Nickel,Ni,VT,Top,2020.0,Health,20.135641089567187,LB
-Pollutant,Nitrogen Oxides,NOx,VT,Top,2020.0,Health,2375.3206093626,TON
-Pollutant,Nitrous Oxide,N2O,VT,Top,2020.0,GHG,50.520187261063,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,Top,2020.0,Health,289.2094561479,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Top,2020.0,Health,102.007724505024,TON
-Pollutant,Sulfur Dioxide,SO2,VT,Top,2020.0,Health,17.647948067958,TON
-Pollutant,Volatile Organic Compounds,VOC,VT,Top,2020.0,Health,1678.2317524233,TON
-Pollutant,Carbon Dioxide,CO2,MA,Top,2020.0,GHG,27128316.11534995,TON
-Pollutant,Carbon Monoxide,CO,MA,Top,2020.0,GHG,182735.8091887773,TON
-Pollutant,Chromium (VI),Cr VI,MA,Top,2020.0,Health,1.3685635727203649,LB
-Pollutant,Manganese,Mn,MA,Top,2020.0,Health,1337.7266352746249,LB
-Pollutant,Mercury,Hg,MA,Top,2020.0,Health,13.42740640792191,LB
-Pollutant,Methane,CH4,MA,Top,2020.0,GHG,1278.386070600041,TON
-Pollutant,Nickel,Ni,MA,Top,2020.0,Health,183.82924455017906,LB
-Pollutant,Nitrogen Oxides,NOx,MA,Top,2020.0,Health,21606.9120372604,TON
-Pollutant,Nitrous Oxide,N2O,MA,Top,2020.0,GHG,428.2236117014132,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,Top,2020.0,Health,3387.2785778782923,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Top,2020.0,Health,1035.0014990590385,TON
-Pollutant,Sulfur Dioxide,SO2,MA,Top,2020.0,Health,166.57377855236047,TON
-Pollutant,Volatile Organic Compounds,VOC,MA,Top,2020.0,Health,13360.7262159103,TON
-Pollutant,Carbon Dioxide,CO2,MD,Top,2020.0,GHG,27053779.38762407,TON
-Pollutant,Carbon Monoxide,CO,MD,Top,2020.0,GHG,206479.2545649699,TON
-Pollutant,Chromium (VI),Cr VI,MD,Top,2020.0,Health,1.2705205598956424,LB
-Pollutant,Manganese,Mn,MD,Top,2020.0,Health,1065.5565005344097,LB
-Pollutant,Mercury,Hg,MD,Top,2020.0,Health,12.30502699892271,LB
-Pollutant,Methane,CH4,MD,Top,2020.0,GHG,1349.2906508424371,TON
-Pollutant,Nickel,Ni,MD,Top,2020.0,Health,178.35488768270403,LB
-Pollutant,Nitrogen Oxides,NOx,MD,Top,2020.0,Health,30919.3064584174,TON
-Pollutant,Nitrous Oxide,N2O,MD,Top,2020.0,GHG,422.13259195399803,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,Top,2020.0,Health,3006.498420748382,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Top,2020.0,Health,1106.642443157551,TON
-Pollutant,Sulfur Dioxide,SO2,MD,Top,2020.0,Health,159.1802062654809,TON
-Pollutant,Volatile Organic Compounds,VOC,MD,Top,2020.0,Health,15164.354446468,TON
-Pollutant,Carbon Dioxide,CO2,VA,Top,2020.0,GHG,40576733.54595303,TON
-Pollutant,Carbon Monoxide,CO,VA,Top,2020.0,GHG,397167.7475111116,TON
-Pollutant,Chromium (VI),Cr VI,VA,Top,2020.0,Health,1.9340765403289708,LB
-Pollutant,Manganese,Mn,VA,Top,2020.0,Health,1459.7450342235047,LB
-Pollutant,Mercury,Hg,VA,Top,2020.0,Health,18.589752436352708,LB
-Pollutant,Methane,CH4,VA,Top,2020.0,GHG,2304.7101345647984,TON
-Pollutant,Nickel,Ni,VA,Top,2020.0,Health,280.8407910047276,LB
-Pollutant,Nitrogen Oxides,NOx,VA,Top,2020.0,Health,60394.38634477052,TON
-Pollutant,Nitrous Oxide,N2O,VA,Top,2020.0,GHG,725.1515280010153,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,Top,2020.0,Health,4564.267905606911,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Top,2020.0,Health,1939.3340556816038,TON
-Pollutant,Sulfur Dioxide,SO2,VA,Top,2020.0,Health,238.45395208984166,TON
-Pollutant,Volatile Organic Compounds,VOC,VA,Top,2020.0,Health,27552.53705805933,TON
-Pollutant,Carbon Dioxide,CO2,WV,Bottom,2020.0,GHG,9270785.71899158,TON
-Pollutant,Carbon Monoxide,CO,WV,Bottom,2020.0,GHG,84610.035237229,TON
-Pollutant,Chromium (VI),Cr VI,WV,Bottom,2020.0,Health,0.3794588846340461,LB
-Pollutant,Manganese,Mn,WV,Bottom,2020.0,Health,328.9555835385752,LB
-Pollutant,Mercury,Hg,WV,Bottom,2020.0,Health,3.572794349696702,LB
-Pollutant,Methane,CH4,WV,Bottom,2020.0,GHG,509.223445631,TON
-Pollutant,Nickel,Ni,WV,Bottom,2020.0,Health,57.97098475271652,LB
-Pollutant,Nitrogen Oxides,NOx,WV,Bottom,2020.0,Health,15877.0244720342,TON
-Pollutant,Nitrous Oxide,N2O,WV,Bottom,2020.0,GHG,145.733442014239,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,Bottom,2020.0,Health,1126.592619377972,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,Bottom,2020.0,Health,519.9783699098602,TON
-Pollutant,Sulfur Dioxide,SO2,WV,Bottom,2020.0,Health,51.3441116272513,TON
-Pollutant,Volatile Organic Compounds,VOC,WV,Bottom,2020.0,Health,6054.6411333631,TON
-Pollutant,Carbon Dioxide,CO2,AL,Bottom,2020.0,GHG,37188161.447286,TON
-Pollutant,Carbon Monoxide,CO,AL,Bottom,2020.0,GHG,413435.12386688,TON
-Pollutant,Chromium (VI),Cr VI,AL,Bottom,2020.0,Health,1.693540729032437,LB
-Pollutant,Manganese,Mn,AL,Bottom,2020.0,Health,1254.25617487322,LB
-Pollutant,Mercury,Hg,AL,Bottom,2020.0,Health,16.30346859537846,LB
-Pollutant,Methane,CH4,AL,Bottom,2020.0,GHG,2228.2362118042,TON
-Pollutant,Nickel,Ni,AL,Bottom,2020.0,Health,241.87195602905993,LB
-Pollutant,Nitrogen Oxides,NOx,AL,Bottom,2020.0,Health,55185.277242213,TON
-Pollutant,Nitrous Oxide,N2O,AL,Bottom,2020.0,GHG,601.2934919626069,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,Bottom,2020.0,Health,3804.602486041032,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Bottom,2020.0,Health,1545.982296665648,TON
-Pollutant,Sulfur Dioxide,SO2,AL,Bottom,2020.0,Health,215.81108216682802,TON
-Pollutant,Volatile Organic Compounds,VOC,AL,Bottom,2020.0,Health,27848.9674559554,TON
-Pollutant,Carbon Dioxide,CO2,KY,Bottom,2020.0,GHG,27234431.7455601,TON
-Pollutant,Carbon Monoxide,CO,KY,Bottom,2020.0,GHG,270933.63652371,TON
-Pollutant,Chromium (VI),Cr VI,KY,Bottom,2020.0,Health,1.163156517275616,LB
-Pollutant,Manganese,Mn,KY,Bottom,2020.0,Health,844.6302868985458,LB
-Pollutant,Mercury,Hg,KY,Bottom,2020.0,Health,11.01521389035276,LB
-Pollutant,Methane,CH4,KY,Bottom,2020.0,GHG,1646.209880124165,TON
-Pollutant,Nickel,Ni,KY,Bottom,2020.0,Health,175.2077780107951,LB
-Pollutant,Nitrogen Oxides,NOx,KY,Bottom,2020.0,Health,45122.4986918609,TON
-Pollutant,Nitrous Oxide,N2O,KY,Bottom,2020.0,GHG,430.674037566059,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,Bottom,2020.0,Health,2907.870778609998,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Bottom,2020.0,Health,1360.5307825571408,TON
-Pollutant,Sulfur Dioxide,SO2,KY,Bottom,2020.0,Health,152.8622995772985,TON
-Pollutant,Volatile Organic Compounds,VOC,KY,Bottom,2020.0,Health,18042.9776377446,TON
-Pollutant,Carbon Dioxide,CO2,MI,Bottom,2020.0,GHG,44938314.10138449,TON
-Pollutant,Carbon Monoxide,CO,MI,Bottom,2020.0,GHG,440874.652879917,TON
-Pollutant,Chromium (VI),Cr VI,MI,Bottom,2020.0,Health,2.192610679731111,LB
-Pollutant,Manganese,Mn,MI,Bottom,2020.0,Health,1643.4970464092714,LB
-Pollutant,Mercury,Hg,MI,Bottom,2020.0,Health,21.27297223582772,LB
-Pollutant,Methane,CH4,MI,Bottom,2020.0,GHG,2724.6919829517,TON
-Pollutant,Nickel,Ni,MI,Bottom,2020.0,Health,306.6105574563864,LB
-Pollutant,Nitrogen Oxides,NOx,MI,Bottom,2020.0,Health,53213.5809456626,TON
-Pollutant,Nitrous Oxide,N2O,MI,Bottom,2020.0,GHG,745.073319898792,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,Bottom,2020.0,Health,4821.037161194295,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Bottom,2020.0,Health,1893.235646563421,TON
-Pollutant,Sulfur Dioxide,SO2,MI,Bottom,2020.0,Health,268.9039748755338,TON
-Pollutant,Volatile Organic Compounds,VOC,MI,Bottom,2020.0,Health,29344.5645740382,TON
-Pollutant,Carbon Dioxide,CO2,LA,Bottom,2020.0,GHG,28164056.3030421,TON
-Pollutant,Carbon Monoxide,CO,LA,Bottom,2020.0,GHG,255590.92892399,TON
-Pollutant,Chromium (VI),Cr VI,LA,Bottom,2020.0,Health,1.1823452537201085,LB
-Pollutant,Manganese,Mn,LA,Bottom,2020.0,Health,980.0330634810036,LB
-Pollutant,Mercury,Hg,LA,Bottom,2020.0,Health,11.31275719455438,LB
-Pollutant,Methane,CH4,LA,Bottom,2020.0,GHG,1336.6644416755,TON
-Pollutant,Nickel,Ni,LA,Bottom,2020.0,Health,170.80510810759642,LB
-Pollutant,Nitrogen Oxides,NOx,LA,Bottom,2020.0,Health,38174.3780354306,TON
-Pollutant,Nitrous Oxide,N2O,LA,Bottom,2020.0,GHG,385.979328080327,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,Bottom,2020.0,Health,2971.3073650844112,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Bottom,2020.0,Health,1197.3542734215052,TON
-Pollutant,Sulfur Dioxide,SO2,LA,Bottom,2020.0,Health,158.13524414222,TON
-Pollutant,Volatile Organic Compounds,VOC,LA,Bottom,2020.0,Health,16184.0495728422,TON
-Pollutant,Carbon Dioxide,CO2,AR,Bottom,2020.0,GHG,20515420.86872956,TON
-Pollutant,Carbon Monoxide,CO,AR,Bottom,2020.0,GHG,184552.731492951,TON
-Pollutant,Chromium (VI),Cr VI,AR,Bottom,2020.0,Health,0.8273698458986812,LB
-Pollutant,Manganese,Mn,AR,Bottom,2020.0,Health,640.5037762595902,LB
-Pollutant,Mercury,Hg,AR,Bottom,2020.0,Health,7.820614429076076,LB
-Pollutant,Methane,CH4,AR,Bottom,2020.0,GHG,1007.3386307436,TON
-Pollutant,Nickel,Ni,AR,Bottom,2020.0,Health,124.7480629308039,LB
-Pollutant,Nitrogen Oxides,NOx,AR,Bottom,2020.0,Health,32494.6710444288,TON
-Pollutant,Nitrous Oxide,N2O,AR,Bottom,2020.0,GHG,275.4711685602,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,Bottom,2020.0,Health,2169.036249202057,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Bottom,2020.0,Health,984.8927974121997,TON
-Pollutant,Sulfur Dioxide,SO2,AR,Bottom,2020.0,Health,113.0957503669567,TON
-Pollutant,Volatile Organic Compounds,VOC,AR,Bottom,2020.0,Health,11722.7849908978,TON
-Pollutant,Carbon Dioxide,CO2,OK,Bottom,2020.0,GHG,28479010.2047116,TON
-Pollutant,Carbon Monoxide,CO,OK,Bottom,2020.0,GHG,252947.565827956,TON
-Pollutant,Chromium (VI),Cr VI,OK,Bottom,2020.0,Health,0.9812379482886612,LB
-Pollutant,Manganese,Mn,OK,Bottom,2020.0,Health,842.4617999592743,LB
-Pollutant,Mercury,Hg,OK,Bottom,2020.0,Health,9.13055556615746,LB
-Pollutant,Methane,CH4,OK,Bottom,2020.0,GHG,1950.1297981465,TON
-Pollutant,Nickel,Ni,OK,Bottom,2020.0,Health,152.89581803849887,LB
-Pollutant,Nitrogen Oxides,NOx,OK,Bottom,2020.0,Health,50833.0595910562,TON
-Pollutant,Nitrous Oxide,N2O,OK,Bottom,2020.0,GHG,468.5235321051,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,Bottom,2020.0,Health,3028.498265191503,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Bottom,2020.0,Health,1431.5436197334861,TON
-Pollutant,Sulfur Dioxide,SO2,OK,Bottom,2020.0,Health,148.782483988623,TON
-Pollutant,Volatile Organic Compounds,VOC,OK,Bottom,2020.0,Health,19518.5298014214,TON
-Pollutant,Carbon Dioxide,CO2,CA,Top,2020.0,GHG,169832605.12583408,TON
-Pollutant,Carbon Monoxide,CO,CA,Top,2020.0,GHG,540113.071006008,TON
-Pollutant,Chromium (VI),Cr VI,CA,Top,2020.0,Health,66.89267793056814,LB
-Pollutant,Manganese,Mn,CA,Top,2020.0,Health,15341.441166933071,LB
-Pollutant,Mercury,Hg,CA,Top,2020.0,Health,41.68775738292714,LB
-Pollutant,Methane,CH4,CA,Top,2020.0,GHG,6062.945213105884,TON
-Pollutant,Nickel,Ni,CA,Top,2020.0,Health,21097.100221955323,LB
-Pollutant,Nitrogen Oxides,NOx,CA,Top,2020.0,Health,147314.3251879801,TON
-Pollutant,Nitrous Oxide,N2O,CA,Top,2020.0,GHG,2595.590377940291,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,Top,2020.0,Health,20730.70053402065,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,Top,2020.0,Health,9491.133221068068,TON
-Pollutant,Sulfur Dioxide,SO2,CA,Top,2020.0,Health,1438.2196435799963,TON
-Pollutant,Volatile Organic Compounds,VOC,CA,Top,2020.0,Health,69247.770475881,TON
-Pollutant,Carbon Dioxide,CO2,WA,Top,2020.0,GHG,31062952.87312305,TON
-Pollutant,Carbon Monoxide,CO,WA,Top,2020.0,GHG,326374.8475078542,TON
-Pollutant,Chromium (VI),Cr VI,WA,Top,2020.0,Health,1.3199326176435053,LB
-Pollutant,Manganese,Mn,WA,Top,2020.0,Health,1330.9201736137406,LB
-Pollutant,Mercury,Hg,WA,Top,2020.0,Health,12.476551801334129,LB
-Pollutant,Methane,CH4,WA,Top,2020.0,GHG,2699.034141013007,TON
-Pollutant,Nickel,Ni,WA,Top,2020.0,Health,201.02253645259495,LB
-Pollutant,Nitrogen Oxides,NOx,WA,Top,2020.0,Health,60062.977441990726,TON
-Pollutant,Nitrous Oxide,N2O,WA,Top,2020.0,GHG,755.6368651573346,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,Top,2020.0,Health,4220.170025528,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Top,2020.0,Health,1799.2932874829212,TON
-Pollutant,Sulfur Dioxide,SO2,WA,Top,2020.0,Health,175.52741562394846,TON
-Pollutant,Volatile Organic Compounds,VOC,WA,Top,2020.0,Health,28634.69585317062,TON
-Pollutant,Carbon Dioxide,CO2,OR,Top,2020.0,GHG,20899424.410959356,TON
-Pollutant,Carbon Monoxide,CO,OR,Top,2020.0,GHG,237933.5329948712,TON
-Pollutant,Chromium (VI),Cr VI,OR,Top,2020.0,Health,0.776257706638034,LB
-Pollutant,Manganese,Mn,OR,Top,2020.0,Health,819.7666123480402,LB
-Pollutant,Mercury,Hg,OR,Top,2020.0,Health,7.083035426954448,LB
-Pollutant,Methane,CH4,OR,Top,2020.0,GHG,2076.371842142116,TON
-Pollutant,Nickel,Ni,OR,Top,2020.0,Health,130.8638556630752,LB
-Pollutant,Nitrogen Oxides,NOx,OR,Top,2020.0,Health,52550.63223147349,TON
-Pollutant,Nitrous Oxide,N2O,OR,Top,2020.0,GHG,619.6138935109145,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,Top,2020.0,Health,3026.538778191407,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Top,2020.0,Health,1488.7222667918954,TON
-Pollutant,Sulfur Dioxide,SO2,OR,Top,2020.0,Health,112.20839213470894,TON
-Pollutant,Volatile Organic Compounds,VOC,OR,Top,2020.0,Health,25138.017626476594,TON
-Pollutant,Carbon Dioxide,CO2,HI,Top,2020.0,GHG,4732339.722758116,TON
-Pollutant,Carbon Monoxide,CO,HI,Top,2020.0,GHG,55508.96979437366,TON
-Pollutant,Chromium (VI),Cr VI,HI,Top,2020.0,Health,0.221846638165904,LB
-Pollutant,Manganese,Mn,HI,Top,2020.0,Health,211.2925630586,LB
-Pollutant,Mercury,Hg,HI,Top,2020.0,Health,2.1494742188652,LB
-Pollutant,Methane,CH4,HI,Top,2020.0,GHG,342.07712595710257,TON
-Pollutant,Nickel,Ni,HI,Top,2020.0,Health,31.17811282844628,LB
-Pollutant,Nitrogen Oxides,NOx,HI,Top,2020.0,Health,5840.930158682472,TON
-Pollutant,Nitrous Oxide,N2O,HI,Top,2020.0,GHG,108.79856272271836,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,Top,2020.0,Health,593.3859537538482,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Top,2020.0,Health,217.44221074642476,TON
-Pollutant,Sulfur Dioxide,SO2,HI,Top,2020.0,Health,28.450999085617532,TON
-Pollutant,Volatile Organic Compounds,VOC,HI,Top,2020.0,Health,4684.470694733261,TON
-Pollutant,Carbon Dioxide,CO2,CO,Top,2020.0,GHG,27125607.759824842,TON
-Pollutant,Carbon Monoxide,CO,CO,Top,2020.0,GHG,269131.1461107688,TON
-Pollutant,Chromium (VI),Cr VI,CO,Top,2020.0,Health,1.2156508305088496,LB
-Pollutant,Manganese,Mn,CO,Top,2020.0,Health,1004.1129210702964,LB
-Pollutant,Mercury,Hg,CO,Top,2020.0,Health,11.572607117658453,LB
-Pollutant,Methane,CH4,CO,Top,2020.0,GHG,1967.5961083851,TON
-Pollutant,Nickel,Ni,CO,Top,2020.0,Health,181.3220101882313,LB
-Pollutant,Nitrogen Oxides,NOx,CO,Top,2020.0,Health,44380.78542290345,TON
-Pollutant,Nitrous Oxide,N2O,CO,Top,2020.0,GHG,528.290773365755,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,Top,2020.0,Health,3196.411853443284,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Top,2020.0,Health,1382.302671048401,TON
-Pollutant,Sulfur Dioxide,SO2,CO,Top,2020.0,Health,157.5131313480621,TON
-Pollutant,Volatile Organic Compounds,VOC,CO,Top,2020.0,Health,22247.349976411668,TON
-Pollutant,Carbon Dioxide,CO2,NV,Top,2020.0,GHG,14085472.980762,TON
-Pollutant,Carbon Monoxide,CO,NV,Top,2020.0,GHG,130962.49215437,TON
-Pollutant,Chromium (VI),Cr VI,NV,Top,2020.0,Health,0.6130182367734216,LB
-Pollutant,Manganese,Mn,NV,Top,2020.0,Health,569.832829359364,LB
-Pollutant,Mercury,Hg,NV,Top,2020.0,Health,5.85048449823672,LB
-Pollutant,Methane,CH4,NV,Top,2020.0,GHG,960.0686860317495,TON
-Pollutant,Nickel,Ni,NV,Top,2020.0,Health,90.43769004212204,LB
-Pollutant,Nitrogen Oxides,NOx,NV,Top,2020.0,Health,22447.7857607441,TON
-Pollutant,Nitrous Oxide,N2O,NV,Top,2020.0,GHG,234.860196511323,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,Top,2020.0,Health,1719.9154737527,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Top,2020.0,Health,694.434728201639,TON
-Pollutant,Sulfur Dioxide,SO2,NV,Top,2020.0,Health,80.945517185532,TON
-Pollutant,Volatile Organic Compounds,VOC,NV,Top,2020.0,Health,10666.6650724973,TON
-Pollutant,Carbon Dioxide,CO2,ND,Bottom,2020.0,GHG,5913614.81126303,TON
-Pollutant,Carbon Monoxide,CO,ND,Bottom,2020.0,GHG,54318.7909902987,TON
-Pollutant,Chromium (VI),Cr VI,ND,Bottom,2020.0,Health,0.20930283171291428,LB
-Pollutant,Manganese,Mn,ND,Bottom,2020.0,Health,167.5055974189182,LB
-Pollutant,Mercury,Hg,ND,Bottom,2020.0,Health,1.896169935629362,LB
-Pollutant,Methane,CH4,ND,Bottom,2020.0,GHG,382.21421108657603,TON
-Pollutant,Nickel,Ni,ND,Bottom,2020.0,Health,35.60621795792038,LB
-Pollutant,Nitrogen Oxides,NOx,ND,Bottom,2020.0,Health,12567.72050128954,TON
-Pollutant,Nitrous Oxide,N2O,ND,Bottom,2020.0,GHG,86.3678953260292,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,Bottom,2020.0,Health,706.0042443184983,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,Bottom,2020.0,Health,384.6589435820963,TON
-Pollutant,Sulfur Dioxide,SO2,ND,Bottom,2020.0,Health,30.97961802905462,TON
-Pollutant,Volatile Organic Compounds,VOC,ND,Bottom,2020.0,Health,4055.334463809901,TON
-Pollutant,Carbon Dioxide,CO2,WY,Bottom,2020.0,GHG,6953488.9410951,TON
-Pollutant,Carbon Monoxide,CO,WY,Bottom,2020.0,GHG,59054.089160667005,TON
-Pollutant,Chromium (VI),Cr VI,WY,Bottom,2020.0,Health,0.23098720628436376,LB
-Pollutant,Manganese,Mn,WY,Bottom,2020.0,Health,181.001053041908,LB
-Pollutant,Mercury,Hg,WY,Bottom,2020.0,Health,2.03053278416046,LB
-Pollutant,Methane,CH4,WY,Bottom,2020.0,GHG,405.6415189237,TON
-Pollutant,Nickel,Ni,WY,Bottom,2020.0,Health,42.29089041471892,LB
-Pollutant,Nitrogen Oxides,NOx,WY,Bottom,2020.0,Health,17353.6623022955,TON
-Pollutant,Nitrous Oxide,N2O,WY,Bottom,2020.0,GHG,87.332362994192,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,Bottom,2020.0,Health,816.692420615822,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Bottom,2020.0,Health,465.392665053408,TON
-Pollutant,Sulfur Dioxide,SO2,WY,Bottom,2020.0,Health,34.8863060992527,TON
-Pollutant,Volatile Organic Compounds,VOC,WY,Bottom,2020.0,Health,4354.4566101623,TON
-Pollutant,Carbon Dioxide,CO2,SD,Bottom,2020.0,GHG,5880043.29763525,TON
-Pollutant,Carbon Monoxide,CO,SD,Bottom,2020.0,GHG,67640.14399194,TON
-Pollutant,Chromium (VI),Cr VI,SD,Bottom,2020.0,Health,0.24161056628022112,LB
-Pollutant,Manganese,Mn,SD,Bottom,2020.0,Health,156.946416594939,LB
-Pollutant,Mercury,Hg,SD,Bottom,2020.0,Health,2.236392164697184,LB
-Pollutant,Methane,CH4,SD,Bottom,2020.0,GHG,412.6665073376289,TON
-Pollutant,Nickel,Ni,SD,Bottom,2020.0,Health,39.25033541597402,LB
-Pollutant,Nitrogen Oxides,NOx,SD,Bottom,2020.0,Health,12248.6710161999,TON
-Pollutant,Nitrous Oxide,N2O,SD,Bottom,2020.0,GHG,106.0383311398077,TON
-Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,Bottom,2020.0,Health,642.069454634876,TON
-Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,Bottom,2020.0,Health,349.9495992229226,TON
-Pollutant,Sulfur Dioxide,SO2,SD,Bottom,2020.0,Health,32.528334504627,TON
-Pollutant,Volatile Organic Compounds,VOC,SD,Bottom,2020.0,Health,4977.7689617605,TON
+Pollutant,Carbon Dioxide,CO2,VT,HIGH,2008.0,GHG,3631471.1850093002,Tons
+Pollutant,Carbon Monoxide,CO,VT,HIGH,2008.0,GHG,66710.129780172,Tons
+Pollutant,Chromium (VI),Cr VI,VT,HIGH,2008.0,Health,61.627562040262,Lb's
+Pollutant,Manganese,Mn,VT,HIGH,2008.0,Health,30.472312864344,Lb's
+Pollutant,Mercury,Hg,VT,HIGH,2008.0,Health,1.76157341059068,Lb's
+Pollutant,Methane,CH4,VT,HIGH,2008.0,GHG,323.277605566341,Tons
+Pollutant,Nickel,Ni,VT,HIGH,2008.0,Health,63.97885994346,Lb's
+Pollutant,Nitrogen Oxides,NOx,VT,HIGH,2008.0,Health,12212.253389313,Tons
+Pollutant,Nitrous Oxide,N2O,VT,HIGH,2008.0,GHG,163.548446030504,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,HIGH,2008.0,Health,616.037089233219,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,HIGH,2008.0,Health,477.092018685432,Tons
+Pollutant,Sulfur Dioxide,SO2,VT,HIGH,2008.0,Health,73.257463427726,Tons
+Pollutant,Volatile Organic Compounds,VOC,VT,HIGH,2008.0,Health,6273.6014306882,Tons
+Pollutant,Carbon Dioxide,CO2,MA,HIGH,2008.0,GHG,32404588.883425,Tons
+Pollutant,Carbon Monoxide,CO,MA,HIGH,2008.0,GHG,383819.927516816,Tons
+Pollutant,Chromium (VI),Cr VI,MA,HIGH,2008.0,Health,461.13276941354,Lb's
+Pollutant,Manganese,Mn,MA,HIGH,2008.0,Health,239.5760398024,Lb's
+Pollutant,Mercury,Hg,MA,HIGH,2008.0,Health,13.0550033720852,Lb's
+Pollutant,Methane,CH4,MA,HIGH,2008.0,GHG,1996.57434710981,Tons
+Pollutant,Nickel,Ni,MA,HIGH,2008.0,Health,499.1629180544,Lb's
+Pollutant,Nitrogen Oxides,NOx,MA,HIGH,2008.0,Health,84748.14175773,Tons
+Pollutant,Nitrous Oxide,N2O,MA,HIGH,2008.0,GHG,1251.649638618837,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,HIGH,2008.0,Health,5557.98063634692,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,HIGH,2008.0,Health,3941.0159288899,Tons
+Pollutant,Sulfur Dioxide,SO2,MA,HIGH,2008.0,Health,624.57896162459,Tons
+Pollutant,Volatile Organic Compounds,VOC,MA,HIGH,2008.0,Health,34481.415686612,Tons
+Pollutant,Carbon Dioxide,CO2,MD,HIGH,2008.0,GHG,30932200.730935,Tons
+Pollutant,Carbon Monoxide,CO,MD,HIGH,2008.0,GHG,455710.988329252,Tons
+Pollutant,Chromium (VI),Cr VI,MD,HIGH,2008.0,Health,476.57643042246,Lb's
+Pollutant,Manganese,Mn,MD,HIGH,2008.0,Health,247.27544474064,Lb's
+Pollutant,Mercury,Hg,MD,HIGH,2008.0,Health,13.505941881013,Lb's
+Pollutant,Methane,CH4,MD,HIGH,2008.0,GHG,1893.31627480607,Tons
+Pollutant,Nickel,Ni,MD,HIGH,2008.0,Health,515.3230718926,Lb's
+Pollutant,Nitrogen Oxides,NOx,MD,HIGH,2008.0,Health,95784.52978449,Tons
+Pollutant,Nitrous Oxide,N2O,MD,HIGH,2008.0,GHG,1385.55900742863,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,HIGH,2008.0,Health,4729.71961303718,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,HIGH,2008.0,Health,3618.80863573736,Tons
+Pollutant,Sulfur Dioxide,SO2,MD,HIGH,2008.0,Health,630.96006592116,Tons
+Pollutant,Volatile Organic Compounds,VOC,MD,HIGH,2008.0,Health,40821.29320657,Tons
+Pollutant,Carbon Dioxide,CO2,VA,HIGH,2008.0,GHG,46340771.2470319,Tons
+Pollutant,Carbon Monoxide,CO,VA,HIGH,2008.0,GHG,923380.2677822114,Tons
+Pollutant,Chromium (VI),Cr VI,VA,HIGH,2008.0,Health,694.0734145718146,Lb's
+Pollutant,Manganese,Mn,VA,HIGH,2008.0,Health,363.539141628686,Lb's
+Pollutant,Mercury,Hg,VA,HIGH,2008.0,Health,19.68141943269541,Lb's
+Pollutant,Methane,CH4,VA,HIGH,2008.0,GHG,3910.239924397795,Tons
+Pollutant,Nickel,Ni,VA,HIGH,2008.0,Health,756.54733819571,Lb's
+Pollutant,Nitrogen Oxides,NOx,VA,HIGH,2008.0,Health,180179.763805006,Tons
+Pollutant,Nitrous Oxide,N2O,VA,HIGH,2008.0,GHG,2526.986076731422,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,HIGH,2008.0,Health,7336.549300464379,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,HIGH,2008.0,Health,5552.880546837637,Tons
+Pollutant,Sulfur Dioxide,SO2,VA,HIGH,2008.0,Health,935.337891720199,Tons
+Pollutant,Volatile Organic Compounds,VOC,VA,HIGH,2008.0,Health,82607.8037772812,Tons
+Pollutant,Carbon Dioxide,CO2,WV,LOW,2008.0,GHG,12261191.6765523,Tons
+Pollutant,Carbon Monoxide,CO,WV,LOW,2008.0,GHG,254429.254793774,Tons
+Pollutant,Chromium (VI),Cr VI,WV,LOW,2008.0,Health,173.2810125132716,Lb's
+Pollutant,Manganese,Mn,WV,LOW,2008.0,Health,95.390128501506,Lb's
+Pollutant,Mercury,Hg,WV,LOW,2008.0,Health,4.92087518553974,Lb's
+Pollutant,Methane,CH4,WV,LOW,2008.0,GHG,1127.326486544336,Tons
+Pollutant,Nickel,Ni,WV,LOW,2008.0,Health,197.064770620048,Lb's
+Pollutant,Nitrogen Oxides,NOx,WV,LOW,2008.0,Health,51845.8397736455,Tons
+Pollutant,Nitrous Oxide,N2O,WV,LOW,2008.0,GHG,599.704627003842,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,LOW,2008.0,Health,2000.1880525962,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,LOW,2008.0,Health,1565.3039583842317,Tons
+Pollutant,Sulfur Dioxide,SO2,WV,LOW,2008.0,Health,240.945073301625,Tons
+Pollutant,Volatile Organic Compounds,VOC,WV,LOW,2008.0,Health,22192.7734820845,Tons
+Pollutant,Carbon Dioxide,CO2,AL,LOW,2008.0,GHG,35289549.3995628,Tons
+Pollutant,Carbon Monoxide,CO,AL,LOW,2008.0,GHG,633900.3770732762,Tons
+Pollutant,Chromium (VI),Cr VI,AL,LOW,2008.0,Health,496.6827064047748,Lb's
+Pollutant,Manganese,Mn,AL,LOW,2008.0,Health,268.495749686028,Lb's
+Pollutant,Mercury,Hg,AL,LOW,2008.0,Health,14.086491892672232,Lb's
+Pollutant,Methane,CH4,AL,LOW,2008.0,GHG,2666.1519639640173,Tons
+Pollutant,Nickel,Ni,AL,LOW,2008.0,Health,556.115331867372,Lb's
+Pollutant,Nitrogen Oxides,NOx,AL,LOW,2008.0,Health,133827.7221848789,Tons
+Pollutant,Nitrous Oxide,N2O,AL,LOW,2008.0,GHG,1637.6379480581795,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,LOW,2008.0,Health,5370.6046961819075,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,LOW,2008.0,Health,3881.0734428111923,Tons
+Pollutant,Sulfur Dioxide,SO2,AL,LOW,2008.0,Health,680.636988558038,Tons
+Pollutant,Volatile Organic Compounds,VOC,AL,LOW,2008.0,Health,59131.1166709283,Tons
+Pollutant,Carbon Dioxide,CO2,KY,LOW,2008.0,GHG,29085383.910658,Tons
+Pollutant,Carbon Monoxide,CO,KY,LOW,2008.0,GHG,515411.566736752,Tons
+Pollutant,Chromium (VI),Cr VI,KY,LOW,2008.0,Health,393.3234301412964,Lb's
+Pollutant,Manganese,Mn,KY,LOW,2008.0,Health,223.01770613899401,Lb's
+Pollutant,Mercury,Hg,KY,LOW,2008.0,Health,11.13034888453957,Lb's
+Pollutant,Methane,CH4,KY,LOW,2008.0,GHG,2250.707210123486,Tons
+Pollutant,Nickel,Ni,KY,LOW,2008.0,Health,458.776450589136,Lb's
+Pollutant,Nitrogen Oxides,NOx,KY,LOW,2008.0,Health,122228.003321693,Tons
+Pollutant,Nitrous Oxide,N2O,KY,LOW,2008.0,GHG,1265.347981873113,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,LOW,2008.0,Health,5445.30669691451,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,LOW,2008.0,Health,4281.297731276925,Tons
+Pollutant,Sulfur Dioxide,SO2,KY,LOW,2008.0,Health,553.85421151344,Tons
+Pollutant,Volatile Organic Compounds,VOC,KY,LOW,2008.0,Health,46798.2523877866,Tons
+Pollutant,Carbon Dioxide,CO2,MI,LOW,2008.0,GHG,63633145.864485,Tons
+Pollutant,Carbon Monoxide,CO,MI,LOW,2008.0,GHG,1398566.645421716,Tons
+Pollutant,Chromium (VI),Cr VI,MI,LOW,2008.0,Health,827.5268143187,Lb's
+Pollutant,Manganese,Mn,MI,LOW,2008.0,Health,456.5652914442,Lb's
+Pollutant,Mercury,Hg,MI,LOW,2008.0,Health,23.3820226507722,Lb's
+Pollutant,Methane,CH4,MI,LOW,2008.0,GHG,6619.80515061145,Tons
+Pollutant,Nickel,Ni,MI,LOW,2008.0,Health,942.8763228376,Lb's
+Pollutant,Nitrogen Oxides,NOx,MI,LOW,2008.0,Health,265825.00522663,Tons
+Pollutant,Nitrous Oxide,N2O,MI,LOW,2008.0,GHG,3033.83672644975,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,LOW,2008.0,Health,14161.11872725594,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,LOW,2008.0,Health,10897.038846173475,Tons
+Pollutant,Sulfur Dioxide,SO2,MI,LOW,2008.0,Health,1257.6344234339,Tons
+Pollutant,Volatile Organic Compounds,VOC,MI,LOW,2008.0,Health,121293.539720174,Tons
+Pollutant,Carbon Dioxide,CO2,LA,LOW,2008.0,GHG,27796861.247019902,Tons
+Pollutant,Carbon Monoxide,CO,LA,LOW,2008.0,GHG,490106.8433702934,Tons
+Pollutant,Chromium (VI),Cr VI,LA,LOW,2008.0,Health,381.8416057645828,Lb's
+Pollutant,Manganese,Mn,LA,LOW,2008.0,Health,208.160594446548,Lb's
+Pollutant,Mercury,Hg,LA,LOW,2008.0,Health,10.812694862529314,Lb's
+Pollutant,Methane,CH4,LA,LOW,2008.0,GHG,1894.3476957915163,Tons
+Pollutant,Nickel,Ni,LA,LOW,2008.0,Health,430.62758929154,Lb's
+Pollutant,Nitrogen Oxides,NOx,LA,LOW,2008.0,Health,108646.4437073649,Tons
+Pollutant,Nitrous Oxide,N2O,LA,LOW,2008.0,GHG,1282.829065248422,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,LOW,2008.0,Health,4603.9674907334365,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,LOW,2008.0,Health,3422.043058057189,Tons
+Pollutant,Sulfur Dioxide,SO2,LA,LOW,2008.0,Health,536.920255260849,Tons
+Pollutant,Volatile Organic Compounds,VOC,LA,LOW,2008.0,Health,46013.8270520073,Tons
+Pollutant,Carbon Dioxide,CO2,AR,LOW,2008.0,GHG,19767263.44045404,Tons
+Pollutant,Carbon Monoxide,CO,AR,LOW,2008.0,GHG,470695.7091412236,Tons
+Pollutant,Chromium (VI),Cr VI,AR,LOW,2008.0,Health,269.77983780477354,Lb's
+Pollutant,Manganese,Mn,AR,LOW,2008.0,Health,147.18647479479145,Lb's
+Pollutant,Mercury,Hg,AR,LOW,2008.0,Health,7.653559384242214,Lb's
+Pollutant,Methane,CH4,AR,LOW,2008.0,GHG,1803.2941871364942,Tons
+Pollutant,Nickel,Ni,AR,LOW,2008.0,Health,304.4606962402332,Lb's
+Pollutant,Nitrogen Oxides,NOx,AR,LOW,2008.0,Health,88415.988868112,Tons
+Pollutant,Nitrous Oxide,N2O,AR,LOW,2008.0,GHG,1053.0734734859916,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,LOW,2008.0,Health,3646.911118953765,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,LOW,2008.0,Health,2817.7232770032633,Tons
+Pollutant,Sulfur Dioxide,SO2,AR,LOW,2008.0,Health,818.9500070378884,Tons
+Pollutant,Volatile Organic Compounds,VOC,AR,LOW,2008.0,Health,40952.44724183263,Tons
+Pollutant,Carbon Dioxide,CO2,OK,LOW,2008.0,GHG,29883155.899054,Tons
+Pollutant,Carbon Monoxide,CO,OK,LOW,2008.0,GHG,635713.19788044,Tons
+Pollutant,Chromium (VI),Cr VI,OK,LOW,2008.0,Health,403.79656816199,Lb's
+Pollutant,Manganese,Mn,OK,LOW,2008.0,Health,223.55669211962,Lb's
+Pollutant,Mercury,Hg,OK,LOW,2008.0,Health,11.43055475767772,Lb's
+Pollutant,Methane,CH4,OK,LOW,2008.0,GHG,2519.003259113297,Tons
+Pollutant,Nickel,Ni,OK,LOW,2008.0,Health,461.44423433148,Lb's
+Pollutant,Nitrogen Oxides,NOx,OK,LOW,2008.0,Health,135337.507256852,Tons
+Pollutant,Nitrous Oxide,N2O,OK,LOW,2008.0,GHG,1427.952991485172,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,LOW,2008.0,Health,5647.3959733759,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,LOW,2008.0,Health,4352.701020078054,Tons
+Pollutant,Sulfur Dioxide,SO2,OK,LOW,2008.0,Health,1207.27880972884,Tons
+Pollutant,Volatile Organic Compounds,VOC,OK,LOW,2008.0,Health,56959.7271387074,Tons
+Pollutant,Carbon Monoxide,CO,CA,HIGH,2008.0,GHG,2226017.663,Tons
+Pollutant,Manganese,Mn,CA,HIGH,2008.0,Health,6965.3577270000005,Lb's
+Pollutant,Mercury,Hg,CA,HIGH,2008.0,Health,710.998388,Lb's
+Pollutant,Nickel,Ni,CA,HIGH,2008.0,Health,6773.935228,Lb's
+Pollutant,Nitrogen Oxides,NOx,CA,HIGH,2008.0,Health,578276.3575,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,HIGH,2008.0,Health,28177.084,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,HIGH,2008.0,Health,21183.331,Tons
+Pollutant,Sulfur Dioxide,SO2,CA,HIGH,2008.0,Health,1974.613,Tons
+Pollutant,Volatile Organic Compounds,VOC,CA,HIGH,2008.0,Health,247367.508,Tons
+Pollutant,Carbon Dioxide,CO2,WA,HIGH,2008.0,GHG,35047059.744189,Tons
+Pollutant,Carbon Monoxide,CO,WA,HIGH,2008.0,GHG,1001689.026359389,Tons
+Pollutant,Chromium (VI),Cr VI,WA,HIGH,2008.0,Health,462.888461257244,Lb's
+Pollutant,Manganese,Mn,WA,HIGH,2008.0,Health,255.69799388506,Lb's
+Pollutant,Mercury,Hg,WA,HIGH,2008.0,Health,13.08210693930822,Lb's
+Pollutant,Methane,CH4,WA,HIGH,2008.0,GHG,3657.097305076517,Tons
+Pollutant,Nickel,Ni,WA,HIGH,2008.0,Health,527.96269519194,Lb's
+Pollutant,Nitrogen Oxides,NOx,WA,HIGH,2008.0,Health,166030.476417848,Tons
+Pollutant,Nitrous Oxide,N2O,WA,HIGH,2008.0,GHG,2135.963871828366,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,HIGH,2008.0,Health,8828.52201751053,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,HIGH,2008.0,Health,7051.801653712836,Tons
+Pollutant,Sulfur Dioxide,SO2,WA,HIGH,2008.0,Health,905.10752389263,Tons
+Pollutant,Volatile Organic Compounds,VOC,WA,HIGH,2008.0,Health,76361.0406148539,Tons
+Pollutant,Carbon Dioxide,CO2,OR,HIGH,2008.0,GHG,20004016.438559,Tons
+Pollutant,Carbon Monoxide,CO,OR,HIGH,2008.0,GHG,523920.048947102,Tons
+Pollutant,Chromium (VI),Cr VI,OR,HIGH,2008.0,Health,281.55568230754,Lb's
+Pollutant,Manganese,Mn,OR,HIGH,2008.0,Health,149.80922921378001,Lb's
+Pollutant,Mercury,Hg,OR,HIGH,2008.0,Health,7.9921779792624,Lb's
+Pollutant,Methane,CH4,OR,HIGH,2008.0,GHG,2053.683609801151,Tons
+Pollutant,Nickel,Ni,OR,HIGH,2008.0,Health,311.0262112898,Lb's
+Pollutant,Nitrogen Oxides,NOx,OR,HIGH,2008.0,Health,90378.70306681,Tons
+Pollutant,Nitrous Oxide,N2O,OR,HIGH,2008.0,GHG,1214.136979649229,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,HIGH,2008.0,Health,4397.19418623237,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,HIGH,2008.0,Health,3466.577247231544,Tons
+Pollutant,Sulfur Dioxide,SO2,OR,HIGH,2008.0,Health,532.07514321833,Tons
+Pollutant,Volatile Organic Compounds,VOC,OR,HIGH,2008.0,Health,42818.962654466,Tons
+Pollutant,Carbon Dioxide,CO2,HI,HIGH,2008.0,GHG,5785895.60288,Tons
+Pollutant,Carbon Monoxide,CO,HI,HIGH,2008.0,GHG,134340.17990284,Tons
+Pollutant,Chromium (VI),Cr VI,HI,HIGH,2008.0,Health,20.195539814059998,Lb's
+Pollutant,Manganese,Mn,HI,HIGH,2008.0,Health,41.8910529984,Lb's
+Pollutant,Mercury,Hg,HI,HIGH,2008.0,Health,2.5322551041358,Lb's
+Pollutant,Methane,CH4,HI,HIGH,2008.0,GHG,400.00196911885,Tons
+Pollutant,Nickel,Ni,HI,HIGH,2008.0,Health,88.58482891,Lb's
+Pollutant,Nitrogen Oxides,NOx,HI,HIGH,2008.0,Health,19889.9722608,Tons
+Pollutant,Nitrous Oxide,N2O,HI,HIGH,2008.0,GHG,318.71765715286,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,HIGH,2008.0,Health,1081.0770787428,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,HIGH,2008.0,Health,821.0983974638,Tons
+Pollutant,Sulfur Dioxide,SO2,HI,HIGH,2008.0,Health,252.580120525,Tons
+Pollutant,Volatile Organic Compounds,VOC,HI,HIGH,2008.0,Health,11349.649852539,Tons
+Pollutant,Carbon Dioxide,CO2,CO,HIGH,2008.0,GHG,27460554.4704168,Tons
+Pollutant,Carbon Monoxide,CO,CO,HIGH,2008.0,GHG,521736.64565025264,Tons
+Pollutant,Chromium (VI),Cr VI,CO,HIGH,2008.0,Health,406.58677663806947,Lb's
+Pollutant,Manganese,Mn,CO,HIGH,2008.0,Health,207.7636177686616,Lb's
+Pollutant,Mercury,Hg,CO,HIGH,2008.0,Health,11.541459364011123,Lb's
+Pollutant,Methane,CH4,CO,HIGH,2008.0,GHG,2269.7196871935407,Tons
+Pollutant,Nickel,Ni,CO,HIGH,2008.0,Health,433.9797862329616,Lb's
+Pollutant,Nitrogen Oxides,NOx,CO,HIGH,2008.0,Health,100338.0155700757,Tons
+Pollutant,Nitrous Oxide,N2O,CO,HIGH,2008.0,GHG,1302.9064981334739,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,HIGH,2008.0,Health,5008.9960297456155,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,HIGH,2008.0,Health,3710.242191790877,Tons
+Pollutant,Sulfur Dioxide,SO2,CO,HIGH,2008.0,Health,745.1144772258473,Tons
+Pollutant,Volatile Organic Compounds,VOC,CO,HIGH,2008.0,Health,47556.885275478824,Tons
+Pollutant,Carbon Dioxide,CO2,NV,HIGH,2008.0,GHG,11195955.55802436,Tons
+Pollutant,Carbon Monoxide,CO,NV,HIGH,2008.0,GHG,222362.39258619727,Tons
+Pollutant,Chromium (VI),Cr VI,NV,HIGH,2008.0,Health,177.17187549574516,Lb's
+Pollutant,Manganese,Mn,NV,HIGH,2008.0,Health,84.3176090222416,Lb's
+Pollutant,Mercury,Hg,NV,HIGH,2008.0,Health,5.047010426380628,Lb's
+Pollutant,Methane,CH4,NV,HIGH,2008.0,GHG,825.5054281466098,Tons
+Pollutant,Nickel,Ni,NV,HIGH,2008.0,Health,178.1148555851722,Lb's
+Pollutant,Nitrogen Oxides,NOx,NV,HIGH,2008.0,Health,40642.7455840891,Tons
+Pollutant,Nitrous Oxide,N2O,NV,HIGH,2008.0,GHG,574.2343618346973,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,HIGH,2008.0,Health,1751.4748141281377,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,HIGH,2008.0,Health,1221.7501904430644,Tons
+Pollutant,Sulfur Dioxide,SO2,NV,HIGH,2008.0,Health,510.7704288296527,Tons
+Pollutant,Volatile Organic Compounds,VOC,NV,HIGH,2008.0,Health,27083.96131491587,Tons
+Pollutant,Carbon Dioxide,CO2,ND,LOW,2008.0,GHG,4803702.679565,Tons
+Pollutant,Carbon Monoxide,CO,ND,LOW,2008.0,GHG,105667.980588495,Tons
+Pollutant,Chromium (VI),Cr VI,ND,LOW,2008.0,Health,64.34764598054,Lb's
+Pollutant,Manganese,Mn,ND,LOW,2008.0,Health,37.2625160626,Lb's
+Pollutant,Mercury,Hg,ND,LOW,2008.0,Health,1.8215643461706,Lb's
+Pollutant,Methane,CH4,ND,LOW,2008.0,GHG,553.6395429601899,Tons
+Pollutant,Nickel,Ni,ND,LOW,2008.0,Health,76.429371108,Lb's
+Pollutant,Nitrogen Oxides,NOx,ND,LOW,2008.0,Health,22184.29513207,Tons
+Pollutant,Nitrous Oxide,N2O,ND,LOW,2008.0,GHG,206.891447535165,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,LOW,2008.0,Health,1083.82285084269,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,LOW,2008.0,Health,889.94789792671,Tons
+Pollutant,Sulfur Dioxide,SO2,ND,LOW,2008.0,Health,86.75231667888,Tons
+Pollutant,Volatile Organic Compounds,VOC,ND,LOW,2008.0,Health,9486.657720201,Tons
+Pollutant,Carbon Dioxide,CO2,WY,LOW,2008.0,GHG,6342214.088933,Tons
+Pollutant,Carbon Monoxide,CO,WY,LOW,2008.0,GHG,135412.71932947,Tons
+Pollutant,Chromium (VI),Cr VI,WY,LOW,2008.0,Health,77.20961957749999,Lb's
+Pollutant,Manganese,Mn,WY,LOW,2008.0,Health,45.8592395362,Lb's
+Pollutant,Mercury,Hg,WY,LOW,2008.0,Health,2.182121092995,Lb's
+Pollutant,Methane,CH4,WY,LOW,2008.0,GHG,601.63407036192,Tons
+Pollutant,Nickel,Ni,WY,LOW,2008.0,Health,93.7382208936,Lb's
+Pollutant,Nitrogen Oxides,NOx,WY,LOW,2008.0,Health,31295.86820494,Tons
+Pollutant,Nitrous Oxide,N2O,WY,LOW,2008.0,GHG,247.12661308078,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,LOW,2008.0,Health,1321.7873970621,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,LOW,2008.0,Health,1100.47193490157,Tons
+Pollutant,Sulfur Dioxide,SO2,WY,LOW,2008.0,Health,154.55790713069,Tons
+Pollutant,Volatile Organic Compounds,VOC,WY,LOW,2008.0,Health,10485.962654276,Tons
+Pollutant,Carbon Dioxide,CO2,SD,LOW,2008.0,GHG,5584378.757476,Tons
+Pollutant,Carbon Monoxide,CO,SD,LOW,2008.0,GHG,117001.799635007,Tons
+Pollutant,Chromium (VI),Cr VI,SD,LOW,2008.0,Health,73.639824975562,Lb's
+Pollutant,Manganese,Mn,SD,LOW,2008.0,Health,43.3050292252,Lb's
+Pollutant,Mercury,Hg,SD,LOW,2008.0,Health,2.08234462945718,Lb's
+Pollutant,Methane,CH4,SD,LOW,2008.0,GHG,561.507045027976,Tons
+Pollutant,Nickel,Ni,SD,LOW,2008.0,Health,88.63647382742,Lb's
+Pollutant,Nitrogen Oxides,NOx,SD,LOW,2008.0,Health,26018.52896271,Tons
+Pollutant,Nitrous Oxide,N2O,SD,LOW,2008.0,GHG,235.128563998499,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,LOW,2008.0,Health,1175.64394348417,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,LOW,2008.0,Health,964.233790102176,Tons
+Pollutant,Sulfur Dioxide,SO2,SD,LOW,2008.0,Health,100.04322034336,Tons
+Pollutant,Volatile Organic Compounds,VOC,SD,LOW,2008.0,Health,10299.7440308814,Tons
+Pollutant,Carbon Dioxide,CO2,VT,HIGH,2011.0,GHG,3707364.149799,Tons
+Pollutant,Carbon Monoxide,CO,VT,HIGH,2011.0,GHG,49036.0875656,Tons
+Pollutant,Chromium (VI),Cr VI,VT,HIGH,2011.0,Health,0.1910404716726,Lb's
+Pollutant,Manganese,Mn,VT,HIGH,2011.0,Health,24.54333544894,Lb's
+Pollutant,Mercury,Hg,VT,HIGH,2011.0,Health,1.7895516877122,Lb's
+Pollutant,Methane,CH4,VT,HIGH,2011.0,GHG,228.2308848993,Tons
+Pollutant,Nickel,Ni,VT,HIGH,2011.0,Health,30.59961553694,Lb's
+Pollutant,Nitrogen Oxides,NOx,VT,HIGH,2011.0,Health,10807.53871752,Tons
+Pollutant,Nitrous Oxide,N2O,VT,HIGH,2011.0,GHG,130.6489655135,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,HIGH,2011.0,Health,705.3815906732,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,HIGH,2011.0,Health,404.8311313297,Tons
+Pollutant,Sulfur Dioxide,SO2,VT,HIGH,2011.0,Health,65.44457548712,Tons
+Pollutant,Volatile Organic Compounds,VOC,VT,HIGH,2011.0,Health,5304.60128857,Tons
+Pollutant,Carbon Dioxide,CO2,MA,HIGH,2011.0,GHG,28238448.4560221,Tons
+Pollutant,Carbon Monoxide,CO,MA,HIGH,2011.0,GHG,327615.26754188,Tons
+Pollutant,Chromium (VI),Cr VI,MA,HIGH,2011.0,Health,1.439632403322964,Lb's
+Pollutant,Manganese,Mn,MA,HIGH,2011.0,Health,179.2172829708178,Lb's
+Pollutant,Mercury,Hg,MA,HIGH,2011.0,Health,13.72596281341604,Lb's
+Pollutant,Methane,CH4,MA,HIGH,2011.0,GHG,1164.988396689,Tons
+Pollutant,Nickel,Ni,MA,HIGH,2011.0,Health,219.16477547272285,Lb's
+Pollutant,Nitrogen Oxides,NOx,MA,HIGH,2011.0,Health,60818.863531767,Tons
+Pollutant,Nitrous Oxide,N2O,MA,HIGH,2011.0,GHG,1070.25467538686,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,HIGH,2011.0,Health,5861.3824260332,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,HIGH,2011.0,Health,2615.75824101357,Tons
+Pollutant,Sulfur Dioxide,SO2,MA,HIGH,2011.0,Health,524.45000295854,Tons
+Pollutant,Volatile Organic Compounds,VOC,MA,HIGH,2011.0,Health,34311.396383439,Tons
+Pollutant,Carbon Dioxide,CO2,MD,HIGH,2011.0,GHG,30521013.08487,Tons
+Pollutant,Carbon Monoxide,CO,MD,HIGH,2011.0,GHG,369069.397945,Tons
+Pollutant,Chromium (VI),Cr VI,MD,HIGH,2011.0,Health,1.49527336711592,Lb's
+Pollutant,Manganese,Mn,MD,HIGH,2011.0,Health,193.230920980128,Lb's
+Pollutant,Mercury,Hg,MD,HIGH,2011.0,Health,13.953751731507,Lb's
+Pollutant,Methane,CH4,MD,HIGH,2011.0,GHG,1328.348555801,Tons
+Pollutant,Nickel,Ni,MD,HIGH,2011.0,Health,241.863781383374,Lb's
+Pollutant,Nitrogen Oxides,NOx,MD,HIGH,2011.0,Health,81571.87412887,Tons
+Pollutant,Nitrous Oxide,N2O,MD,HIGH,2011.0,GHG,1005.6521192149,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,HIGH,2011.0,Health,5533.881117717,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,HIGH,2011.0,Health,2810.7775023023,Tons
+Pollutant,Sulfur Dioxide,SO2,MD,HIGH,2011.0,Health,545.4880303327,Tons
+Pollutant,Volatile Organic Compounds,VOC,MD,HIGH,2011.0,Health,36718.94481265,Tons
+Pollutant,Carbon Dioxide,CO2,VA,HIGH,2011.0,GHG,40902090.22059529,Tons
+Pollutant,Carbon Monoxide,CO,VA,HIGH,2011.0,GHG,566930.147371022,Tons
+Pollutant,Chromium (VI),Cr VI,VA,HIGH,2011.0,Health,2.245118040627291,Lb's
+Pollutant,Manganese,Mn,VA,HIGH,2011.0,Health,295.77334794974126,Lb's
+Pollutant,Mercury,Hg,VA,HIGH,2011.0,Health,20.811980975666216,Lb's
+Pollutant,Methane,CH4,VA,HIGH,2011.0,GHG,2188.32559599549,Tons
+Pollutant,Nickel,Ni,VA,HIGH,2011.0,Health,374.2810768214407,Lb's
+Pollutant,Nitrogen Oxides,NOx,VA,HIGH,2011.0,Health,145761.7956832654,Tons
+Pollutant,Nitrous Oxide,N2O,VA,HIGH,2011.0,GHG,1653.878446614806,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,HIGH,2011.0,Health,7214.79576928871,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,HIGH,2011.0,Health,4395.05155048876,Tons
+Pollutant,Sulfur Dioxide,SO2,VA,HIGH,2011.0,Health,712.7454427028119,Tons
+Pollutant,Volatile Organic Compounds,VOC,VA,HIGH,2011.0,Health,63850.0823854732,Tons
+Pollutant,Carbon Dioxide,CO2,WV,LOW,2011.0,GHG,10631304.234536,Tons
+Pollutant,Carbon Monoxide,CO,WV,LOW,2011.0,GHG,185578.55902253,Tons
+Pollutant,Chromium (VI),Cr VI,WV,LOW,2011.0,Health,0.480378098873438,Lb's
+Pollutant,Manganese,Mn,WV,LOW,2011.0,Health,66.1617906928082,Lb's
+Pollutant,Mercury,Hg,WV,LOW,2011.0,Health,4.3289018912915,Lb's
+Pollutant,Methane,CH4,WV,LOW,2011.0,GHG,689.1972568718,Tons
+Pollutant,Nickel,Ni,WV,LOW,2011.0,Health,85.8708873986422,Lb's
+Pollutant,Nitrogen Oxides,NOx,WV,LOW,2011.0,Health,41879.391652859,Tons
+Pollutant,Nitrous Oxide,N2O,WV,LOW,2011.0,GHG,462.65540789141,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,LOW,2011.0,Health,2201.8280774432,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,LOW,2011.0,Health,1287.2693786319,Tons
+Pollutant,Sulfur Dioxide,SO2,WV,LOW,2011.0,Health,179.53273932433,Tons
+Pollutant,Volatile Organic Compounds,VOC,WV,LOW,2011.0,Health,20759.033755888,Tons
+Pollutant,Carbon Dioxide,CO2,AL,LOW,2011.0,GHG,40302510.906096,Tons
+Pollutant,Carbon Monoxide,CO,AL,LOW,2011.0,GHG,701777.6914722,Tons
+Pollutant,Chromium (VI),Cr VI,AL,LOW,2011.0,Health,1.74908148644458,Lb's
+Pollutant,Manganese,Mn,AL,LOW,2011.0,Health,243.22319745426,Lb's
+Pollutant,Mercury,Hg,AL,LOW,2011.0,Health,15.6803981952544,Lb's
+Pollutant,Methane,CH4,AL,LOW,2011.0,GHG,2120.5577369342,Tons
+Pollutant,Nickel,Ni,AL,LOW,2011.0,Health,317.290485638906,Lb's
+Pollutant,Nitrogen Oxides,NOx,AL,LOW,2011.0,Health,152745.4848092,Tons
+Pollutant,Nitrous Oxide,N2O,AL,LOW,2011.0,GHG,1554.2298204397,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,LOW,2011.0,Health,8511.490015747,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,LOW,2011.0,Health,4685.0614899438,Tons
+Pollutant,Sulfur Dioxide,SO2,AL,LOW,2011.0,Health,683.0679618073,Tons
+Pollutant,Volatile Organic Compounds,VOC,AL,LOW,2011.0,Health,76388.35631317,Tons
+Pollutant,Carbon Dioxide,CO2,KY,LOW,2011.0,GHG,29756708.4509172,Tons
+Pollutant,Carbon Monoxide,CO,KY,LOW,2011.0,GHG,498980.44622476,Tons
+Pollutant,Chromium (VI),Cr VI,KY,LOW,2011.0,Health,1.32665133821504,Lb's
+Pollutant,Manganese,Mn,KY,LOW,2011.0,Health,183.6560275003026,Lb's
+Pollutant,Mercury,Hg,KY,LOW,2011.0,Health,11.924079436536,Lb's
+Pollutant,Methane,CH4,KY,LOW,2011.0,GHG,1710.21073912578,Tons
+Pollutant,Nickel,Ni,KY,LOW,2011.0,Health,239.0096674359972,Lb's
+Pollutant,Nitrogen Oxides,NOx,KY,LOW,2011.0,Health,115640.847780276,Tons
+Pollutant,Nitrous Oxide,N2O,KY,LOW,2011.0,GHG,1138.95641463607,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,LOW,2011.0,Health,5786.2615433202,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,LOW,2011.0,Health,3390.32763697498,Tons
+Pollutant,Sulfur Dioxide,SO2,KY,LOW,2011.0,Health,503.15653176242,Tons
+Pollutant,Volatile Organic Compounds,VOC,KY,LOW,2011.0,Health,50934.122835138,Tons
+Pollutant,Carbon Dioxide,CO2,MI,LOW,2011.0,GHG,53515173.1689442,Tons
+Pollutant,Carbon Monoxide,CO,MI,LOW,2011.0,GHG,1047726.29264573,Tons
+Pollutant,Chromium (VI),Cr VI,MI,LOW,2011.0,Health,2.627776462999336,Lb's
+Pollutant,Manganese,Mn,MI,LOW,2011.0,Health,343.35067451296743,Lb's
+Pollutant,Mercury,Hg,MI,LOW,2011.0,Health,24.45399009400734,Lb's
+Pollutant,Methane,CH4,MI,LOW,2011.0,GHG,3466.26222260445,Tons
+Pollutant,Nickel,Ni,MI,LOW,2011.0,Health,432.3407402897452,Lb's
+Pollutant,Nitrogen Oxides,NOx,MI,LOW,2011.0,Health,194730.386067826,Tons
+Pollutant,Nitrous Oxide,N2O,MI,LOW,2011.0,GHG,2193.10060149956,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,LOW,2011.0,Health,10972.237552224,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,LOW,2011.0,Health,6293.2473193936,Tons
+Pollutant,Sulfur Dioxide,SO2,MI,LOW,2011.0,Health,955.16349711469,Tons
+Pollutant,Volatile Organic Compounds,VOC,MI,LOW,2011.0,Health,106976.4794677,Tons
+Pollutant,Carbon Dioxide,CO2,LA,LOW,2011.0,GHG,29232056.132908,Tons
+Pollutant,Carbon Monoxide,CO,LA,LOW,2011.0,GHG,464443.2790744,Tons
+Pollutant,Chromium (VI),Cr VI,LA,LOW,2011.0,Health,1.24753619371542,Lb's
+Pollutant,Manganese,Mn,LA,LOW,2011.0,Health,169.31715184610601,Lb's
+Pollutant,Mercury,Hg,LA,LOW,2011.0,Health,11.3262281839094,Lb's
+Pollutant,Methane,CH4,LA,LOW,2011.0,GHG,1447.6104717023,Tons
+Pollutant,Nickel,Ni,LA,LOW,2011.0,Health,218.0160755684906,Lb's
+Pollutant,Nitrogen Oxides,NOx,LA,LOW,2011.0,Health,94078.36668512,Tons
+Pollutant,Nitrous Oxide,N2O,LA,LOW,2011.0,GHG,1095.5870044347,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,LOW,2011.0,Health,5906.5932202272,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,LOW,2011.0,Health,2983.7396701509,Tons
+Pollutant,Sulfur Dioxide,SO2,LA,LOW,2011.0,Health,505.63172775111997,Tons
+Pollutant,Volatile Organic Compounds,VOC,LA,LOW,2011.0,Health,48655.625340086,Tons
+Pollutant,Carbon Dioxide,CO2,AR,LOW,2011.0,GHG,22555450.554002,Tons
+Pollutant,Carbon Monoxide,CO,AR,LOW,2011.0,GHG,330470.6313199,Tons
+Pollutant,Chromium (VI),Cr VI,AR,LOW,2011.0,Health,0.89316654691306,Lb's
+Pollutant,Manganese,Mn,AR,LOW,2011.0,Health,132.064139817452,Lb's
+Pollutant,Mercury,Hg,AR,LOW,2011.0,Health,7.7118346421534,Lb's
+Pollutant,Methane,CH4,AR,LOW,2011.0,GHG,1281.9398613646,Tons
+Pollutant,Nickel,Ni,AR,LOW,2011.0,Health,177.7422107278158,Lb's
+Pollutant,Nitrogen Oxides,NOx,AR,LOW,2011.0,Health,91215.33691246,Tons
+Pollutant,Nitrous Oxide,N2O,AR,LOW,2011.0,GHG,746.4205884792,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,LOW,2011.0,Health,4971.1266345522,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,LOW,2011.0,Health,2981.0985308907,Tons
+Pollutant,Sulfur Dioxide,SO2,AR,LOW,2011.0,Health,360.1257767738,Tons
+Pollutant,Volatile Organic Compounds,VOC,AR,LOW,2011.0,Health,35406.516200549,Tons
+Pollutant,Carbon Dioxide,CO2,OK,LOW,2011.0,GHG,30593845.915625,Tons
+Pollutant,Carbon Monoxide,CO,OK,LOW,2011.0,GHG,516140.83265636,Tons
+Pollutant,Chromium (VI),Cr VI,OK,LOW,2011.0,Health,1.278069291228436,Lb's
+Pollutant,Manganese,Mn,OK,LOW,2011.0,Health,178.609176399922,Lb's
+Pollutant,Mercury,Hg,OK,LOW,2011.0,Health,11.41653725368528,Lb's
+Pollutant,Methane,CH4,OK,LOW,2011.0,GHG,1683.9755758717,Tons
+Pollutant,Nickel,Ni,OK,LOW,2011.0,Health,233.630938564396,Lb's
+Pollutant,Nitrogen Oxides,NOx,OK,LOW,2011.0,Health,115105.48620213,Tons
+Pollutant,Nitrous Oxide,N2O,OK,LOW,2011.0,GHG,1199.06371644493,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,LOW,2011.0,Health,6566.0627994597,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,LOW,2011.0,Health,3555.0147365668,Tons
+Pollutant,Sulfur Dioxide,SO2,OK,LOW,2011.0,Health,515.51709502037,Tons
+Pollutant,Volatile Organic Compounds,VOC,OK,LOW,2011.0,Health,54975.239752283,Tons
+Pollutant,Carbon Dioxide,CO2,CA,HIGH,2011.0,GHG,184193673.676241,Tons
+Pollutant,Carbon Monoxide,CO,CA,HIGH,2011.0,GHG,1586343.71094015,Tons
+Pollutant,Chromium (VI),Cr VI,CA,HIGH,2011.0,Health,367.8490329853344,Lb's
+Pollutant,Manganese,Mn,CA,HIGH,2011.0,Health,558.548888644626,Lb's
+Pollutant,Mercury,Hg,CA,HIGH,2011.0,Health,152.8261031661862,Lb's
+Pollutant,Methane,CH4,CA,HIGH,2011.0,GHG,4755.38816964444,Tons
+Pollutant,Nickel,Ni,CA,HIGH,2011.0,Health,1066.833244750321,Lb's
+Pollutant,Nitrogen Oxides,NOx,CA,HIGH,2011.0,Health,413442.215799498,Tons
+Pollutant,Nitrous Oxide,N2O,CA,HIGH,2011.0,GHG,7958.30471783619,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,HIGH,2011.0,Health,29195.47105127989,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,HIGH,2011.0,Health,16568.80417497903,Tons
+Pollutant,Sulfur Dioxide,SO2,CA,HIGH,2011.0,Health,1976.90971341276,Tons
+Pollutant,Volatile Organic Compounds,VOC,CA,HIGH,2011.0,Health,172028.306392648,Tons
+Pollutant,Carbon Dioxide,CO2,WA,HIGH,2011.0,GHG,36121182.386709,Tons
+Pollutant,Carbon Monoxide,CO,WA,HIGH,2011.0,GHG,809244.5357848901,Tons
+Pollutant,Chromium (VI),Cr VI,WA,HIGH,2011.0,Health,1.540637423433632,Lb's
+Pollutant,Manganese,Mn,WA,HIGH,2011.0,Health,215.831623812778,Lb's
+Pollutant,Mercury,Hg,WA,HIGH,2011.0,Health,13.7937719455664,Lb's
+Pollutant,Methane,CH4,WA,HIGH,2011.0,GHG,2448.0193051922,Tons
+Pollutant,Nickel,Ni,WA,HIGH,2011.0,Health,282.5849767129444,Lb's
+Pollutant,Nitrogen Oxides,NOx,WA,HIGH,2011.0,Health,163897.755038987,Tons
+Pollutant,Nitrous Oxide,N2O,WA,HIGH,2011.0,GHG,1900.07922101024,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,HIGH,2011.0,Health,9406.8173375893,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,HIGH,2011.0,Health,5389.6990374392,Tons
+Pollutant,Sulfur Dioxide,SO2,WA,HIGH,2011.0,Health,618.4130270941,Tons
+Pollutant,Volatile Organic Compounds,VOC,WA,HIGH,2011.0,Health,77859.741481864,Tons
+Pollutant,Carbon Dioxide,CO2,OR,HIGH,2011.0,GHG,19046666.950371,Tons
+Pollutant,Carbon Monoxide,CO,OR,HIGH,2011.0,GHG,427977.0551146,Tons
+Pollutant,Chromium (VI),Cr VI,OR,HIGH,2011.0,Health,0.8829130633696081,Lb's
+Pollutant,Manganese,Mn,OR,HIGH,2011.0,Health,117.111028949026,Lb's
+Pollutant,Mercury,Hg,OR,HIGH,2011.0,Health,8.1344553875906,Lb's
+Pollutant,Methane,CH4,OR,HIGH,2011.0,GHG,1277.7006922007,Tons
+Pollutant,Nickel,Ni,OR,HIGH,2011.0,Health,148.831063576637,Lb's
+Pollutant,Nitrogen Oxides,NOx,OR,HIGH,2011.0,Health,80981.220301646,Tons
+Pollutant,Nitrous Oxide,N2O,OR,HIGH,2011.0,GHG,1164.9210323361,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,HIGH,2011.0,Health,4411.3999911161,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,HIGH,2011.0,Health,2440.4553256853,Tons
+Pollutant,Sulfur Dioxide,SO2,OR,HIGH,2011.0,Health,333.05351184913,Tons
+Pollutant,Volatile Organic Compounds,VOC,OR,HIGH,2011.0,Health,45206.58223254,Tons
+Pollutant,Carbon Dioxide,CO2,HI,HIGH,2011.0,GHG,5549074.45682,Tons
+Pollutant,Carbon Monoxide,CO,HI,HIGH,2011.0,GHG,109427.8825125,Tons
+Pollutant,Chromium (VI),Cr VI,HI,HIGH,2011.0,Health,0.25851783589222,Lb's
+Pollutant,Manganese,Mn,HI,HIGH,2011.0,Health,31.898729443408,Lb's
+Pollutant,Mercury,Hg,HI,HIGH,2011.0,Health,2.46997843158,Lb's
+Pollutant,Methane,CH4,HI,HIGH,2011.0,GHG,280.877439803,Tons
+Pollutant,Nickel,Ni,HI,HIGH,2011.0,Health,38.80171386307,Lb's
+Pollutant,Nitrogen Oxides,NOx,HI,HIGH,2011.0,Health,15503.36819178,Tons
+Pollutant,Nitrous Oxide,N2O,HI,HIGH,2011.0,GHG,302.5562184138,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,HIGH,2011.0,Health,305.2216672984,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,HIGH,2011.0,Health,276.5932788502,Tons
+Pollutant,Sulfur Dioxide,SO2,HI,HIGH,2011.0,Health,102.4887215103,Tons
+Pollutant,Volatile Organic Compounds,VOC,HI,HIGH,2011.0,Health,11180.23793539,Tons
+Pollutant,Carbon Dioxide,CO2,CO,HIGH,2011.0,GHG,27874763.077562,Tons
+Pollutant,Carbon Monoxide,CO,CO,HIGH,2011.0,GHG,582060.39287358,Tons
+Pollutant,Chromium (VI),Cr VI,CO,HIGH,2011.0,Health,1.245312255488098,Lb's
+Pollutant,Manganese,Mn,CO,HIGH,2011.0,Health,162.5899593710652,Lb's
+Pollutant,Mercury,Hg,CO,HIGH,2011.0,Health,11.56242075016608,Lb's
+Pollutant,Methane,CH4,CO,HIGH,2011.0,GHG,1902.55452641937,Tons
+Pollutant,Nickel,Ni,CO,HIGH,2011.0,Health,204.76067786488295,Lb's
+Pollutant,Nitrogen Oxides,NOx,CO,HIGH,2011.0,Health,105790.317986219,Tons
+Pollutant,Nitrous Oxide,N2O,CO,HIGH,2011.0,GHG,1377.6395168409,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,HIGH,2011.0,Health,6188.4687100806,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,HIGH,2011.0,Health,3172.96513653436,Tons
+Pollutant,Sulfur Dioxide,SO2,CO,HIGH,2011.0,Health,496.597526163424,Tons
+Pollutant,Volatile Organic Compounds,VOC,CO,HIGH,2011.0,Health,57198.9665926799,Tons
+Pollutant,Carbon Dioxide,CO2,NV,HIGH,2011.0,GHG,15612918.844922,Tons
+Pollutant,Carbon Monoxide,CO,NV,HIGH,2011.0,GHG,258112.1977471,Tons
+Pollutant,Chromium (VI),Cr VI,NV,HIGH,2011.0,Health,0.67717153580976,Lb's
+Pollutant,Manganese,Mn,NV,HIGH,2011.0,Health,89.002085475332,Lb's
+Pollutant,Mercury,Hg,NV,HIGH,2011.0,Health,6.264685511207,Lb's
+Pollutant,Methane,CH4,NV,HIGH,2011.0,GHG,771.1588567586,Tons
+Pollutant,Nickel,Ni,NV,HIGH,2011.0,Health,112.51248503553019,Lb's
+Pollutant,Nitrogen Oxides,NOx,NV,HIGH,2011.0,Health,56022.07555805,Tons
+Pollutant,Nitrous Oxide,N2O,NV,HIGH,2011.0,GHG,590.30932103461,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,HIGH,2011.0,Health,3421.4762305996,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,HIGH,2011.0,Health,1625.441724232,Tons
+Pollutant,Sulfur Dioxide,SO2,NV,HIGH,2011.0,Health,272.19461966662,Tons
+Pollutant,Volatile Organic Compounds,VOC,NV,HIGH,2011.0,Health,24209.495075138,Tons
+Pollutant,Carbon Dioxide,CO2,ND,LOW,2011.0,GHG,5916956.607232,Tons
+Pollutant,Carbon Monoxide,CO,ND,LOW,2011.0,GHG,111214.35340797,Tons
+Pollutant,Chromium (VI),Cr VI,ND,LOW,2011.0,Health,0.247572570357006,Lb's
+Pollutant,Manganese,Mn,ND,LOW,2011.0,Health,36.1949079118978,Lb's
+Pollutant,Mercury,Hg,ND,LOW,2011.0,Health,2.15320938053128,Lb's
+Pollutant,Methane,CH4,ND,LOW,2011.0,GHG,414.83296437954,Tons
+Pollutant,Nickel,Ni,ND,LOW,2011.0,Health,48.4448546508918,Lb's
+Pollutant,Nitrogen Oxides,NOx,ND,LOW,2011.0,Health,26420.107275484,Tons
+Pollutant,Nitrous Oxide,N2O,ND,LOW,2011.0,GHG,226.11964213058,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,LOW,2011.0,Health,1450.7161746013,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,LOW,2011.0,Health,941.491919404,Tons
+Pollutant,Sulfur Dioxide,SO2,ND,LOW,2011.0,Health,96.77564247359,Tons
+Pollutant,Volatile Organic Compounds,VOC,ND,LOW,2011.0,Health,11719.239631813,Tons
+Pollutant,Carbon Dioxide,CO2,WY,LOW,2011.0,GHG,6695263.951498,Tons
+Pollutant,Carbon Monoxide,CO,WY,LOW,2011.0,GHG,111918.9571022,Tons
+Pollutant,Chromium (VI),Cr VI,WY,LOW,2011.0,Health,0.252639118536896,Lb's
+Pollutant,Manganese,Mn,WY,LOW,2011.0,Health,39.284509588956,Lb's
+Pollutant,Mercury,Hg,WY,LOW,2011.0,Health,2.1112981824248,Lb's
+Pollutant,Methane,CH4,WY,LOW,2011.0,GHG,496.0136882174,Tons
+Pollutant,Nickel,Ni,WY,LOW,2011.0,Health,54.1277737052722,Lb's
+Pollutant,Nitrogen Oxides,NOx,WY,LOW,2011.0,Health,35103.0342445,Tons
+Pollutant,Nitrous Oxide,N2O,WY,LOW,2011.0,GHG,219.8467043057,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,LOW,2011.0,Health,1644.46569909,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,LOW,2011.0,Health,1107.4798277728,Tons
+Pollutant,Sulfur Dioxide,SO2,WY,LOW,2011.0,Health,102.78274572993,Tons
+Pollutant,Volatile Organic Compounds,VOC,WY,LOW,2011.0,Health,11742.413857581,Tons
+Pollutant,Carbon Dioxide,CO2,SD,LOW,2011.0,GHG,5652567.4546529,Tons
+Pollutant,Carbon Monoxide,CO,SD,LOW,2011.0,GHG,128983.70142176,Tons
+Pollutant,Chromium (VI),Cr VI,SD,LOW,2011.0,Health,0.24309796212787,Lb's
+Pollutant,Manganese,Mn,SD,LOW,2011.0,Health,33.9966042441894,Lb's
+Pollutant,Mercury,Hg,SD,LOW,2011.0,Health,2.17389539215144,Lb's
+Pollutant,Methane,CH4,SD,LOW,2011.0,GHG,468.69602518423,Tons
+Pollutant,Nickel,Ni,SD,LOW,2011.0,Health,44.47994629987018,Lb's
+Pollutant,Nitrogen Oxides,NOx,SD,LOW,2011.0,Health,26525.074882571,Tons
+Pollutant,Nitrous Oxide,N2O,SD,LOW,2011.0,GHG,288.00712264439,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,LOW,2011.0,Health,1281.3954282388,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,LOW,2011.0,Health,818.94553583547,Tons
+Pollutant,Sulfur Dioxide,SO2,SD,LOW,2011.0,Health,95.399377002389,Tons
+Pollutant,Volatile Organic Compounds,VOC,SD,LOW,2011.0,Health,13920.3859391539,Tons
+Pollutant,Carbon Dioxide,CO2,VT,HIGH,2014.0,GHG,3900878.96137579,Tons
+Pollutant,Carbon Monoxide,CO,VT,HIGH,2014.0,GHG,47145.560440082,Tons
+Pollutant,Chromium (VI),Cr VI,VT,HIGH,2014.0,Health,0.186566147262468,Lb's
+Pollutant,Manganese,Mn,VT,HIGH,2014.0,Health,107.15047002989961,Lb's
+Pollutant,Mercury,Hg,VT,HIGH,2014.0,Health,1.7595129725799161,Lb's
+Pollutant,Methane,CH4,VT,HIGH,2014.0,GHG,186.50966217456,Tons
+Pollutant,Nickel,Ni,VT,HIGH,2014.0,Health,28.52715360119328,Lb's
+Pollutant,Nitrogen Oxides,NOx,VT,HIGH,2014.0,Health,7618.9837748375,Tons
+Pollutant,Nitrous Oxide,N2O,VT,HIGH,2014.0,GHG,109.03109125937,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,HIGH,2014.0,Health,683.2890245144,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,HIGH,2014.0,Health,315.67840186947,Tons
+Pollutant,Sulfur Dioxide,SO2,VT,HIGH,2014.0,Health,80.938929935389,Tons
+Pollutant,Volatile Organic Compounds,VOC,VT,HIGH,2014.0,Health,4523.2760111604,Tons
+Pollutant,Carbon Dioxide,CO2,MA,HIGH,2014.0,GHG,28297192.4368139,Tons
+Pollutant,Carbon Monoxide,CO,MA,HIGH,2014.0,GHG,312802.92207132,Tons
+Pollutant,Chromium (VI),Cr VI,MA,HIGH,2014.0,Health,1.442371962850786,Lb's
+Pollutant,Manganese,Mn,MA,HIGH,2014.0,Health,759.57328896433,Lb's
+Pollutant,Mercury,Hg,MA,HIGH,2014.0,Health,13.9771171384729,Lb's
+Pollutant,Methane,CH4,MA,HIGH,2014.0,GHG,1093.761586106,Tons
+Pollutant,Nickel,Ni,MA,HIGH,2014.0,Health,202.950073926985,Lb's
+Pollutant,Nitrogen Oxides,NOx,MA,HIGH,2014.0,Health,44728.953092188,Tons
+Pollutant,Nitrous Oxide,N2O,MA,HIGH,2014.0,GHG,845.15772817713,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,HIGH,2014.0,Health,4282.2342590867,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,HIGH,2014.0,Health,1726.23280518167,Tons
+Pollutant,Sulfur Dioxide,SO2,MA,HIGH,2014.0,Health,554.977112807561,Tons
+Pollutant,Volatile Organic Compounds,VOC,MA,HIGH,2014.0,Health,29365.429359141,Tons
+Pollutant,Carbon Dioxide,CO2,MD,HIGH,2014.0,GHG,31508434.584902,Tons
+Pollutant,Carbon Monoxide,CO,MD,HIGH,2014.0,GHG,369937.62773515,Tons
+Pollutant,Chromium (VI),Cr VI,MD,HIGH,2014.0,Health,1.4857849546800599,Lb's
+Pollutant,Manganese,Mn,MD,HIGH,2014.0,Health,807.528097972388,Lb's
+Pollutant,Mercury,Hg,MD,HIGH,2014.0,Health,13.7418749989218,Lb's
+Pollutant,Methane,CH4,MD,HIGH,2014.0,GHG,1264.0525103926,Tons
+Pollutant,Nickel,Ni,MD,HIGH,2014.0,Health,239.812626293042,Lb's
+Pollutant,Nitrogen Oxides,NOx,MD,HIGH,2014.0,Health,73231.697216762,Tons
+Pollutant,Nitrous Oxide,N2O,MD,HIGH,2014.0,GHG,876.25028712779,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,HIGH,2014.0,Health,5510.9964505924,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,HIGH,2014.0,Health,2743.69470815365,Tons
+Pollutant,Sulfur Dioxide,SO2,MD,HIGH,2014.0,Health,536.65986238165,Tons
+Pollutant,Volatile Organic Compounds,VOC,MD,HIGH,2014.0,Health,33808.090196955,Tons
+Pollutant,Carbon Dioxide,CO2,VA,HIGH,2014.0,GHG,46861751.05825988,Tons
+Pollutant,Carbon Monoxide,CO,VA,HIGH,2014.0,GHG,704749.813897971,Tons
+Pollutant,Chromium (VI),Cr VI,VA,HIGH,2014.0,Health,2.225244285497776,Lb's
+Pollutant,Manganese,Mn,VA,HIGH,2014.0,Health,1081.417068273166,Lb's
+Pollutant,Mercury,Hg,VA,HIGH,2014.0,Health,20.53983794444421,Lb's
+Pollutant,Methane,CH4,VA,HIGH,2014.0,GHG,2015.718485961085,Tons
+Pollutant,Nickel,Ni,VA,HIGH,2014.0,Health,365.72574008370856,Lb's
+Pollutant,Nitrogen Oxides,NOx,VA,HIGH,2014.0,Health,132762.4133965295,Tons
+Pollutant,Nitrous Oxide,N2O,VA,HIGH,2014.0,GHG,1520.226227597543,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,HIGH,2014.0,Health,7703.19282915304,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,HIGH,2014.0,Health,4021.517432593442,Tons
+Pollutant,Sulfur Dioxide,SO2,VA,HIGH,2014.0,Health,849.916776594884,Tons
+Pollutant,Volatile Organic Compounds,VOC,VA,HIGH,2014.0,Health,65139.8075935395,Tons
+Pollutant,Carbon Dioxide,CO2,WV,LOW,2014.0,GHG,11654260.91559178,Tons
+Pollutant,Carbon Monoxide,CO,WV,LOW,2014.0,GHG,173600.720162288,Tons
+Pollutant,Chromium (VI),Cr VI,WV,LOW,2014.0,Health,0.5201910873502198,Lb's
+Pollutant,Manganese,Mn,WV,LOW,2014.0,Health,225.1547044579936,Lb's
+Pollutant,Mercury,Hg,WV,LOW,2014.0,Health,4.527643922756438,Lb's
+Pollutant,Methane,CH4,WV,LOW,2014.0,GHG,641.98215131763,Tons
+Pollutant,Nickel,Ni,WV,LOW,2014.0,Health,98.13897865720485,Lb's
+Pollutant,Nitrogen Oxides,NOx,WV,LOW,2014.0,Health,40879.7315886615,Tons
+Pollutant,Nitrous Oxide,N2O,WV,LOW,2014.0,GHG,357.803744570791,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,LOW,2014.0,Health,2122.1407267642,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,LOW,2014.0,Health,1336.7464288654419,Tons
+Pollutant,Sulfur Dioxide,SO2,WV,LOW,2014.0,Health,175.68068049820099,Tons
+Pollutant,Volatile Organic Compounds,VOC,WV,LOW,2014.0,Health,17352.6740786748,Tons
+Pollutant,Carbon Dioxide,CO2,AL,LOW,2014.0,GHG,39592791.4935562,Tons
+Pollutant,Carbon Monoxide,CO,AL,LOW,2014.0,GHG,716553.709592037,Tons
+Pollutant,Chromium (VI),Cr VI,AL,LOW,2014.0,Health,1.73979176974456,Lb's
+Pollutant,Manganese,Mn,AL,LOW,2014.0,Health,933.9187767711236,Lb's
+Pollutant,Mercury,Hg,AL,LOW,2014.0,Health,15.57191095756918,Lb's
+Pollutant,Methane,CH4,AL,LOW,2014.0,GHG,2014.72730745807,Tons
+Pollutant,Nickel,Ni,AL,LOW,2014.0,Health,307.2620427337796,Lb's
+Pollutant,Nitrogen Oxides,NOx,AL,LOW,2014.0,Health,129445.4644821848,Tons
+Pollutant,Nitrous Oxide,N2O,AL,LOW,2014.0,GHG,1361.93349922344,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,LOW,2014.0,Health,7149.4518843642,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,LOW,2014.0,Health,3918.739084032363,Tons
+Pollutant,Sulfur Dioxide,SO2,AL,LOW,2014.0,Health,723.786686989621,Tons
+Pollutant,Volatile Organic Compounds,VOC,AL,LOW,2014.0,Health,67278.3247585647,Tons
+Pollutant,Carbon Dioxide,CO2,KY,LOW,2014.0,GHG,29372673.1805198,Tons
+Pollutant,Carbon Monoxide,CO,KY,LOW,2014.0,GHG,486485.715909936,Tons
+Pollutant,Chromium (VI),Cr VI,KY,LOW,2014.0,Health,1.274554821035658,Lb's
+Pollutant,Manganese,Mn,KY,LOW,2014.0,Health,627.028141667184,Lb's
+Pollutant,Mercury,Hg,KY,LOW,2014.0,Health,11.181619548725,Lb's
+Pollutant,Methane,CH4,KY,LOW,2014.0,GHG,1686.25600810174,Tons
+Pollutant,Nickel,Ni,KY,LOW,2014.0,Health,237.889958343797,Lb's
+Pollutant,Nitrogen Oxides,NOx,KY,LOW,2014.0,Health,104469.837141753,Tons
+Pollutant,Nitrous Oxide,N2O,KY,LOW,2014.0,GHG,1001.42946229015,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,LOW,2014.0,Health,5510.77539788878,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,LOW,2014.0,Health,3321.92356830126,Tons
+Pollutant,Sulfur Dioxide,SO2,KY,LOW,2014.0,Health,411.661298168974,Tons
+Pollutant,Volatile Organic Compounds,VOC,KY,LOW,2014.0,Health,47420.4392568957,Tons
+Pollutant,Carbon Dioxide,CO2,MI,LOW,2014.0,GHG,50093185.20448589,Tons
+Pollutant,Carbon Monoxide,CO,MI,LOW,2014.0,GHG,842202.038577289,Tons
+Pollutant,Chromium (VI),Cr VI,MI,LOW,2014.0,Health,2.5312640659128727,Lb's
+Pollutant,Manganese,Mn,MI,LOW,2014.0,Health,1160.9827666543024,Lb's
+Pollutant,Mercury,Hg,MI,LOW,2014.0,Health,23.819876351823844,Lb's
+Pollutant,Methane,CH4,MI,LOW,2014.0,GHG,2970.52559406731,Tons
+Pollutant,Nickel,Ni,MI,LOW,2014.0,Health,394.0719758528661,Lb's
+Pollutant,Nitrogen Oxides,NOx,MI,LOW,2014.0,Health,134323.1588523741,Tons
+Pollutant,Nitrous Oxide,N2O,MI,LOW,2014.0,GHG,1745.529028848024,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,LOW,2014.0,Health,8440.42507489433,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,LOW,2014.0,Health,4462.843411047051,Tons
+Pollutant,Sulfur Dioxide,SO2,MI,LOW,2014.0,Health,745.4616755226692,Tons
+Pollutant,Volatile Organic Compounds,VOC,MI,LOW,2014.0,Health,84777.2815342707,Tons
+Pollutant,Carbon Dioxide,CO2,LA,LOW,2014.0,GHG,32084576.3781193,Tons
+Pollutant,Carbon Monoxide,CO,LA,LOW,2014.0,GHG,418958.488622838,Tons
+Pollutant,Chromium (VI),Cr VI,LA,LOW,2014.0,Health,1.27119326805139,Lb's
+Pollutant,Manganese,Mn,LA,LOW,2014.0,Health,743.026748700714,Lb's
+Pollutant,Mercury,Hg,LA,LOW,2014.0,Health,10.84319668056704,Lb's
+Pollutant,Methane,CH4,LA,LOW,2014.0,GHG,1586.11776342373,Tons
+Pollutant,Nickel,Ni,LA,LOW,2014.0,Health,246.9531777161856,Lb's
+Pollutant,Nitrogen Oxides,NOx,LA,LOW,2014.0,Health,96957.1140617948,Tons
+Pollutant,Nitrous Oxide,N2O,LA,LOW,2014.0,GHG,867.41268933787,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,LOW,2014.0,Health,5879.61809067414,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,LOW,2014.0,Health,3307.02958328833,Tons
+Pollutant,Sulfur Dioxide,SO2,LA,LOW,2014.0,Health,568.3072469528,Tons
+Pollutant,Volatile Organic Compounds,VOC,LA,LOW,2014.0,Health,40102.6487108005,Tons
+Pollutant,Carbon Dioxide,CO2,AR,LOW,2014.0,GHG,22397857.892422,Tons
+Pollutant,Carbon Monoxide,CO,AR,LOW,2014.0,GHG,333500.41174712,Tons
+Pollutant,Chromium (VI),Cr VI,AR,LOW,2014.0,Health,0.90232951094928,Lb's
+Pollutant,Manganese,Mn,AR,LOW,2014.0,Health,446.152268579928,Lb's
+Pollutant,Mercury,Hg,AR,LOW,2014.0,Health,7.7143480277706,Lb's
+Pollutant,Methane,CH4,AR,LOW,2014.0,GHG,1216.41499273317,Tons
+Pollutant,Nickel,Ni,AR,LOW,2014.0,Health,175.9668842812778,Lb's
+Pollutant,Nitrogen Oxides,NOx,AR,LOW,2014.0,Health,79428.343014385,Tons
+Pollutant,Nitrous Oxide,N2O,AR,LOW,2014.0,GHG,684.75582666142,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,LOW,2014.0,Health,4001.12990104072,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,LOW,2014.0,Health,2436.39597080105,Tons
+Pollutant,Sulfur Dioxide,SO2,AR,LOW,2014.0,Health,333.244809245529,Tons
+Pollutant,Volatile Organic Compounds,VOC,AR,LOW,2014.0,Health,33171.479116028,Tons
+Pollutant,Carbon Dioxide,CO2,OK,LOW,2014.0,GHG,29610611.676159002,Tons
+Pollutant,Carbon Monoxide,CO,OK,LOW,2014.0,GHG,428665.761170776,Tons
+Pollutant,Chromium (VI),Cr VI,OK,LOW,2014.0,Health,1.254287428368208,Lb's
+Pollutant,Manganese,Mn,OK,LOW,2014.0,Health,626.01567531484,Lb's
+Pollutant,Mercury,Hg,OK,LOW,2014.0,Health,10.8232936585277,Lb's
+Pollutant,Methane,CH4,OK,LOW,2014.0,GHG,1597.92576862615,Tons
+Pollutant,Nickel,Ni,OK,LOW,2014.0,Health,236.6575060410594,Lb's
+Pollutant,Nitrogen Oxides,NOx,OK,LOW,2014.0,Health,92071.255857027,Tons
+Pollutant,Nitrous Oxide,N2O,OK,LOW,2014.0,GHG,913.827854510842,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,LOW,2014.0,Health,4986.2230750922,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,LOW,2014.0,Health,2834.4303920713,Tons
+Pollutant,Sulfur Dioxide,SO2,OK,LOW,2014.0,Health,450.25970604821,Tons
+Pollutant,Volatile Organic Compounds,VOC,OK,LOW,2014.0,Health,42735.2238771375,Tons
+Pollutant,Carbon Dioxide,CO2,CA,HIGH,2014.0,GHG,182923241.513744,Tons
+Pollutant,Carbon Monoxide,CO,CA,HIGH,2014.0,GHG,971515.66249841,Tons
+Pollutant,Chromium (VI),Cr VI,CA,HIGH,2014.0,Health,116.95043181482,Lb's
+Pollutant,Manganese,Mn,CA,HIGH,2014.0,Health,53159.719095168,Lb's
+Pollutant,Mercury,Hg,CA,HIGH,2014.0,Health,77.59966354043,Lb's
+Pollutant,Methane,CH4,CA,HIGH,2014.0,GHG,10824.19610938045,Tons
+Pollutant,Nickel,Ni,CA,HIGH,2014.0,Health,21127.052283298,Lb's
+Pollutant,Nitrogen Oxides,NOx,CA,HIGH,2014.0,Health,274369.39651918,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,HIGH,2014.0,Health,22283.969370028,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,HIGH,2014.0,Health,11073.123050056,Tons
+Pollutant,Sulfur Dioxide,SO2,CA,HIGH,2014.0,Health,1722.4375916131,Tons
+Pollutant,Volatile Organic Compounds,VOC,CA,HIGH,2014.0,Health,124804.403769332,Tons
+Pollutant,Carbon Dioxide,CO2,WA,HIGH,2014.0,GHG,34484024.644849,Tons
+Pollutant,Carbon Monoxide,CO,WA,HIGH,2014.0,GHG,712299.97356064,Tons
+Pollutant,Chromium (VI),Cr VI,WA,HIGH,2014.0,Health,1.544803183245172,Lb's
+Pollutant,Manganese,Mn,WA,HIGH,2014.0,Health,882.547734153854,Lb's
+Pollutant,Mercury,Hg,WA,HIGH,2014.0,Health,13.7851188022153,Lb's
+Pollutant,Methane,CH4,WA,HIGH,2014.0,GHG,2201.30445026828,Tons
+Pollutant,Nickel,Ni,WA,HIGH,2014.0,Health,277.5660016985898,Lb's
+Pollutant,Nitrogen Oxides,NOx,WA,HIGH,2014.0,Health,129267.23927085601,Tons
+Pollutant,Nitrous Oxide,N2O,WA,HIGH,2014.0,GHG,1638.44130217411,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,HIGH,2014.0,Health,6857.36940736477,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,HIGH,2014.0,Health,3777.58743944474,Tons
+Pollutant,Sulfur Dioxide,SO2,WA,HIGH,2014.0,Health,547.64686826006,Tons
+Pollutant,Volatile Organic Compounds,VOC,WA,HIGH,2014.0,Health,70567.02095845,Tons
+Pollutant,Carbon Dioxide,CO2,OR,HIGH,2014.0,GHG,19172947.29344,Tons
+Pollutant,Carbon Monoxide,CO,OR,HIGH,2014.0,GHG,388940.74406128,Tons
+Pollutant,Chromium (VI),Cr VI,OR,HIGH,2014.0,Health,0.882142201881844,Lb's
+Pollutant,Manganese,Mn,OR,HIGH,2014.0,Health,478.70651270784,Lb's
+Pollutant,Mercury,Hg,OR,HIGH,2014.0,Health,7.8414972899618,Lb's
+Pollutant,Methane,CH4,OR,HIGH,2014.0,GHG,1147.27722821845,Tons
+Pollutant,Nickel,Ni,OR,HIGH,2014.0,Health,161.5095741246068,Lb's
+Pollutant,Nitrogen Oxides,NOx,OR,HIGH,2014.0,Health,71134.435143786,Tons
+Pollutant,Nitrous Oxide,N2O,OR,HIGH,2014.0,GHG,954.78531320325,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,HIGH,2014.0,Health,3646.9868329189,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,HIGH,2014.0,Health,2000.4146071443,Tons
+Pollutant,Sulfur Dioxide,SO2,OR,HIGH,2014.0,Health,306.57004218858003,Tons
+Pollutant,Volatile Organic Compounds,VOC,OR,HIGH,2014.0,Health,40290.6044862352,Tons
+Pollutant,Carbon Dioxide,CO2,HI,HIGH,2014.0,GHG,5599418.064037706,Tons
+Pollutant,Carbon Monoxide,CO,HI,HIGH,2014.0,GHG,97732.21757756251,Tons
+Pollutant,Chromium (VI),Cr VI,HI,HIGH,2014.0,Health,0.25824411980438,Lb's
+Pollutant,Manganese,Mn,HI,HIGH,2014.0,Health,141.52828179384,Lb's
+Pollutant,Mercury,Hg,HI,HIGH,2014.0,Health,2.46594872408,Lb's
+Pollutant,Methane,CH4,HI,HIGH,2014.0,GHG,287.775881923109,Tons
+Pollutant,Nickel,Ni,HI,HIGH,2014.0,Health,37.79587120552,Lb's
+Pollutant,Nitrogen Oxides,NOx,HI,HIGH,2014.0,Health,12076.50531033061,Tons
+Pollutant,Nitrous Oxide,N2O,HI,HIGH,2014.0,GHG,264.4857694470293,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,HIGH,2014.0,Health,770.1538468396583,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,HIGH,2014.0,Health,300.30973630505423,Tons
+Pollutant,Sulfur Dioxide,SO2,HI,HIGH,2014.0,Health,103.61914340916424,Tons
+Pollutant,Volatile Organic Compounds,VOC,HI,HIGH,2014.0,Health,10383.079845553728,Tons
+Pollutant,Carbon Dioxide,CO2,CO,HIGH,2014.0,GHG,28179383.6681024,Tons
+Pollutant,Carbon Monoxide,CO,CO,HIGH,2014.0,GHG,497501.41766601,Tons
+Pollutant,Chromium (VI),Cr VI,CO,HIGH,2014.0,Health,1.301269074919998,Lb's
+Pollutant,Manganese,Mn,CO,HIGH,2014.0,Health,678.76876430937,Lb's
+Pollutant,Mercury,Hg,CO,HIGH,2014.0,Health,11.79141363426942,Lb's
+Pollutant,Methane,CH4,CO,HIGH,2014.0,GHG,1621.96880453691,Tons
+Pollutant,Nickel,Ni,CO,HIGH,2014.0,Health,225.010604689596,Lb's
+Pollutant,Nitrogen Oxides,NOx,CO,HIGH,2014.0,Health,89794.367850644,Tons
+Pollutant,Nitrous Oxide,N2O,CO,HIGH,2014.0,GHG,1200.56773421875,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,HIGH,2014.0,Health,5223.50850340816,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,HIGH,2014.0,Health,2868.21994274475,Tons
+Pollutant,Sulfur Dioxide,SO2,CO,HIGH,2014.0,Health,457.244295450404,Tons
+Pollutant,Volatile Organic Compounds,VOC,CO,HIGH,2014.0,Health,47417.2208716475,Tons
+Pollutant,Carbon Dioxide,CO2,NV,HIGH,2014.0,GHG,14292596.1907071,Tons
+Pollutant,Carbon Monoxide,CO,NV,HIGH,2014.0,GHG,202123.30202341,Tons
+Pollutant,Chromium (VI),Cr VI,NV,HIGH,2014.0,Health,0.670513839007426,Lb's
+Pollutant,Manganese,Mn,NV,HIGH,2014.0,Health,368.648563774362,Lb's
+Pollutant,Mercury,Hg,NV,HIGH,2014.0,Health,6.13982899645302,Lb's
+Pollutant,Methane,CH4,NV,HIGH,2014.0,GHG,765.51750336063,Tons
+Pollutant,Nickel,Ni,NV,HIGH,2014.0,Health,113.063469036399,Lb's
+Pollutant,Nitrogen Oxides,NOx,NV,HIGH,2014.0,Health,44313.390036198,Tons
+Pollutant,Nitrous Oxide,N2O,NV,HIGH,2014.0,GHG,468.896226576381,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,HIGH,2014.0,Health,2481.20987350939,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,HIGH,2014.0,Health,1229.67166285921,Tons
+Pollutant,Sulfur Dioxide,SO2,NV,HIGH,2014.0,Health,195.85418115669998,Tons
+Pollutant,Volatile Organic Compounds,VOC,NV,HIGH,2014.0,Health,20005.5551677106,Tons
+Pollutant,Carbon Dioxide,CO2,ND,LOW,2014.0,GHG,8229329.857352,Tons
+Pollutant,Carbon Monoxide,CO,ND,LOW,2014.0,GHG,110770.374800679,Tons
+Pollutant,Chromium (VI),Cr VI,ND,LOW,2014.0,Health,0.2816623951468024,Lb's
+Pollutant,Manganese,Mn,ND,LOW,2014.0,Health,174.7597342541436,Lb's
+Pollutant,Mercury,Hg,ND,LOW,2014.0,Health,2.043466915546748,Lb's
+Pollutant,Methane,CH4,ND,LOW,2014.0,GHG,519.53182255433,Tons
+Pollutant,Nickel,Ni,ND,LOW,2014.0,Health,72.82234219471479,Lb's
+Pollutant,Nitrogen Oxides,NOx,ND,LOW,2014.0,Health,36072.7336207374,Tons
+Pollutant,Nitrous Oxide,N2O,ND,LOW,2014.0,GHG,200.05421026134,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,LOW,2014.0,Health,2111.44128031302,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,LOW,2014.0,Health,1455.5992265724,Tons
+Pollutant,Sulfur Dioxide,SO2,ND,LOW,2014.0,Health,99.44923854175799,Tons
+Pollutant,Volatile Organic Compounds,VOC,ND,LOW,2014.0,Health,11495.5985081846,Tons
+Pollutant,Carbon Dioxide,CO2,WY,LOW,2014.0,GHG,6889738.62249,Tons
+Pollutant,Carbon Monoxide,CO,WY,LOW,2014.0,GHG,102343.77362295,Tons
+Pollutant,Chromium (VI),Cr VI,WY,LOW,2014.0,Health,0.25510100197798,Lb's
+Pollutant,Manganese,Mn,WY,LOW,2014.0,Health,123.71597746884,Lb's
+Pollutant,Mercury,Hg,WY,LOW,2014.0,Health,1.9605737456106,Lb's
+Pollutant,Methane,CH4,WY,LOW,2014.0,GHG,570.89495637422,Tons
+Pollutant,Nickel,Ni,WY,LOW,2014.0,Health,61.0027943454,Lb's
+Pollutant,Nitrogen Oxides,NOx,WY,LOW,2014.0,Health,32044.610026905,Tons
+Pollutant,Nitrous Oxide,N2O,WY,LOW,2014.0,GHG,184.60663083663,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,LOW,2014.0,Health,1427.6181036612,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,LOW,2014.0,Health,979.5565379376001,Tons
+Pollutant,Sulfur Dioxide,SO2,WY,LOW,2014.0,Health,93.58486517887,Tons
+Pollutant,Volatile Organic Compounds,VOC,WY,LOW,2014.0,Health,10391.629645857,Tons
+Pollutant,Carbon Dioxide,CO2,SD,LOW,2014.0,GHG,6372085.27851901,Tons
+Pollutant,Carbon Monoxide,CO,SD,LOW,2014.0,GHG,121062.14645047,Tons
+Pollutant,Chromium (VI),Cr VI,SD,LOW,2014.0,Health,0.247669800322483,Lb's
+Pollutant,Manganese,Mn,SD,LOW,2014.0,Health,119.7176121174972,Lb's
+Pollutant,Mercury,Hg,SD,LOW,2014.0,Health,2.0077115024626297,Lb's
+Pollutant,Methane,CH4,SD,LOW,2014.0,GHG,484.89834042202,Tons
+Pollutant,Nickel,Ni,SD,LOW,2014.0,Health,54.35559549419114,Lb's
+Pollutant,Nitrogen Oxides,NOx,SD,LOW,2014.0,Health,27733.7356789125,Tons
+Pollutant,Nitrous Oxide,N2O,SD,LOW,2014.0,GHG,240.48949838421,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,LOW,2014.0,Health,1405.588534347883,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,LOW,2014.0,Health,963.067016736145,Tons
+Pollutant,Sulfur Dioxide,SO2,SD,LOW,2014.0,Health,83.1146196992662,Tons
+Pollutant,Volatile Organic Compounds,VOC,SD,LOW,2014.0,Health,12516.4444285855,Tons
+Pollutant,Carbon Dioxide,CO2,VT,HIGH,2017.0,GHG,3639303.87797986,Tons
+Pollutant,Carbon Monoxide,CO,VT,HIGH,2017.0,GHG,36762.37246563,Tons
+Pollutant,Chromium (VI),Cr VI,VT,HIGH,2017.0,Health,0.1941046155109734,Lb's
+Pollutant,Manganese,Mn,VT,HIGH,2017.0,Health,74.529113830829,Lb's
+Pollutant,Mercury,Hg,VT,HIGH,2017.0,Health,1.86528406612092,Lb's
+Pollutant,Methane,CH4,VT,HIGH,2017.0,GHG,164.662650890019,Tons
+Pollutant,Nickel,Ni,VT,HIGH,2017.0,Health,27.15141031938376,Lb's
+Pollutant,Nitrogen Oxides,NOx,VT,HIGH,2017.0,Health,5121.1751604883,Tons
+Pollutant,Nitrous Oxide,N2O,VT,HIGH,2017.0,GHG,75.57669443101601,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,HIGH,2017.0,Health,426.42163670151,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,HIGH,2017.0,Health,184.27502450897,Tons
+Pollutant,Sulfur Dioxide,SO2,VT,HIGH,2017.0,Health,69.4402219712108,Tons
+Pollutant,Volatile Organic Compounds,VOC,VT,HIGH,2017.0,Health,3097.0022080986,Tons
+Pollutant,Carbon Dioxide,CO2,MA,HIGH,2017.0,GHG,33282780.961740497,Tons
+Pollutant,Carbon Monoxide,CO,MA,HIGH,2017.0,GHG,292921.909318782,Tons
+Pollutant,Chromium (VI),Cr VI,MA,HIGH,2017.0,Health,1.627989548224932,Lb's
+Pollutant,Manganese,Mn,MA,HIGH,2017.0,Health,857.540073022668,Lb's
+Pollutant,Mercury,Hg,MA,HIGH,2017.0,Health,15.65001873490128,Lb's
+Pollutant,Methane,CH4,MA,HIGH,2017.0,GHG,1104.47098710935,Tons
+Pollutant,Nickel,Ni,MA,HIGH,2017.0,Health,228.2313100129662,Lb's
+Pollutant,Nitrogen Oxides,NOx,MA,HIGH,2017.0,Health,41863.0347837415,Tons
+Pollutant,Nitrous Oxide,N2O,MA,HIGH,2017.0,GHG,706.376559409378,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,HIGH,2017.0,Health,4628.84170125778,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,HIGH,2017.0,Health,1785.7003806237,Tons
+Pollutant,Sulfur Dioxide,SO2,MA,HIGH,2017.0,Health,622.687174022096,Tons
+Pollutant,Volatile Organic Compounds,VOC,MA,HIGH,2017.0,Health,24742.2616723652,Tons
+Pollutant,Carbon Dioxide,CO2,MD,HIGH,2017.0,GHG,31699972.85802818,Tons
+Pollutant,Carbon Monoxide,CO,MD,HIGH,2017.0,GHG,282596.9069624277,Tons
+Pollutant,Chromium (VI),Cr VI,MD,HIGH,2017.0,Health,1.5532354521126466,Lb's
+Pollutant,Manganese,Mn,MD,HIGH,2017.0,Health,719.8163754111338,Lb's
+Pollutant,Mercury,Hg,MD,HIGH,2017.0,Health,14.726529586454664,Lb's
+Pollutant,Methane,CH4,MD,HIGH,2017.0,GHG,1094.7987157105185,Tons
+Pollutant,Nickel,Ni,MD,HIGH,2017.0,Health,223.11165252878806,Lb's
+Pollutant,Nitrogen Oxides,NOx,MD,HIGH,2017.0,Health,46615.7819269241,Tons
+Pollutant,Nitrous Oxide,N2O,MD,HIGH,2017.0,GHG,649.3235019320696,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,HIGH,2017.0,Health,3973.332872960328,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,HIGH,2017.0,Health,1607.088044727184,Tons
+Pollutant,Sulfur Dioxide,SO2,MD,HIGH,2017.0,Health,571.725826727697,Tons
+Pollutant,Volatile Organic Compounds,VOC,MD,HIGH,2017.0,Health,24087.55867413497,Tons
+Pollutant,Carbon Dioxide,CO2,VA,HIGH,2017.0,GHG,45721570.59343231,Tons
+Pollutant,Carbon Monoxide,CO,VA,HIGH,2017.0,GHG,604590.4294741247,Tons
+Pollutant,Chromium (VI),Cr VI,VA,HIGH,2017.0,Health,2.2115791830069385,Lb's
+Pollutant,Manganese,Mn,VA,HIGH,2017.0,Health,848.9496215200946,Lb's
+Pollutant,Mercury,Hg,VA,HIGH,2017.0,Health,20.87116302877626,Lb's
+Pollutant,Methane,CH4,VA,HIGH,2017.0,GHG,2113.4686418242823,Tons
+Pollutant,Nickel,Ni,VA,HIGH,2017.0,Health,326.6907694822422,Lb's
+Pollutant,Nitrogen Oxides,NOx,VA,HIGH,2017.0,Health,96522.92340346938,Tons
+Pollutant,Nitrous Oxide,N2O,VA,HIGH,2017.0,GHG,1316.498917262811,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,HIGH,2017.0,Health,5393.781353084854,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,HIGH,2017.0,Health,2611.0273520046862,Tons
+Pollutant,Sulfur Dioxide,SO2,VA,HIGH,2017.0,Health,830.0265452262555,Tons
+Pollutant,Volatile Organic Compounds,VOC,VA,HIGH,2017.0,Health,54937.693098127296,Tons
+Pollutant,Carbon Dioxide,CO2,WV,LOW,2017.0,GHG,10950847.481529618,Tons
+Pollutant,Carbon Monoxide,CO,WV,LOW,2017.0,GHG,150103.2769711031,Tons
+Pollutant,Chromium (VI),Cr VI,WV,LOW,2017.0,Health,0.5095654730783207,Lb's
+Pollutant,Manganese,Mn,WV,LOW,2017.0,Health,226.99381079612823,Lb's
+Pollutant,Mercury,Hg,WV,LOW,2017.0,Health,4.749194142363831,Lb's
+Pollutant,Methane,CH4,WV,LOW,2017.0,GHG,536.1736890780365,Tons
+Pollutant,Nickel,Ni,WV,LOW,2017.0,Health,77.90109541678858,Lb's
+Pollutant,Nitrogen Oxides,NOx,WV,LOW,2017.0,Health,24336.055306619164,Tons
+Pollutant,Nitrous Oxide,N2O,WV,LOW,2017.0,GHG,310.5506769427847,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,LOW,2017.0,Health,1457.93821379415,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,LOW,2017.0,Health,703.5222445817042,Tons
+Pollutant,Sulfur Dioxide,SO2,WV,LOW,2017.0,Health,153.1390635123342,Tons
+Pollutant,Volatile Organic Compounds,VOC,WV,LOW,2017.0,Health,13932.182458031893,Tons
+Pollutant,Carbon Dioxide,CO2,AL,LOW,2017.0,GHG,41527599.34286952,Tons
+Pollutant,Carbon Monoxide,CO,AL,LOW,2017.0,GHG,556784.9026770745,Tons
+Pollutant,Chromium (VI),Cr VI,AL,LOW,2017.0,Health,1.826868725849276,Lb's
+Pollutant,Manganese,Mn,AL,LOW,2017.0,Health,853.4607458725598,Lb's
+Pollutant,Mercury,Hg,AL,LOW,2017.0,Health,16.775630333314453,Lb's
+Pollutant,Methane,CH4,AL,LOW,2017.0,GHG,1723.742900986565,Tons
+Pollutant,Nickel,Ni,AL,LOW,2017.0,Health,286.2632835577089,Lb's
+Pollutant,Nitrogen Oxides,NOx,AL,LOW,2017.0,Health,94852.84883530806,Tons
+Pollutant,Nitrous Oxide,N2O,AL,LOW,2017.0,GHG,1039.154219632526,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,LOW,2017.0,Health,5512.5996183583,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,LOW,2017.0,Health,2652.425385012065,Tons
+Pollutant,Sulfur Dioxide,SO2,AL,LOW,2017.0,Health,725.0759568168003,Tons
+Pollutant,Volatile Organic Compounds,VOC,AL,LOW,2017.0,Health,50953.32079812902,Tons
+Pollutant,Carbon Dioxide,CO2,KY,LOW,2017.0,GHG,30228213.48598138,Tons
+Pollutant,Carbon Monoxide,CO,KY,LOW,2017.0,GHG,378525.576635276,Tons
+Pollutant,Chromium (VI),Cr VI,KY,LOW,2017.0,Health,1.2731103660450525,Lb's
+Pollutant,Manganese,Mn,KY,LOW,2017.0,Health,564.4818181814668,Lb's
+Pollutant,Mercury,Hg,KY,LOW,2017.0,Health,11.403223406249401,Lb's
+Pollutant,Methane,CH4,KY,LOW,2017.0,GHG,1340.618584753152,Tons
+Pollutant,Nickel,Ni,KY,LOW,2017.0,Health,212.2503383678236,Lb's
+Pollutant,Nitrogen Oxides,NOx,KY,LOW,2017.0,Health,72247.79570506,Tons
+Pollutant,Nitrous Oxide,N2O,KY,LOW,2017.0,GHG,742.819834294384,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,LOW,2017.0,Health,4167.559265224176,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,LOW,2017.0,Health,2260.60947718498,Tons
+Pollutant,Sulfur Dioxide,SO2,KY,LOW,2017.0,Health,318.07118907065427,Tons
+Pollutant,Volatile Organic Compounds,VOC,KY,LOW,2017.0,Health,34295.55461619386,Tons
+Pollutant,Carbon Dioxide,CO2,MI,LOW,2017.0,GHG,54716340.14858224,Tons
+Pollutant,Carbon Monoxide,CO,MI,LOW,2017.0,GHG,679678.01982688,Tons
+Pollutant,Chromium (VI),Cr VI,MI,LOW,2017.0,Health,2.5834278801505035,Lb's
+Pollutant,Manganese,Mn,MI,LOW,2017.0,Health,1124.819099922171,Lb's
+Pollutant,Mercury,Hg,MI,LOW,2017.0,Health,24.168886124619043,Lb's
+Pollutant,Methane,CH4,MI,LOW,2017.0,GHG,2719.624155265471,Tons
+Pollutant,Nickel,Ni,MI,LOW,2017.0,Health,385.052023502038,Lb's
+Pollutant,Nitrogen Oxides,NOx,MI,LOW,2017.0,Health,105629.61769156586,Tons
+Pollutant,Nitrous Oxide,N2O,MI,LOW,2017.0,GHG,1326.0618063940738,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,LOW,2017.0,Health,7300.388467108267,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,LOW,2017.0,Health,3533.4196022012247,Tons
+Pollutant,Sulfur Dioxide,SO2,MI,LOW,2017.0,Health,639.2629261822273,Tons
+Pollutant,Volatile Organic Compounds,VOC,MI,LOW,2017.0,Health,61789.72110163967,Tons
+Pollutant,Carbon Dioxide,CO2,LA,LOW,2017.0,GHG,32591982.64451608,Tons
+Pollutant,Carbon Monoxide,CO,LA,LOW,2017.0,GHG,335524.993795455,Tons
+Pollutant,Chromium (VI),Cr VI,LA,LOW,2017.0,Health,1.2488649557511373,Lb's
+Pollutant,Manganese,Mn,LA,LOW,2017.0,Health,655.9785922183816,Lb's
+Pollutant,Mercury,Hg,LA,LOW,2017.0,Health,10.912622552983239,Lb's
+Pollutant,Methane,CH4,LA,LOW,2017.0,GHG,1366.857678907708,Tons
+Pollutant,Nickel,Ni,LA,LOW,2017.0,Health,213.10837287034565,Lb's
+Pollutant,Nitrogen Oxides,NOx,LA,LOW,2017.0,Health,68212.58941038426,Tons
+Pollutant,Nitrous Oxide,N2O,LA,LOW,2017.0,GHG,652.766268722035,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,LOW,2017.0,Health,4520.506762518145,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,LOW,2017.0,Health,2287.8986967575092,Tons
+Pollutant,Sulfur Dioxide,SO2,LA,LOW,2017.0,Health,524.391491308921,Tons
+Pollutant,Volatile Organic Compounds,VOC,LA,LOW,2017.0,Health,30141.8076362103,Tons
+Pollutant,Carbon Dioxide,CO2,AR,LOW,2017.0,GHG,23919183.55516367,Tons
+Pollutant,Carbon Monoxide,CO,AR,LOW,2017.0,GHG,247804.145929452,Tons
+Pollutant,Chromium (VI),Cr VI,AR,LOW,2017.0,Health,0.9282972219180604,Lb's
+Pollutant,Manganese,Mn,AR,LOW,2017.0,Health,413.2389854911268,Lb's
+Pollutant,Mercury,Hg,AR,LOW,2017.0,Health,8.186025693310276,Lb's
+Pollutant,Methane,CH4,AR,LOW,2017.0,GHG,1048.0580656395339,Tons
+Pollutant,Nickel,Ni,AR,LOW,2017.0,Health,155.9971983521342,Lb's
+Pollutant,Nitrogen Oxides,NOx,AR,LOW,2017.0,Health,54277.79816677877,Tons
+Pollutant,Nitrous Oxide,N2O,AR,LOW,2017.0,GHG,469.485932460722,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,LOW,2017.0,Health,3007.015583232311,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,LOW,2017.0,Health,1599.56545068436,Tons
+Pollutant,Sulfur Dioxide,SO2,AR,LOW,2017.0,Health,311.7730606561818,Tons
+Pollutant,Volatile Organic Compounds,VOC,AR,LOW,2017.0,Health,22587.82869139836,Tons
+Pollutant,Carbon Dioxide,CO2,OK,LOW,2017.0,GHG,30561234.47927901,Tons
+Pollutant,Carbon Monoxide,CO,OK,LOW,2017.0,GHG,375929.957642809,Tons
+Pollutant,Chromium (VI),Cr VI,OK,LOW,2017.0,Health,1.2639487417621575,Lb's
+Pollutant,Manganese,Mn,OK,LOW,2017.0,Health,560.4684384184136,Lb's
+Pollutant,Mercury,Hg,OK,LOW,2017.0,Health,11.148880303949106,Lb's
+Pollutant,Methane,CH4,OK,LOW,2017.0,GHG,1434.894308189024,Tons
+Pollutant,Nickel,Ni,OK,LOW,2017.0,Health,214.36101062117143,Lb's
+Pollutant,Nitrogen Oxides,NOx,OK,LOW,2017.0,Health,72377.39938001835,Tons
+Pollutant,Nitrous Oxide,N2O,OK,LOW,2017.0,GHG,816.8394954402906,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,LOW,2017.0,Health,4076.768954239525,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,LOW,2017.0,Health,2185.197742728136,Tons
+Pollutant,Sulfur Dioxide,SO2,OK,LOW,2017.0,Health,408.68323894276,Tons
+Pollutant,Volatile Organic Compounds,VOC,OK,LOW,2017.0,Health,36947.33645415306,Tons
+Pollutant,Carbon Dioxide,CO2,CA,HIGH,2017.0,GHG,181615552.341263,Tons
+Pollutant,Carbon Monoxide,CO,CA,HIGH,2017.0,GHG,721087.945728559,Tons
+Pollutant,Chromium (VI),Cr VI,CA,HIGH,2017.0,Health,2.42518604075861,Lb's
+Pollutant,Manganese,Mn,CA,HIGH,2017.0,Health,325.5482130641856,Lb's
+Pollutant,Mercury,Hg,CA,HIGH,2017.0,Health,20.95925778152842,Lb's
+Pollutant,Methane,CH4,CA,HIGH,2017.0,GHG,6048.620116784384,Tons
+Pollutant,Nickel,Ni,CA,HIGH,2017.0,Health,412.6776536368104,Lb's
+Pollutant,Nitrogen Oxides,NOx,CA,HIGH,2017.0,Health,201240.79243991,Tons
+Pollutant,Nitrous Oxide,N2O,CA,HIGH,2017.0,GHG,4815.9053134915,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,HIGH,2017.0,Health,22169.9730943468,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,HIGH,2017.0,Health,10690.4403533653,Tons
+Pollutant,Sulfur Dioxide,SO2,CA,HIGH,2017.0,Health,1574.28745245329,Tons
+Pollutant,Volatile Organic Compounds,VOC,CA,HIGH,2017.0,Health,89109.67299195263,Tons
+Pollutant,Carbon Dioxide,CO2,WA,HIGH,2017.0,GHG,35131315.574458316,Tons
+Pollutant,Carbon Monoxide,CO,WA,HIGH,2017.0,GHG,537748.344833192,Tons
+Pollutant,Chromium (VI),Cr VI,WA,HIGH,2017.0,Health,1.5876685281710075,Lb's
+Pollutant,Manganese,Mn,WA,HIGH,2017.0,Health,779.9452351320197,Lb's
+Pollutant,Mercury,Hg,WA,HIGH,2017.0,Health,14.601587879217163,Lb's
+Pollutant,Methane,CH4,WA,HIGH,2017.0,GHG,2137.687793244476,Tons
+Pollutant,Nickel,Ni,WA,HIGH,2017.0,Health,250.0645681928334,Lb's
+Pollutant,Nitrogen Oxides,NOx,WA,HIGH,2017.0,Health,89318.76802982508,Tons
+Pollutant,Nitrous Oxide,N2O,WA,HIGH,2017.0,GHG,1444.8854521745068,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,HIGH,2017.0,Health,5219.333015998027,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,HIGH,2017.0,Health,2572.719368982403,Tons
+Pollutant,Sulfur Dioxide,SO2,WA,HIGH,2017.0,Health,409.9922820125978,Tons
+Pollutant,Volatile Organic Compounds,VOC,WA,HIGH,2017.0,Health,59158.46239635871,Tons
+Pollutant,Carbon Dioxide,CO2,OR,HIGH,2017.0,GHG,23791868.9834032,Tons
+Pollutant,Carbon Monoxide,CO,OR,HIGH,2017.0,GHG,301253.381609672,Tons
+Pollutant,Chromium (VI),Cr VI,OR,HIGH,2017.0,Health,0.94384140688321,Lb's
+Pollutant,Manganese,Mn,OR,HIGH,2017.0,Health,561.3824098898413,Lb's
+Pollutant,Mercury,Hg,OR,HIGH,2017.0,Health,8.12362931001274,Lb's
+Pollutant,Methane,CH4,OR,HIGH,2017.0,GHG,1300.94632676776,Tons
+Pollutant,Nickel,Ni,OR,HIGH,2017.0,Health,171.40310981818462,Lb's
+Pollutant,Nitrogen Oxides,NOx,OR,HIGH,2017.0,Health,65195.7180514735,Tons
+Pollutant,Nitrous Oxide,N2O,OR,HIGH,2017.0,GHG,786.756036178016,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,HIGH,2017.0,Health,4113.89297403743,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,HIGH,2017.0,Health,2170.96477186547,Tons
+Pollutant,Sulfur Dioxide,SO2,OR,HIGH,2017.0,Health,265.652396574593,Tons
+Pollutant,Volatile Organic Compounds,VOC,OR,HIGH,2017.0,Health,33895.9236964783,Tons
+Pollutant,Carbon Dioxide,CO2,HI,HIGH,2017.0,GHG,5722168.135978284,Tons
+Pollutant,Carbon Monoxide,CO,HI,HIGH,2017.0,GHG,78655.8342224324,Tons
+Pollutant,Chromium (VI),Cr VI,HI,HIGH,2017.0,Health,0.28184443263820397,Lb's
+Pollutant,Manganese,Mn,HI,HIGH,2017.0,Health,160.315710051606,Lb's
+Pollutant,Mercury,Hg,HI,HIGH,2017.0,Health,2.70593390269146,Lb's
+Pollutant,Methane,CH4,HI,HIGH,2017.0,GHG,228.34077848949113,Tons
+Pollutant,Nickel,Ni,HI,HIGH,2017.0,Health,40.507563815929004,Lb's
+Pollutant,Nitrogen Oxides,NOx,HI,HIGH,2017.0,Health,9327.104048974601,Tons
+Pollutant,Nitrous Oxide,N2O,HI,HIGH,2017.0,GHG,195.37892694709478,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,HIGH,2017.0,Health,841.016224793739,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,HIGH,2017.0,Health,307.998009731297,Tons
+Pollutant,Sulfur Dioxide,SO2,HI,HIGH,2017.0,Health,52.14280178583196,Tons
+Pollutant,Volatile Organic Compounds,VOC,HI,HIGH,2017.0,Health,8109.081886529632,Tons
+Pollutant,Carbon Dioxide,CO2,CO,HIGH,2017.0,GHG,29905638.56707996,Tons
+Pollutant,Carbon Monoxide,CO,CO,HIGH,2017.0,GHG,373574.4169662814,Tons
+Pollutant,Chromium (VI),Cr VI,CO,HIGH,2017.0,Health,1.3863643796306833,Lb's
+Pollutant,Manganese,Mn,CO,HIGH,2017.0,Health,634.3508224045779,Lb's
+Pollutant,Mercury,Hg,CO,HIGH,2017.0,Health,12.848457988739417,Lb's
+Pollutant,Methane,CH4,CO,HIGH,2017.0,GHG,1429.417699332362,Tons
+Pollutant,Nickel,Ni,CO,HIGH,2017.0,Health,215.67460000894775,Lb's
+Pollutant,Nitrogen Oxides,NOx,CO,HIGH,2017.0,Health,64093.94172669108,Tons
+Pollutant,Nitrous Oxide,N2O,CO,HIGH,2017.0,GHG,910.236857641272,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,HIGH,2017.0,Health,4064.345435979989,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,HIGH,2017.0,Health,1950.690368922292,Tons
+Pollutant,Sulfur Dioxide,SO2,CO,HIGH,2017.0,Health,352.9424274342684,Tons
+Pollutant,Volatile Organic Compounds,VOC,CO,HIGH,2017.0,Health,37413.68635139985,Tons
+Pollutant,Carbon Dioxide,CO2,NV,HIGH,2017.0,GHG,14328646.66416149,Tons
+Pollutant,Carbon Monoxide,CO,NV,HIGH,2017.0,GHG,167945.3761428505,Tons
+Pollutant,Chromium (VI),Cr VI,NV,HIGH,2017.0,Health,0.6757861870179944,Lb's
+Pollutant,Manganese,Mn,NV,HIGH,2017.0,Health,299.53058743417847,Lb's
+Pollutant,Mercury,Hg,NV,HIGH,2017.0,Health,6.3388520900953615,Lb's
+Pollutant,Methane,CH4,NV,HIGH,2017.0,GHG,618.119269204048,Tons
+Pollutant,Nickel,Ni,NV,HIGH,2017.0,Health,101.54256353227636,Lb's
+Pollutant,Nitrogen Oxides,NOx,NV,HIGH,2017.0,Health,28506.76135924736,Tons
+Pollutant,Nitrous Oxide,N2O,NV,HIGH,2017.0,GHG,387.013679630058,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,HIGH,2017.0,Health,1810.541412453705,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,HIGH,2017.0,Health,823.238602433593,Tons
+Pollutant,Sulfur Dioxide,SO2,NV,HIGH,2017.0,Health,129.2150219367086,Tons
+Pollutant,Volatile Organic Compounds,VOC,NV,HIGH,2017.0,Health,16101.06548645131,Tons
+Pollutant,Carbon Dioxide,CO2,ND,LOW,2017.0,GHG,6230691.51472088,Tons
+Pollutant,Carbon Monoxide,CO,ND,LOW,2017.0,GHG,77803.1788960617,Tons
+Pollutant,Chromium (VI),Cr VI,ND,LOW,2017.0,Health,0.24943755062711925,Lb's
+Pollutant,Manganese,Mn,ND,LOW,2017.0,Health,115.60452480119814,Lb's
+Pollutant,Mercury,Hg,ND,LOW,2017.0,Health,2.1160519867994636,Lb's
+Pollutant,Methane,CH4,ND,LOW,2017.0,GHG,351.121227355925,Tons
+Pollutant,Nickel,Ni,ND,LOW,2017.0,Health,46.41426526516488,Lb's
+Pollutant,Nitrogen Oxides,NOx,ND,LOW,2017.0,Health,16583.23155599176,Tons
+Pollutant,Nitrous Oxide,N2O,ND,LOW,2017.0,GHG,148.27965728473,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,LOW,2017.0,Health,1018.125445817773,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,LOW,2017.0,Health,613.138441886243,Tons
+Pollutant,Sulfur Dioxide,SO2,ND,LOW,2017.0,Health,65.7067498419492,Tons
+Pollutant,Volatile Organic Compounds,VOC,ND,LOW,2017.0,Health,7631.3533313672,Tons
+Pollutant,Carbon Dioxide,CO2,WY,LOW,2017.0,GHG,6958900.72433363,Tons
+Pollutant,Carbon Monoxide,CO,WY,LOW,2017.0,GHG,75986.562791829,Tons
+Pollutant,Chromium (VI),Cr VI,WY,LOW,2017.0,Health,0.2499310418394712,Lb's
+Pollutant,Manganese,Mn,WY,LOW,2017.0,Health,107.21981413488601,Lb's
+Pollutant,Mercury,Hg,WY,LOW,2017.0,Health,2.036970084599912,Lb's
+Pollutant,Methane,CH4,WY,LOW,2017.0,GHG,389.707787579015,Tons
+Pollutant,Nickel,Ni,WY,LOW,2017.0,Health,49.51069594857652,Lb's
+Pollutant,Nitrogen Oxides,NOx,WY,LOW,2017.0,Health,20265.6735155269,Tons
+Pollutant,Nitrous Oxide,N2O,WY,LOW,2017.0,GHG,142.384555762376,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,LOW,2017.0,Health,973.79791350761,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,LOW,2017.0,Health,599.359178278091,Tons
+Pollutant,Sulfur Dioxide,SO2,WY,LOW,2017.0,Health,74.42520126218,Tons
+Pollutant,Volatile Organic Compounds,VOC,WY,LOW,2017.0,Health,7380.3754941572,Tons
+Pollutant,Carbon Dioxide,CO2,SD,LOW,2017.0,GHG,6084728.507236396,Tons
+Pollutant,Carbon Monoxide,CO,SD,LOW,2017.0,GHG,91465.4601675077,Tons
+Pollutant,Chromium (VI),Cr VI,SD,LOW,2017.0,Health,0.24973897835326822,Lb's
+Pollutant,Manganese,Mn,SD,LOW,2017.0,Health,98.73182501775361,Lb's
+Pollutant,Mercury,Hg,SD,LOW,2017.0,Health,2.1753958669466313,Lb's
+Pollutant,Methane,CH4,SD,LOW,2017.0,GHG,362.5287674907666,Tons
+Pollutant,Nickel,Ni,SD,LOW,2017.0,Health,44.61415720216517,Lb's
+Pollutant,Nitrogen Oxides,NOx,SD,LOW,2017.0,Health,17382.682391220194,Tons
+Pollutant,Nitrous Oxide,N2O,SD,LOW,2017.0,GHG,183.4807111472757,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,LOW,2017.0,Health,877.7950448694564,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,LOW,2017.0,Health,536.8388777145632,Tons
+Pollutant,Sulfur Dioxide,SO2,SD,LOW,2017.0,Health,64.84794996523038,Tons
+Pollutant,Volatile Organic Compounds,VOC,SD,LOW,2017.0,Health,9093.324487511687,Tons
+Pollutant,Carbon Dioxide,CO2,VT,HIGH,2020.0,GHG,2854235.0768989,Tons
+Pollutant,Carbon Monoxide,CO,VT,HIGH,2020.0,GHG,21233.000359109,Tons
+Pollutant,Chromium (VI),Cr VI,VT,HIGH,2020.0,Health,0.15248683274624406,Lb's
+Pollutant,Manganese,Mn,VT,HIGH,2020.0,Health,106.239048725692,Lb's
+Pollutant,Mercury,Hg,VT,HIGH,2020.0,Health,1.50351582543766,Lb's
+Pollutant,Methane,CH4,VT,HIGH,2020.0,GHG,174.2094063095,Tons
+Pollutant,Nickel,Ni,VT,HIGH,2020.0,Health,20.135641089567187,Lb's
+Pollutant,Nitrogen Oxides,NOx,VT,HIGH,2020.0,Health,2375.3206093626,Tons
+Pollutant,Nitrous Oxide,N2O,VT,HIGH,2020.0,GHG,50.520187261063,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VT,HIGH,2020.0,Health,289.2094561479,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,HIGH,2020.0,Health,102.007724505024,Tons
+Pollutant,Sulfur Dioxide,SO2,VT,HIGH,2020.0,Health,17.647948067958,Tons
+Pollutant,Volatile Organic Compounds,VOC,VT,HIGH,2020.0,Health,1678.2317524233,Tons
+Pollutant,Carbon Dioxide,CO2,MA,HIGH,2020.0,GHG,27128316.11534995,Tons
+Pollutant,Carbon Monoxide,CO,MA,HIGH,2020.0,GHG,182735.8091887773,Tons
+Pollutant,Chromium (VI),Cr VI,MA,HIGH,2020.0,Health,1.3685635727203649,Lb's
+Pollutant,Manganese,Mn,MA,HIGH,2020.0,Health,1337.7266352746249,Lb's
+Pollutant,Mercury,Hg,MA,HIGH,2020.0,Health,13.42740640792191,Lb's
+Pollutant,Methane,CH4,MA,HIGH,2020.0,GHG,1278.386070600041,Tons
+Pollutant,Nickel,Ni,MA,HIGH,2020.0,Health,183.82924455017906,Lb's
+Pollutant,Nitrogen Oxides,NOx,MA,HIGH,2020.0,Health,21606.9120372604,Tons
+Pollutant,Nitrous Oxide,N2O,MA,HIGH,2020.0,GHG,428.2236117014132,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MA,HIGH,2020.0,Health,3387.2785778782923,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,HIGH,2020.0,Health,1035.0014990590385,Tons
+Pollutant,Sulfur Dioxide,SO2,MA,HIGH,2020.0,Health,166.57377855236047,Tons
+Pollutant,Volatile Organic Compounds,VOC,MA,HIGH,2020.0,Health,13360.7262159103,Tons
+Pollutant,Carbon Dioxide,CO2,MD,HIGH,2020.0,GHG,27053779.38762407,Tons
+Pollutant,Carbon Monoxide,CO,MD,HIGH,2020.0,GHG,206479.2545649699,Tons
+Pollutant,Chromium (VI),Cr VI,MD,HIGH,2020.0,Health,1.2705205598956424,Lb's
+Pollutant,Manganese,Mn,MD,HIGH,2020.0,Health,1065.5565005344097,Lb's
+Pollutant,Mercury,Hg,MD,HIGH,2020.0,Health,12.30502699892271,Lb's
+Pollutant,Methane,CH4,MD,HIGH,2020.0,GHG,1349.2906508424371,Tons
+Pollutant,Nickel,Ni,MD,HIGH,2020.0,Health,178.35488768270403,Lb's
+Pollutant,Nitrogen Oxides,NOx,MD,HIGH,2020.0,Health,30919.3064584174,Tons
+Pollutant,Nitrous Oxide,N2O,MD,HIGH,2020.0,GHG,422.13259195399803,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MD,HIGH,2020.0,Health,3006.498420748382,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,HIGH,2020.0,Health,1106.642443157551,Tons
+Pollutant,Sulfur Dioxide,SO2,MD,HIGH,2020.0,Health,159.1802062654809,Tons
+Pollutant,Volatile Organic Compounds,VOC,MD,HIGH,2020.0,Health,15164.354446468,Tons
+Pollutant,Carbon Dioxide,CO2,VA,HIGH,2020.0,GHG,40576733.54595303,Tons
+Pollutant,Carbon Monoxide,CO,VA,HIGH,2020.0,GHG,397167.7475111116,Tons
+Pollutant,Chromium (VI),Cr VI,VA,HIGH,2020.0,Health,1.9340765403289708,Lb's
+Pollutant,Manganese,Mn,VA,HIGH,2020.0,Health,1459.7450342235047,Lb's
+Pollutant,Mercury,Hg,VA,HIGH,2020.0,Health,18.589752436352708,Lb's
+Pollutant,Methane,CH4,VA,HIGH,2020.0,GHG,2304.7101345647984,Tons
+Pollutant,Nickel,Ni,VA,HIGH,2020.0,Health,280.8407910047276,Lb's
+Pollutant,Nitrogen Oxides,NOx,VA,HIGH,2020.0,Health,60394.38634477052,Tons
+Pollutant,Nitrous Oxide,N2O,VA,HIGH,2020.0,GHG,725.1515280010153,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,VA,HIGH,2020.0,Health,4564.267905606911,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,HIGH,2020.0,Health,1939.3340556816038,Tons
+Pollutant,Sulfur Dioxide,SO2,VA,HIGH,2020.0,Health,238.45395208984166,Tons
+Pollutant,Volatile Organic Compounds,VOC,VA,HIGH,2020.0,Health,27552.53705805933,Tons
+Pollutant,Carbon Dioxide,CO2,WV,LOW,2020.0,GHG,9270785.71899158,Tons
+Pollutant,Carbon Monoxide,CO,WV,LOW,2020.0,GHG,84610.035237229,Tons
+Pollutant,Chromium (VI),Cr VI,WV,LOW,2020.0,Health,0.3794588846340461,Lb's
+Pollutant,Manganese,Mn,WV,LOW,2020.0,Health,328.9555835385752,Lb's
+Pollutant,Mercury,Hg,WV,LOW,2020.0,Health,3.572794349696702,Lb's
+Pollutant,Methane,CH4,WV,LOW,2020.0,GHG,509.223445631,Tons
+Pollutant,Nickel,Ni,WV,LOW,2020.0,Health,57.97098475271652,Lb's
+Pollutant,Nitrogen Oxides,NOx,WV,LOW,2020.0,Health,15877.0244720342,Tons
+Pollutant,Nitrous Oxide,N2O,WV,LOW,2020.0,GHG,145.733442014239,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WV,LOW,2020.0,Health,1126.592619377972,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,LOW,2020.0,Health,519.9783699098602,Tons
+Pollutant,Sulfur Dioxide,SO2,WV,LOW,2020.0,Health,51.3441116272513,Tons
+Pollutant,Volatile Organic Compounds,VOC,WV,LOW,2020.0,Health,6054.6411333631,Tons
+Pollutant,Carbon Dioxide,CO2,AL,LOW,2020.0,GHG,37188161.447286,Tons
+Pollutant,Carbon Monoxide,CO,AL,LOW,2020.0,GHG,413435.12386688,Tons
+Pollutant,Chromium (VI),Cr VI,AL,LOW,2020.0,Health,1.693540729032437,Lb's
+Pollutant,Manganese,Mn,AL,LOW,2020.0,Health,1254.25617487322,Lb's
+Pollutant,Mercury,Hg,AL,LOW,2020.0,Health,16.30346859537846,Lb's
+Pollutant,Methane,CH4,AL,LOW,2020.0,GHG,2228.2362118042,Tons
+Pollutant,Nickel,Ni,AL,LOW,2020.0,Health,241.87195602905993,Lb's
+Pollutant,Nitrogen Oxides,NOx,AL,LOW,2020.0,Health,55185.277242213,Tons
+Pollutant,Nitrous Oxide,N2O,AL,LOW,2020.0,GHG,601.2934919626069,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AL,LOW,2020.0,Health,3804.602486041032,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,LOW,2020.0,Health,1545.982296665648,Tons
+Pollutant,Sulfur Dioxide,SO2,AL,LOW,2020.0,Health,215.81108216682802,Tons
+Pollutant,Volatile Organic Compounds,VOC,AL,LOW,2020.0,Health,27848.9674559554,Tons
+Pollutant,Carbon Dioxide,CO2,KY,LOW,2020.0,GHG,27234431.7455601,Tons
+Pollutant,Carbon Monoxide,CO,KY,LOW,2020.0,GHG,270933.63652371,Tons
+Pollutant,Chromium (VI),Cr VI,KY,LOW,2020.0,Health,1.163156517275616,Lb's
+Pollutant,Manganese,Mn,KY,LOW,2020.0,Health,844.6302868985458,Lb's
+Pollutant,Mercury,Hg,KY,LOW,2020.0,Health,11.01521389035276,Lb's
+Pollutant,Methane,CH4,KY,LOW,2020.0,GHG,1646.209880124165,Tons
+Pollutant,Nickel,Ni,KY,LOW,2020.0,Health,175.2077780107951,Lb's
+Pollutant,Nitrogen Oxides,NOx,KY,LOW,2020.0,Health,45122.4986918609,Tons
+Pollutant,Nitrous Oxide,N2O,KY,LOW,2020.0,GHG,430.674037566059,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,KY,LOW,2020.0,Health,2907.870778609998,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,LOW,2020.0,Health,1360.5307825571408,Tons
+Pollutant,Sulfur Dioxide,SO2,KY,LOW,2020.0,Health,152.8622995772985,Tons
+Pollutant,Volatile Organic Compounds,VOC,KY,LOW,2020.0,Health,18042.9776377446,Tons
+Pollutant,Carbon Dioxide,CO2,MI,LOW,2020.0,GHG,44938314.10138449,Tons
+Pollutant,Carbon Monoxide,CO,MI,LOW,2020.0,GHG,440874.652879917,Tons
+Pollutant,Chromium (VI),Cr VI,MI,LOW,2020.0,Health,2.192610679731111,Lb's
+Pollutant,Manganese,Mn,MI,LOW,2020.0,Health,1643.4970464092714,Lb's
+Pollutant,Mercury,Hg,MI,LOW,2020.0,Health,21.27297223582772,Lb's
+Pollutant,Methane,CH4,MI,LOW,2020.0,GHG,2724.6919829517,Tons
+Pollutant,Nickel,Ni,MI,LOW,2020.0,Health,306.6105574563864,Lb's
+Pollutant,Nitrogen Oxides,NOx,MI,LOW,2020.0,Health,53213.5809456626,Tons
+Pollutant,Nitrous Oxide,N2O,MI,LOW,2020.0,GHG,745.073319898792,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,MI,LOW,2020.0,Health,4821.037161194295,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,LOW,2020.0,Health,1893.235646563421,Tons
+Pollutant,Sulfur Dioxide,SO2,MI,LOW,2020.0,Health,268.9039748755338,Tons
+Pollutant,Volatile Organic Compounds,VOC,MI,LOW,2020.0,Health,29344.5645740382,Tons
+Pollutant,Carbon Dioxide,CO2,LA,LOW,2020.0,GHG,28164056.3030421,Tons
+Pollutant,Carbon Monoxide,CO,LA,LOW,2020.0,GHG,255590.92892399,Tons
+Pollutant,Chromium (VI),Cr VI,LA,LOW,2020.0,Health,1.1823452537201085,Lb's
+Pollutant,Manganese,Mn,LA,LOW,2020.0,Health,980.0330634810036,Lb's
+Pollutant,Mercury,Hg,LA,LOW,2020.0,Health,11.31275719455438,Lb's
+Pollutant,Methane,CH4,LA,LOW,2020.0,GHG,1336.6644416755,Tons
+Pollutant,Nickel,Ni,LA,LOW,2020.0,Health,170.80510810759642,Lb's
+Pollutant,Nitrogen Oxides,NOx,LA,LOW,2020.0,Health,38174.3780354306,Tons
+Pollutant,Nitrous Oxide,N2O,LA,LOW,2020.0,GHG,385.979328080327,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,LA,LOW,2020.0,Health,2971.3073650844112,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,LOW,2020.0,Health,1197.3542734215052,Tons
+Pollutant,Sulfur Dioxide,SO2,LA,LOW,2020.0,Health,158.13524414222,Tons
+Pollutant,Volatile Organic Compounds,VOC,LA,LOW,2020.0,Health,16184.0495728422,Tons
+Pollutant,Carbon Dioxide,CO2,AR,LOW,2020.0,GHG,20515420.86872956,Tons
+Pollutant,Carbon Monoxide,CO,AR,LOW,2020.0,GHG,184552.731492951,Tons
+Pollutant,Chromium (VI),Cr VI,AR,LOW,2020.0,Health,0.8273698458986812,Lb's
+Pollutant,Manganese,Mn,AR,LOW,2020.0,Health,640.5037762595902,Lb's
+Pollutant,Mercury,Hg,AR,LOW,2020.0,Health,7.820614429076076,Lb's
+Pollutant,Methane,CH4,AR,LOW,2020.0,GHG,1007.3386307436,Tons
+Pollutant,Nickel,Ni,AR,LOW,2020.0,Health,124.7480629308039,Lb's
+Pollutant,Nitrogen Oxides,NOx,AR,LOW,2020.0,Health,32494.6710444288,Tons
+Pollutant,Nitrous Oxide,N2O,AR,LOW,2020.0,GHG,275.4711685602,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,AR,LOW,2020.0,Health,2169.036249202057,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,LOW,2020.0,Health,984.8927974121997,Tons
+Pollutant,Sulfur Dioxide,SO2,AR,LOW,2020.0,Health,113.0957503669567,Tons
+Pollutant,Volatile Organic Compounds,VOC,AR,LOW,2020.0,Health,11722.7849908978,Tons
+Pollutant,Carbon Dioxide,CO2,OK,LOW,2020.0,GHG,28479010.2047116,Tons
+Pollutant,Carbon Monoxide,CO,OK,LOW,2020.0,GHG,252947.565827956,Tons
+Pollutant,Chromium (VI),Cr VI,OK,LOW,2020.0,Health,0.9812379482886612,Lb's
+Pollutant,Manganese,Mn,OK,LOW,2020.0,Health,842.4617999592743,Lb's
+Pollutant,Mercury,Hg,OK,LOW,2020.0,Health,9.13055556615746,Lb's
+Pollutant,Methane,CH4,OK,LOW,2020.0,GHG,1950.1297981465,Tons
+Pollutant,Nickel,Ni,OK,LOW,2020.0,Health,152.89581803849887,Lb's
+Pollutant,Nitrogen Oxides,NOx,OK,LOW,2020.0,Health,50833.0595910562,Tons
+Pollutant,Nitrous Oxide,N2O,OK,LOW,2020.0,GHG,468.5235321051,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OK,LOW,2020.0,Health,3028.498265191503,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,LOW,2020.0,Health,1431.5436197334861,Tons
+Pollutant,Sulfur Dioxide,SO2,OK,LOW,2020.0,Health,148.782483988623,Tons
+Pollutant,Volatile Organic Compounds,VOC,OK,LOW,2020.0,Health,19518.5298014214,Tons
+Pollutant,Carbon Dioxide,CO2,CA,HIGH,2020.0,GHG,169832605.12583408,Tons
+Pollutant,Carbon Monoxide,CO,CA,HIGH,2020.0,GHG,540113.071006008,Tons
+Pollutant,Chromium (VI),Cr VI,CA,HIGH,2020.0,Health,66.89267793056814,Lb's
+Pollutant,Manganese,Mn,CA,HIGH,2020.0,Health,15341.441166933071,Lb's
+Pollutant,Mercury,Hg,CA,HIGH,2020.0,Health,41.68775738292714,Lb's
+Pollutant,Methane,CH4,CA,HIGH,2020.0,GHG,6062.945213105884,Tons
+Pollutant,Nickel,Ni,CA,HIGH,2020.0,Health,21097.100221955323,Lb's
+Pollutant,Nitrogen Oxides,NOx,CA,HIGH,2020.0,Health,147314.3251879801,Tons
+Pollutant,Nitrous Oxide,N2O,CA,HIGH,2020.0,GHG,2595.590377940291,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CA,HIGH,2020.0,Health,20730.70053402065,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,HIGH,2020.0,Health,9491.133221068068,Tons
+Pollutant,Sulfur Dioxide,SO2,CA,HIGH,2020.0,Health,1438.2196435799963,Tons
+Pollutant,Volatile Organic Compounds,VOC,CA,HIGH,2020.0,Health,69247.770475881,Tons
+Pollutant,Carbon Dioxide,CO2,WA,HIGH,2020.0,GHG,31062952.87312305,Tons
+Pollutant,Carbon Monoxide,CO,WA,HIGH,2020.0,GHG,326374.8475078542,Tons
+Pollutant,Chromium (VI),Cr VI,WA,HIGH,2020.0,Health,1.3199326176435053,Lb's
+Pollutant,Manganese,Mn,WA,HIGH,2020.0,Health,1330.9201736137406,Lb's
+Pollutant,Mercury,Hg,WA,HIGH,2020.0,Health,12.476551801334129,Lb's
+Pollutant,Methane,CH4,WA,HIGH,2020.0,GHG,2699.034141013007,Tons
+Pollutant,Nickel,Ni,WA,HIGH,2020.0,Health,201.02253645259495,Lb's
+Pollutant,Nitrogen Oxides,NOx,WA,HIGH,2020.0,Health,60062.977441990726,Tons
+Pollutant,Nitrous Oxide,N2O,WA,HIGH,2020.0,GHG,755.6368651573346,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WA,HIGH,2020.0,Health,4220.170025528,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,HIGH,2020.0,Health,1799.2932874829212,Tons
+Pollutant,Sulfur Dioxide,SO2,WA,HIGH,2020.0,Health,175.52741562394846,Tons
+Pollutant,Volatile Organic Compounds,VOC,WA,HIGH,2020.0,Health,28634.69585317062,Tons
+Pollutant,Carbon Dioxide,CO2,OR,HIGH,2020.0,GHG,20899424.410959356,Tons
+Pollutant,Carbon Monoxide,CO,OR,HIGH,2020.0,GHG,237933.5329948712,Tons
+Pollutant,Chromium (VI),Cr VI,OR,HIGH,2020.0,Health,0.776257706638034,Lb's
+Pollutant,Manganese,Mn,OR,HIGH,2020.0,Health,819.7666123480402,Lb's
+Pollutant,Mercury,Hg,OR,HIGH,2020.0,Health,7.083035426954448,Lb's
+Pollutant,Methane,CH4,OR,HIGH,2020.0,GHG,2076.371842142116,Tons
+Pollutant,Nickel,Ni,OR,HIGH,2020.0,Health,130.8638556630752,Lb's
+Pollutant,Nitrogen Oxides,NOx,OR,HIGH,2020.0,Health,52550.63223147349,Tons
+Pollutant,Nitrous Oxide,N2O,OR,HIGH,2020.0,GHG,619.6138935109145,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,OR,HIGH,2020.0,Health,3026.538778191407,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,HIGH,2020.0,Health,1488.7222667918954,Tons
+Pollutant,Sulfur Dioxide,SO2,OR,HIGH,2020.0,Health,112.20839213470894,Tons
+Pollutant,Volatile Organic Compounds,VOC,OR,HIGH,2020.0,Health,25138.017626476594,Tons
+Pollutant,Carbon Dioxide,CO2,HI,HIGH,2020.0,GHG,4732339.722758116,Tons
+Pollutant,Carbon Monoxide,CO,HI,HIGH,2020.0,GHG,55508.96979437366,Tons
+Pollutant,Chromium (VI),Cr VI,HI,HIGH,2020.0,Health,0.221846638165904,Lb's
+Pollutant,Manganese,Mn,HI,HIGH,2020.0,Health,211.2925630586,Lb's
+Pollutant,Mercury,Hg,HI,HIGH,2020.0,Health,2.1494742188652,Lb's
+Pollutant,Methane,CH4,HI,HIGH,2020.0,GHG,342.07712595710257,Tons
+Pollutant,Nickel,Ni,HI,HIGH,2020.0,Health,31.17811282844628,Lb's
+Pollutant,Nitrogen Oxides,NOx,HI,HIGH,2020.0,Health,5840.930158682472,Tons
+Pollutant,Nitrous Oxide,N2O,HI,HIGH,2020.0,GHG,108.79856272271836,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,HI,HIGH,2020.0,Health,593.3859537538482,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,HIGH,2020.0,Health,217.44221074642476,Tons
+Pollutant,Sulfur Dioxide,SO2,HI,HIGH,2020.0,Health,28.450999085617532,Tons
+Pollutant,Volatile Organic Compounds,VOC,HI,HIGH,2020.0,Health,4684.470694733261,Tons
+Pollutant,Carbon Dioxide,CO2,CO,HIGH,2020.0,GHG,27125607.759824842,Tons
+Pollutant,Carbon Monoxide,CO,CO,HIGH,2020.0,GHG,269131.1461107688,Tons
+Pollutant,Chromium (VI),Cr VI,CO,HIGH,2020.0,Health,1.2156508305088496,Lb's
+Pollutant,Manganese,Mn,CO,HIGH,2020.0,Health,1004.1129210702964,Lb's
+Pollutant,Mercury,Hg,CO,HIGH,2020.0,Health,11.572607117658453,Lb's
+Pollutant,Methane,CH4,CO,HIGH,2020.0,GHG,1967.5961083851,Tons
+Pollutant,Nickel,Ni,CO,HIGH,2020.0,Health,181.3220101882313,Lb's
+Pollutant,Nitrogen Oxides,NOx,CO,HIGH,2020.0,Health,44380.78542290345,Tons
+Pollutant,Nitrous Oxide,N2O,CO,HIGH,2020.0,GHG,528.290773365755,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,CO,HIGH,2020.0,Health,3196.411853443284,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,HIGH,2020.0,Health,1382.302671048401,Tons
+Pollutant,Sulfur Dioxide,SO2,CO,HIGH,2020.0,Health,157.5131313480621,Tons
+Pollutant,Volatile Organic Compounds,VOC,CO,HIGH,2020.0,Health,22247.349976411668,Tons
+Pollutant,Carbon Dioxide,CO2,NV,HIGH,2020.0,GHG,14085472.980762,Tons
+Pollutant,Carbon Monoxide,CO,NV,HIGH,2020.0,GHG,130962.49215437,Tons
+Pollutant,Chromium (VI),Cr VI,NV,HIGH,2020.0,Health,0.6130182367734216,Lb's
+Pollutant,Manganese,Mn,NV,HIGH,2020.0,Health,569.832829359364,Lb's
+Pollutant,Mercury,Hg,NV,HIGH,2020.0,Health,5.85048449823672,Lb's
+Pollutant,Methane,CH4,NV,HIGH,2020.0,GHG,960.0686860317495,Tons
+Pollutant,Nickel,Ni,NV,HIGH,2020.0,Health,90.43769004212204,Lb's
+Pollutant,Nitrogen Oxides,NOx,NV,HIGH,2020.0,Health,22447.7857607441,Tons
+Pollutant,Nitrous Oxide,N2O,NV,HIGH,2020.0,GHG,234.860196511323,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,NV,HIGH,2020.0,Health,1719.9154737527,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,HIGH,2020.0,Health,694.434728201639,Tons
+Pollutant,Sulfur Dioxide,SO2,NV,HIGH,2020.0,Health,80.945517185532,Tons
+Pollutant,Volatile Organic Compounds,VOC,NV,HIGH,2020.0,Health,10666.6650724973,Tons
+Pollutant,Carbon Dioxide,CO2,ND,LOW,2020.0,GHG,5913614.81126303,Tons
+Pollutant,Carbon Monoxide,CO,ND,LOW,2020.0,GHG,54318.7909902987,Tons
+Pollutant,Chromium (VI),Cr VI,ND,LOW,2020.0,Health,0.20930283171291428,Lb's
+Pollutant,Manganese,Mn,ND,LOW,2020.0,Health,167.5055974189182,Lb's
+Pollutant,Mercury,Hg,ND,LOW,2020.0,Health,1.896169935629362,Lb's
+Pollutant,Methane,CH4,ND,LOW,2020.0,GHG,382.21421108657603,Tons
+Pollutant,Nickel,Ni,ND,LOW,2020.0,Health,35.60621795792038,Lb's
+Pollutant,Nitrogen Oxides,NOx,ND,LOW,2020.0,Health,12567.72050128954,Tons
+Pollutant,Nitrous Oxide,N2O,ND,LOW,2020.0,GHG,86.3678953260292,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,ND,LOW,2020.0,Health,706.0042443184983,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,LOW,2020.0,Health,384.6589435820963,Tons
+Pollutant,Sulfur Dioxide,SO2,ND,LOW,2020.0,Health,30.97961802905462,Tons
+Pollutant,Volatile Organic Compounds,VOC,ND,LOW,2020.0,Health,4055.334463809901,Tons
+Pollutant,Carbon Dioxide,CO2,WY,LOW,2020.0,GHG,6953488.9410951,Tons
+Pollutant,Carbon Monoxide,CO,WY,LOW,2020.0,GHG,59054.089160667005,Tons
+Pollutant,Chromium (VI),Cr VI,WY,LOW,2020.0,Health,0.23098720628436376,Lb's
+Pollutant,Manganese,Mn,WY,LOW,2020.0,Health,181.001053041908,Lb's
+Pollutant,Mercury,Hg,WY,LOW,2020.0,Health,2.03053278416046,Lb's
+Pollutant,Methane,CH4,WY,LOW,2020.0,GHG,405.6415189237,Tons
+Pollutant,Nickel,Ni,WY,LOW,2020.0,Health,42.29089041471892,Lb's
+Pollutant,Nitrogen Oxides,NOx,WY,LOW,2020.0,Health,17353.6623022955,Tons
+Pollutant,Nitrous Oxide,N2O,WY,LOW,2020.0,GHG,87.332362994192,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,WY,LOW,2020.0,Health,816.692420615822,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,LOW,2020.0,Health,465.392665053408,Tons
+Pollutant,Sulfur Dioxide,SO2,WY,LOW,2020.0,Health,34.8863060992527,Tons
+Pollutant,Volatile Organic Compounds,VOC,WY,LOW,2020.0,Health,4354.4566101623,Tons
+Pollutant,Carbon Dioxide,CO2,SD,LOW,2020.0,GHG,5880043.29763525,Tons
+Pollutant,Carbon Monoxide,CO,SD,LOW,2020.0,GHG,67640.14399194,Tons
+Pollutant,Chromium (VI),Cr VI,SD,LOW,2020.0,Health,0.24161056628022112,Lb's
+Pollutant,Manganese,Mn,SD,LOW,2020.0,Health,156.946416594939,Lb's
+Pollutant,Mercury,Hg,SD,LOW,2020.0,Health,2.236392164697184,Lb's
+Pollutant,Methane,CH4,SD,LOW,2020.0,GHG,412.6665073376289,Tons
+Pollutant,Nickel,Ni,SD,LOW,2020.0,Health,39.25033541597402,Lb's
+Pollutant,Nitrogen Oxides,NOx,SD,LOW,2020.0,Health,12248.6710161999,Tons
+Pollutant,Nitrous Oxide,N2O,SD,LOW,2020.0,GHG,106.0383311398077,Tons
+Pollutant,PM10 Primary (Filt + Cond),PM10 Prime,SD,LOW,2020.0,Health,642.069454634876,Tons
+Pollutant,PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,LOW,2020.0,Health,349.9495992229226,Tons
+Pollutant,Sulfur Dioxide,SO2,SD,LOW,2020.0,Health,32.528334504627,Tons
+Pollutant,Volatile Organic Compounds,VOC,SD,LOW,2020.0,Health,4977.7689617605,Tons
