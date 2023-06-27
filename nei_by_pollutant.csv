@@ -1,0 +1,1296 @@
+Pollutant,Symbol,State,State_name,CAV_adoption,Year,Concern,Total Emissions,Emmisions_per_100k,UOM
+Carbon Dioxide,CO2,VT,Vermont,High CAV adoption,2008,GHG,3631471.185,581825.7417,Tons
+Carbon Monoxide,CO,VT,Vermont,High CAV adoption,2008,GHG,66710.12978,10688.13953,Tons
+Chromium (VI),Cr VI,VT,Vermont,High CAV adoption,2008,Health,61.62756204,9.873822527,Lb's
+Manganese,Mn,VT,Vermont,High CAV adoption,2008,Health,30.47231286,4.882202042,Lb's
+Mercury,Hg,VT,Vermont,High CAV adoption,2008,Health,1.761573411,0.2822351339,Lb's
+Methane,CH4,VT,Vermont,High CAV adoption,2008,GHG,323.2776056,51.79477491,Tons
+Nickel,Ni,VT,Vermont,High CAV adoption,2008,Health,63.97885994,10.25054193,Lb's
+Nitrogen Oxides,NOx,VT,Vermont,High CAV adoption,2008,Health,12212.25339,1956.618413,Tons
+Nitrous Oxide,N2O,VT,Vermont,High CAV adoption,2008,GHG,163.548446,26.20334599,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VT,Vermont,High CAV adoption,2008,Health,616.0370892,98.70000837,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Vermont,High CAV adoption,2008,Health,477.0920187,76.43855713,Tons
+Sulfur Dioxide,SO2,VT,Vermont,High CAV adoption,2008,Health,73.25746343,11.73713788,Tons
+Volatile Organic Compounds,VOC,VT,Vermont,High CAV adoption,2008,Health,6273.601431,1005.141613,Tons
+Carbon Dioxide,CO2,MA,Massachusetts,High CAV adoption,2008,GHG,32404588.88,500923.7005,Tons
+Carbon Monoxide,CO,MA,Massachusetts,High CAV adoption,2008,GHG,383819.9275,5933.249119,Tons
+Chromium (VI),Cr VI,MA,Massachusetts,High CAV adoption,2008,Health,461.1327694,7.128383394,Lb's
+Manganese,Mn,MA,Massachusetts,High CAV adoption,2008,Health,239.5760398,3.703466717,Lb's
+Mercury,Hg,MA,Massachusetts,High CAV adoption,2008,Health,13.05500337,0.2018097074,Lb's
+Methane,CH4,MA,Massachusetts,High CAV adoption,2008,GHG,1996.574347,30.86388209,Tons
+Nickel,Ni,MA,Massachusetts,High CAV adoption,2008,Health,499.1629181,7.716269353,Lb's
+Nitrogen Oxides,NOx,MA,Massachusetts,High CAV adoption,2008,Health,84748.14176,1310.072254,Tons
+Nitrous Oxide,N2O,MA,Massachusetts,High CAV adoption,2008,GHG,1251.649639,19.34852409,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MA,Massachusetts,High CAV adoption,2008,Health,5557.980636,85.91759142,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Massachusetts,High CAV adoption,2008,Health,3941.015929,60.92187406,Tons
+Sulfur Dioxide,SO2,MA,Massachusetts,High CAV adoption,2008,Health,624.5789616,9.655003057,Tons
+Volatile Organic Compounds,VOC,MA,Massachusetts,High CAV adoption,2008,Health,34481.41569,533.0281587,Tons
+Carbon Dioxide,CO2,MD,Maryland,High CAV adoption,2008,GHG,30932200.73,544105.3855,Tons
+Carbon Monoxide,CO,MD,Maryland,High CAV adoption,2008,GHG,455710.9883,8016.073772,Tons
+Chromium (VI),Cr VI,MD,Maryland,High CAV adoption,2008,Health,476.5764304,8.383102278,Lb's
+Manganese,Mn,MD,Maryland,High CAV adoption,2008,Health,247.2754447,4.349638823,Lb's
+Mercury,Hg,MD,Maryland,High CAV adoption,2008,Health,13.50594188,0.2375729997,Lb's
+Methane,CH4,MD,Maryland,High CAV adoption,2008,GHG,1893.316275,33.30392139,Tons
+Nickel,Ni,MD,Maryland,High CAV adoption,2008,Health,515.3230719,9.064665691,Lb's
+Nitrogen Oxides,NOx,MD,Maryland,High CAV adoption,2008,Health,95784.52978,1684.874573,Tons
+Nitrous Oxide,N2O,MD,Maryland,High CAV adoption,2008,GHG,1385.559007,24.37234015,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MD,Maryland,High CAV adoption,2008,Health,4729.719613,83.19698737,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Maryland,High CAV adoption,2008,Health,3618.808636,63.65577687,Tons
+Sulfur Dioxide,SO2,MD,Maryland,High CAV adoption,2008,Health,630.9600659,11.09875023,Tons
+Volatile Organic Compounds,VOC,MD,Maryland,High CAV adoption,2008,Health,40821.29321,718.0570717,Tons
+Carbon Dioxide,CO2,VA,Virginia,High CAV adoption,2008,GHG,46340771.25,591572.0292,Tons
+Carbon Monoxide,CO,VA,Virginia,High CAV adoption,2008,GHG,923380.2678,11787.58843,Tons
+Chromium (VI),Cr VI,VA,Virginia,High CAV adoption,2008,Health,694.0734146,8.860327682,Lb's
+Manganese,Mn,VA,Virginia,High CAV adoption,2008,Health,363.5391416,4.640828841,Lb's
+Mercury,Hg,VA,Virginia,High CAV adoption,2008,Health,19.68141943,0.2512469456,Lb's
+Methane,CH4,VA,Virginia,High CAV adoption,2008,GHG,3910.239924,49.91691991,Tons
+Nickel,Ni,VA,Virginia,High CAV adoption,2008,Health,756.5473382,9.657850571,Lb's
+Nitrogen Oxides,NOx,VA,Virginia,High CAV adoption,2008,Health,180179.7638,2300.119433,Tons
+Nitrous Oxide,N2O,VA,Virginia,High CAV adoption,2008,GHG,2526.986077,32.25872684,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VA,Virginia,High CAV adoption,2008,Health,7336.5493,93.65613132,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Virginia,High CAV adoption,2008,Health,5552.880547,70.88636474,Tons
+Sulfur Dioxide,SO2,VA,Virginia,High CAV adoption,2008,Health,935.3378917,11.94023577,Tons
+Volatile Organic Compounds,VOC,VA,Virginia,High CAV adoption,2008,Health,82607.80378,1054.545809,Tons
+Carbon Dioxide,CO2,WV,West Virginia,Low CAV adoption,2008,GHG,12261191.68,666256.8631,Tons
+Carbon Monoxide,CO,WV,West Virginia,Low CAV adoption,2008,GHG,254429.2548,13825.34762,Tons
+Chromium (VI),Cr VI,WV,West Virginia,Low CAV adoption,2008,Health,173.2810125,9.415859965,Lb's
+Manganese,Mn,WV,West Virginia,Low CAV adoption,2008,Health,95.3901285,5.183372829,Lb's
+Mercury,Hg,WV,West Virginia,Low CAV adoption,2008,Health,4.920875186,0.2673938187,Lb's
+Methane,CH4,WV,West Virginia,Low CAV adoption,2008,GHG,1127.326487,61.25742329,Tons
+Nickel,Ni,WV,West Virginia,Low CAV adoption,2008,Health,197.0647706,10.70823778,Lb's
+Nitrogen Oxides,NOx,WV,West Virginia,Low CAV adoption,2008,Health,51845.83977,2817.234041,Tons
+Nitrous Oxide,N2O,WV,West Virginia,Low CAV adoption,2008,GHG,599.704627,32.58715255,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WV,West Virginia,Low CAV adoption,2008,Health,2000.188053,108.6875609,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,West Virginia,Low CAV adoption,2008,Health,1565.303958,85.05653713,Tons
+Sulfur Dioxide,SO2,WV,West Virginia,Low CAV adoption,2008,Health,240.9450733,13.09263512,Tons
+Volatile Organic Compounds,VOC,WV,West Virginia,Low CAV adoption,2008,Health,22192.77348,1205.925821,Tons
+Carbon Dioxide,CO2,AL,Alabama,Low CAV adoption,2008,GHG,35289549.4,747944.2271,Tons
+Carbon Monoxide,CO,AL,Alabama,Low CAV adoption,2008,GHG,633900.3771,13435.19925,Tons
+Chromium (VI),Cr VI,AL,Alabama,Low CAV adoption,2008,Health,496.6827064,10.52693982,Lb's
+Manganese,Mn,AL,Alabama,Low CAV adoption,2008,Health,268.4957497,5.690632196,Lb's
+Mercury,Hg,AL,Alabama,Low CAV adoption,2008,Health,14.08649189,0.2985561015,Lb's
+Methane,CH4,AL,Alabama,Low CAV adoption,2008,GHG,2666.151964,56.50774816,Tons
+Nickel,Ni,AL,Alabama,Low CAV adoption,2008,Health,556.1153319,11.78658439,Lb's
+Nitrogen Oxides,NOx,AL,Alabama,Low CAV adoption,2008,Health,133827.7222,2836.411174,Tons
+Nitrous Oxide,N2O,AL,Alabama,Low CAV adoption,2008,GHG,1637.637948,34.70891157,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AL,Alabama,Low CAV adoption,2008,Health,5370.604696,113.8272618,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Alabama,Low CAV adoption,2008,Health,3881.073443,82.25739704,Tons
+Sulfur Dioxide,SO2,AL,Alabama,Low CAV adoption,2008,Health,680.6369886,14.42575819,Tons
+Volatile Organic Compounds,VOC,AL,Alabama,Low CAV adoption,2008,Health,59131.11667,1253.254238,Tons
+Carbon Dioxide,CO2,KY,Kentucky,Low CAV adoption,2008,GHG,29085383.91,678000.2581,Tons
+Carbon Monoxide,CO,KY,Kentucky,Low CAV adoption,2008,GHG,515411.5667,12014.59731,Tons
+Chromium (VI),Cr VI,KY,Kentucky,Low CAV adoption,2008,Health,393.3234301,9.168639065,Lb's
+Manganese,Mn,KY,Kentucky,Low CAV adoption,2008,Health,223.0177061,5.19869577,Lb's
+Mercury,Hg,KY,Kentucky,Low CAV adoption,2008,Health,11.13034888,0.2594560704,Lb's
+Methane,CH4,KY,Kentucky,Low CAV adoption,2008,GHG,2250.70721,52.46552956,Tons
+Nickel,Ni,KY,Kentucky,Low CAV adoption,2008,Health,458.7764506,10.69439389,Lb's
+Nitrogen Oxides,NOx,KY,Kentucky,Low CAV adoption,2008,Health,122228.0033,2849.218633,Tons
+Nitrous Oxide,N2O,KY,Kentucky,Low CAV adoption,2008,GHG,1265.347982,29.49612977,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,KY,Kentucky,Low CAV adoption,2008,Health,5445.306697,126.9338358,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Kentucky,Low CAV adoption,2008,Health,4281.297731,99.79998805,Tons
+Sulfur Dioxide,SO2,KY,Kentucky,Low CAV adoption,2008,Health,553.8542115,12.91072174,Tons
+Volatile Organic Compounds,VOC,KY,Kentucky,Low CAV adoption,2008,Health,46798.25239,1090.899377,Tons
+Carbon Dioxide,CO2,MI,Michigan,Low CAV adoption,2008,GHG,63633145.86,639729.124,Tons
+Carbon Monoxide,CO,MI,Michigan,Low CAV adoption,2008,GHG,1398566.645,14060.34234,Tons
+Chromium (VI),Cr VI,MI,Michigan,Low CAV adoption,2008,Health,827.5268143,8.319453593,Lb's
+Manganese,Mn,MI,Michigan,Low CAV adoption,2008,Health,456.5652914,4.590031028,Lb's
+Mercury,Hg,MI,Michigan,Low CAV adoption,2008,Health,23.38202265,0.2350686999,Lb's
+Methane,CH4,MI,Michigan,Low CAV adoption,2008,GHG,6619.805151,66.55151325,Tons
+Nickel,Ni,MI,Michigan,Low CAV adoption,2008,Health,942.8763228,9.479107717,Lb's
+Nitrogen Oxides,NOx,MI,Michigan,Low CAV adoption,2008,Health,265825.0052,2672.443668,Tons
+Nitrous Oxide,N2O,MI,Michigan,Low CAV adoption,2008,GHG,3033.836726,30.50035771,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MI,Michigan,Low CAV adoption,2008,Health,14161.11873,142.3673143,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Michigan,Low CAV adoption,2008,Health,10897.03885,109.5522313,Tons
+Sulfur Dioxide,SO2,MI,Michigan,Low CAV adoption,2008,Health,1257.634423,12.6434951,Tons
+Volatile Organic Compounds,VOC,MI,Michigan,Low CAV adoption,2008,Health,121293.5397,1219.411815,Tons
+Carbon Dioxide,CO2,LA,Louisiana,Low CAV adoption,2008,GHG,27796861.25,626678.4422,Tons
+Carbon Monoxide,CO,LA,Louisiana,Low CAV adoption,2008,GHG,490106.8434,11049.42714,Tons
+Chromium (VI),Cr VI,LA,Louisiana,Low CAV adoption,2008,Health,381.8416058,8.60859435,Lb's
+Manganese,Mn,LA,Louisiana,Low CAV adoption,2008,Health,208.1605944,4.692967163,Lb's
+Mercury,Hg,LA,Louisiana,Low CAV adoption,2008,Health,10.81269486,0.2437715076,Lb's
+Methane,CH4,LA,Louisiana,Low CAV adoption,2008,GHG,1894.347696,42.7079465,Tons
+Nickel,Ni,LA,Louisiana,Low CAV adoption,2008,Health,430.6275893,9.708471198,Lb's
+Nitrogen Oxides,NOx,LA,Louisiana,Low CAV adoption,2008,Health,108646.4437,2449.427059,Tons
+Nitrous Oxide,N2O,LA,Louisiana,Low CAV adoption,2008,GHG,1282.829065,28.92129845,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,LA,Louisiana,Low CAV adoption,2008,Health,4603.967491,103.7961498,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Louisiana,Low CAV adoption,2008,Health,3422.043058,77.14973981,Tons
+Sulfur Dioxide,SO2,LA,Louisiana,Low CAV adoption,2008,Health,536.9202553,12.10483249,Tons
+Volatile Organic Compounds,VOC,LA,Louisiana,Low CAV adoption,2008,Health,46013.82705,1037.37876,Tons
+Carbon Dioxide,CO2,AR,Arkansas,Low CAV adoption,2008,GHG,19767263.44,687663.6668,Tons
+Carbon Monoxide,CO,AR,Arkansas,Low CAV adoption,2008,GHG,470695.7091,16374.56486,Tons
+Chromium (VI),Cr VI,AR,Arkansas,Low CAV adoption,2008,Health,269.7798378,9.385102447,Lb's
+Manganese,Mn,AR,Arkansas,Low CAV adoption,2008,Health,147.1864748,5.120323876,Lb's
+Mercury,Hg,AR,Arkansas,Low CAV adoption,2008,Health,7.653559384,0.266252065,Lb's
+Methane,CH4,AR,Arkansas,Low CAV adoption,2008,GHG,1803.294187,62.73300787,Tons
+Nickel,Ni,AR,Arkansas,Low CAV adoption,2008,Health,304.4606962,10.59158034,Lb's
+Nitrogen Oxides,NOx,AR,Arkansas,Low CAV adoption,2008,Health,88415.98887,3075.815896,Tons
+Nitrous Oxide,N2O,AR,Arkansas,Low CAV adoption,2008,GHG,1053.073473,36.63432565,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AR,Arkansas,Low CAV adoption,2008,Health,3646.911119,126.8687636,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Arkansas,Low CAV adoption,2008,Health,2817.723277,98.0229725,Tons
+Sulfur Dioxide,SO2,AR,Arkansas,Low CAV adoption,2008,Health,818.950007,28.48963725,Tons
+Volatile Organic Compounds,VOC,AR,Arkansas,Low CAV adoption,2008,Health,40952.44724,1424.653955,Tons
+Carbon Dioxide,CO2,OK,Oklahoma,Low CAV adoption,2008,GHG,29883155.9,814482.1852,Tons
+Carbon Monoxide,CO,OK,Oklahoma,Low CAV adoption,2008,GHG,635713.1979,17326.71999,Tons
+Chromium (VI),Cr VI,OK,Oklahoma,Low CAV adoption,2008,Health,403.7965682,11.00570209,Lb's
+Manganese,Mn,OK,Oklahoma,Low CAV adoption,2008,Health,223.5566921,6.093163109,Lb's
+Mercury,Hg,OK,Oklahoma,Low CAV adoption,2008,Health,11.43055476,0.311546185,Lb's
+Methane,CH4,OK,Oklahoma,Low CAV adoption,2008,GHG,2519.003259,68.65684755,Tons
+Nickel,Ni,OK,Oklahoma,Low CAV adoption,2008,Health,461.4442343,12.57692158,Lb's
+Nitrogen Oxides,NOx,OK,Oklahoma,Low CAV adoption,2008,Health,135337.5073,3688.699715,Tons
+Nitrous Oxide,N2O,OK,Oklahoma,Low CAV adoption,2008,GHG,1427.952991,38.91966019,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OK,Oklahoma,Low CAV adoption,2008,Health,5647.395973,153.9229467,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Oklahoma,Low CAV adoption,2008,Health,4352.70102,118.6353091,Tons
+Sulfur Dioxide,SO2,OK,Oklahoma,Low CAV adoption,2008,Health,1207.27881,32.90506151,Tons
+Volatile Organic Compounds,VOC,OK,Oklahoma,Low CAV adoption,2008,Health,56959.72714,1552.46933,Tons
+Carbon Monoxide,CO,CA,California,High CAV adoption,2008,GHG,2226017.663,6081.294856,Tons
+Manganese,Mn,CA,California,High CAV adoption,2008,Health,6965.357727,19.02877718,Lb's
+Mercury,Hg,CA,California,High CAV adoption,2008,Health,710.998388,1.942388379,Lb's
+Nickel,Ni,CA,California,High CAV adoption,2008,Health,6773.935228,18.50582686,Lb's
+Nitrogen Oxides,NOx,CA,California,High CAV adoption,2008,Health,578276.3575,1579.802845,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CA,California,High CAV adoption,2008,Health,28177.084,76.97744669,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,California,High CAV adoption,2008,Health,21183.331,57.87109599,Tons
+Sulfur Dioxide,SO2,CA,California,High CAV adoption,2008,Health,1974.613,5.394478255,Tons
+Volatile Organic Compounds,VOC,CA,California,High CAV adoption,2008,Health,247367.508,675.7874292,Tons
+Carbon Dioxide,CO2,WA,Washington,High CAV adoption,2008,GHG,35047059.74,534072.3261,Tons
+Carbon Monoxide,CO,WA,Washington,High CAV adoption,2008,GHG,1001689.026,15264.45848,Tons
+Chromium (VI),Cr VI,WA,Washington,High CAV adoption,2008,Health,462.8884613,7.053827597,Lb's
+Manganese,Mn,WA,Washington,High CAV adoption,2008,Health,255.6979939,3.896510103,Lb's
+Mercury,Hg,WA,Washington,High CAV adoption,2008,Health,13.08210694,0.1993545631,Lb's
+Methane,CH4,WA,Washington,High CAV adoption,2008,GHG,3657.097305,55.72948141,Tons
+Nickel,Ni,WA,Washington,High CAV adoption,2008,Health,527.9626952,8.045475619,Lb's
+Nitrogen Oxides,NOx,WA,Washington,High CAV adoption,2008,Health,166030.4764,2530.091922,Tons
+Nitrous Oxide,N2O,WA,Washington,High CAV adoption,2008,GHG,2135.963872,32.54935512,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WA,Washington,High CAV adoption,2008,Health,8828.522018,134.535374,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Washington,High CAV adoption,2008,Health,7051.801654,107.4604301,Tons
+Sulfur Dioxide,SO2,WA,Washington,High CAV adoption,2008,Health,905.1075239,13.79268002,Tons
+Volatile Organic Compounds,VOC,WA,Washington,High CAV adoption,2008,Health,76361.04061,1163.644508,Tons
+Carbon Dioxide,CO2,OR,Oregon,High CAV adoption,2008,GHG,20004016.44,530786.7875,Tons
+Carbon Monoxide,CO,OR,Oregon,High CAV adoption,2008,GHG,523920.0489,13901.70022,Tons
+Chromium (VI),Cr VI,OR,Oregon,High CAV adoption,2008,Health,281.5556823,7.470801505,Lb's
+Manganese,Mn,OR,Oregon,High CAV adoption,2008,Health,149.8092292,3.975039701,Lb's
+Mercury,Hg,OR,Oregon,High CAV adoption,2008,Health,7.992177979,0.2120645365,Lb's
+Methane,CH4,OR,Oregon,High CAV adoption,2008,GHG,2053.68361,54.49246301,Tons
+Nickel,Ni,OR,Oregon,High CAV adoption,2008,Health,311.0262113,8.252772838,Lb's
+Nitrogen Oxides,NOx,OR,Oregon,High CAV adoption,2008,Health,90378.70307,2398.10948,Tons
+Nitrous Oxide,N2O,OR,Oregon,High CAV adoption,2008,GHG,1214.13698,32.21592369,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OR,Oregon,High CAV adoption,2008,Health,4397.194186,116.6751979,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Oregon,High CAV adoption,2008,Health,3466.577247,91.98219799,Tons
+Sulfur Dioxide,SO2,OR,Oregon,High CAV adoption,2008,Health,532.0751432,14.11808758,Tons
+Volatile Organic Compounds,VOC,OR,Oregon,High CAV adoption,2008,Health,42818.96265,1136.158816,Tons
+Carbon Dioxide,CO2,HI,Hawaii,High CAV adoption,2008,GHG,5785895.603,434307.0968,Tons
+Carbon Monoxide,CO,HI,Hawaii,High CAV adoption,2008,GHG,134340.1799,10083.98656,Tons
+Chromium (VI),Cr VI,HI,Hawaii,High CAV adoption,2008,Health,20.19553981,1.515939254,Lb's
+Manganese,Mn,HI,Hawaii,High CAV adoption,2008,Health,41.891053,3.144471117,Lb's
+Mercury,Hg,HI,Hawaii,High CAV adoption,2008,Health,2.532255104,0.1900788466,Lb's
+Methane,CH4,HI,Hawaii,High CAV adoption,2008,GHG,400.0019691,30.02537651,Tons
+Nickel,Ni,HI,Hawaii,High CAV adoption,2008,Health,88.58482891,6.649449368,Lb's
+Nitrogen Oxides,NOx,HI,Hawaii,High CAV adoption,2008,Health,19889.97226,1493.002415,Tons
+Nitrous Oxide,N2O,HI,Hawaii,High CAV adoption,2008,GHG,318.7176572,23.92392637,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,HI,Hawaii,High CAV adoption,2008,Health,1081.077079,81.14896632,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Hawaii,High CAV adoption,2008,Health,821.0983975,61.63416792,Tons
+Sulfur Dioxide,SO2,HI,Hawaii,High CAV adoption,2008,Health,252.5801205,18.95943971,Tons
+Volatile Organic Compounds,VOC,HI,Hawaii,High CAV adoption,2008,Health,11349.64985,851.9395812,Tons
+Carbon Dioxide,CO2,CO,Colorado,High CAV adoption,2008,GHG,27460554.47,561596.5395,Tons
+Carbon Monoxide,CO,CO,Colorado,High CAV adoption,2008,GHG,521736.6457,10670.0502,Tons
+Chromium (VI),Cr VI,CO,Colorado,High CAV adoption,2008,Health,406.5867766,8.315117126,Lb's
+Manganese,Mn,CO,Colorado,High CAV adoption,2008,Health,207.7636178,4.248979346,Lb's
+Mercury,Hg,CO,Colorado,High CAV adoption,2008,Health,11.54145936,0.2360346965,Lb's
+Methane,CH4,CO,Colorado,High CAV adoption,2008,GHG,2269.719687,46.41809849,Tons
+Nickel,Ni,CO,Colorado,High CAV adoption,2008,Health,433.9797862,8.875332303,Lb's
+Nitrogen Oxides,NOx,CO,Colorado,High CAV adoption,2008,Health,100338.0156,2052.01546,Tons
+Nitrous Oxide,N2O,CO,Colorado,High CAV adoption,2008,GHG,1302.906498,26.6457759,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CO,Colorado,High CAV adoption,2008,Health,5008.99603,102.4391128,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Colorado,High CAV adoption,2008,Health,3710.242192,75.87826305,Tons
+Sulfur Dioxide,SO2,CO,Colorado,High CAV adoption,2008,Health,745.1144772,15.23835625,Tons
+Volatile Organic Compounds,VOC,CO,Colorado,High CAV adoption,2008,Health,47556.88528,972.5871423,Tons
+Carbon Dioxide,CO2,NV,Nevada,High CAV adoption,2008,GHG,11195955.56,421910.9506,Tons
+Carbon Monoxide,CO,NV,Nevada,High CAV adoption,2008,GHG,222362.3926,8379.555273,Tons
+Chromium (VI),Cr VI,NV,Nevada,High CAV adoption,2008,Health,177.1718755,6.676585488,Lb's
+Manganese,Mn,NV,Nevada,High CAV adoption,2008,Health,84.31760902,3.177444068,Lb's
+Mercury,Hg,NV,Nevada,High CAV adoption,2008,Health,5.047010426,0.1901926955,Lb's
+Methane,CH4,NV,Nevada,High CAV adoption,2008,GHG,825.5054281,31.10853541,Tons
+Nickel,Ni,NV,Nevada,High CAV adoption,2008,Health,178.1148556,6.712120966,Lb's
+Nitrogen Oxides,NOx,NV,Nevada,High CAV adoption,2008,Health,40642.74558,1531.590523,Tons
+Nitrous Oxide,N2O,NV,Nevada,High CAV adoption,2008,GHG,574.2343618,21.63957906,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,NV,Nevada,High CAV adoption,2008,Health,1751.474814,66.00297759,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Nevada,High CAV adoption,2008,Health,1221.75019,46.04071368,Tons
+Sulfur Dioxide,SO2,NV,Nevada,High CAV adoption,2008,Health,510.7704288,19.24798969,Tons
+Volatile Organic Compounds,VOC,NV,Nevada,High CAV adoption,2008,Health,27083.96131,1020.638194,Tons
+Carbon Dioxide,CO2,ND,North Dakota,Low CAV adoption,2008,GHG,4803702.68,730524.5046,Tons
+Carbon Monoxide,CO,ND,North Dakota,Low CAV adoption,2008,GHG,105667.9806,16069.48938,Tons
+Chromium (VI),Cr VI,ND,North Dakota,Low CAV adoption,2008,Health,64.34764598,9.785687279,Lb's
+Manganese,Mn,ND,North Dakota,Low CAV adoption,2008,Health,37.26251606,5.666708142,Lb's
+Mercury,Hg,ND,North Dakota,Low CAV adoption,2008,Health,1.821564346,0.2770149363,Lb's
+Methane,CH4,ND,North Dakota,Low CAV adoption,2008,GHG,553.639543,84.19489711,Tons
+Nickel,Ni,ND,North Dakota,Low CAV adoption,2008,Health,76.42937111,11.6230192,Lb's
+Nitrogen Oxides,NOx,ND,North Dakota,Low CAV adoption,2008,Health,22184.29513,3373.683238,Tons
+Nitrous Oxide,N2O,ND,North Dakota,Low CAV adoption,2008,GHG,206.8914475,31.46307802,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,ND,North Dakota,Low CAV adoption,2008,Health,1083.822851,164.8226803,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,North Dakota,Low CAV adoption,2008,Health,889.9478979,135.3390896,Tons
+Sulfur Dioxide,SO2,ND,North Dakota,Low CAV adoption,2008,Health,86.75231668,13.1928842,Tons
+Volatile Organic Compounds,VOC,ND,North Dakota,Low CAV adoption,2008,Health,9486.65772,1442.686276,Tons
+Carbon Dioxide,CO2,WY,Wyoming,Low CAV adoption,2008,GHG,6342214.089,1161486.2,Tons
+Carbon Monoxide,CO,WY,Wyoming,Low CAV adoption,2008,GHG,135412.7193,24798.91132,Tons
+Chromium (VI),Cr VI,WY,Wyoming,Low CAV adoption,2008,Health,77.20961958,14.13984239,Lb's
+Manganese,Mn,WY,Wyoming,Low CAV adoption,2008,Health,45.85923954,8.398466702,Lb's
+Mercury,Hg,WY,Wyoming,Low CAV adoption,2008,Health,2.182121093,0.3996244056,Lb's
+Methane,CH4,WY,Wyoming,Low CAV adoption,2008,GHG,601.6340704,110.1807129,Tons
+Nickel,Ni,WY,Wyoming,Low CAV adoption,2008,Health,93.73822089,17.16682036,Lb's
+Nitrogen Oxides,NOx,WY,Wyoming,Low CAV adoption,2008,Health,31295.8682,5731.39262,Tons
+Nitrous Oxide,N2O,WY,Wyoming,Low CAV adoption,2008,GHG,247.1266131,45.25772019,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WY,Wyoming,Low CAV adoption,2008,Health,1321.787397,242.06654,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Wyoming,Low CAV adoption,2008,Health,1100.471935,201.5357646,Tons
+Sulfur Dioxide,SO2,WY,Wyoming,Low CAV adoption,2008,Health,154.5579071,28.30507984,Tons
+Volatile Organic Compounds,VOC,WY,Wyoming,Low CAV adoption,2008,Health,10485.96265,1920.354744,Tons
+Carbon Dioxide,CO2,SD,South Dakota,Low CAV adoption,2008,GHG,5584378.757,698812.5444,Tons
+Carbon Monoxide,CO,SD,South Dakota,Low CAV adoption,2008,GHG,117001.7996,14641.25713,Tons
+Chromium (VI),Cr VI,SD,South Dakota,Low CAV adoption,2008,Health,73.63982498,9.215068622,Lb's
+Manganese,Mn,SD,South Dakota,Low CAV adoption,2008,Health,43.30502923,5.419062527,Lb's
+Mercury,Hg,SD,South Dakota,Low CAV adoption,2008,Health,2.082344629,0.260578412,Lb's
+Methane,CH4,SD,South Dakota,Low CAV adoption,2008,GHG,561.507045,70.26532116,Tons
+Nickel,Ni,SD,South Dakota,Low CAV adoption,2008,Health,88.63647383,11.09170465,Lb's
+Nitrogen Oxides,NOx,SD,South Dakota,Low CAV adoption,2008,Health,26018.52896,3255.88131,Tons
+Nitrous Oxide,N2O,SD,South Dakota,Low CAV adoption,2008,GHG,235.128564,29.423289,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,SD,South Dakota,Low CAV adoption,2008,Health,1175.643943,147.1165856,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,South Dakota,Low CAV adoption,2008,Health,964.2337901,120.6613479,Tons
+Sulfur Dioxide,SO2,SD,South Dakota,Low CAV adoption,2008,Health,100.0432203,12.51911097,Tons
+Volatile Organic Compounds,VOC,SD,South Dakota,Low CAV adoption,2008,Health,10299.74403,1288.879327,Tons
+Carbon Dioxide,CO2,VT,Vermont,High CAV adoption,2011,GHG,3707364.15,591100.4277,Tons
+Carbon Monoxide,CO,VT,Vermont,High CAV adoption,2011,GHG,49036.08757,7818.291153,Tons
+Chromium (VI),Cr VI,VT,Vermont,High CAV adoption,2011,Health,0.1910404717,0.03045940457,Lb's
+Manganese,Mn,VT,Vermont,High CAV adoption,2011,Health,24.54333545,3.913178068,Lb's
+Mercury,Hg,VT,Vermont,High CAV adoption,2011,Health,1.789551688,0.2853252946,Lb's
+Methane,CH4,VT,Vermont,High CAV adoption,2011,GHG,228.2308849,36.38902688,Tons
+Nickel,Ni,VT,Vermont,High CAV adoption,2011,Health,30.59961554,4.878788568,Lb's
+Nitrogen Oxides,NOx,VT,Vermont,High CAV adoption,2011,Health,10807.53872,1723.148982,Tons
+Nitrous Oxide,N2O,VT,Vermont,High CAV adoption,2011,GHG,130.6489655,20.83061072,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VT,Vermont,High CAV adoption,2011,Health,705.3815907,112.465715,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Vermont,High CAV adoption,2011,Health,404.8311313,64.5460886,Tons
+Sulfur Dioxide,SO2,VT,Vermont,High CAV adoption,2011,Health,65.44457549,10.43445289,Tons
+Volatile Organic Compounds,VOC,VT,Vermont,High CAV adoption,2011,Health,5304.601289,845.7631794,Tons
+Carbon Dioxide,CO2,MA,Massachusetts,High CAV adoption,2011,GHG,28238448.46,426935.5569,Tons
+Carbon Monoxide,CO,MA,Massachusetts,High CAV adoption,2011,GHG,327615.2675,4953.197302,Tons
+Chromium (VI),Cr VI,MA,Massachusetts,High CAV adoption,2011,Health,1.439632403,0.02176572353,Lb's
+Manganese,Mn,MA,Massachusetts,High CAV adoption,2011,Health,179.217283,2.709576294,Lb's
+Mercury,Hg,MA,Massachusetts,High CAV adoption,2011,Health,13.72596281,0.2075220807,Lb's
+Methane,CH4,MA,Massachusetts,High CAV adoption,2011,GHG,1164.988397,17.61339582,Tons
+Nickel,Ni,MA,Massachusetts,High CAV adoption,2011,Health,219.1647755,3.313540247,Lb's
+Nitrogen Oxides,NOx,MA,Massachusetts,High CAV adoption,2011,Health,60818.86353,919.5170696,Tons
+Nitrous Oxide,N2O,MA,Massachusetts,High CAV adoption,2011,GHG,1070.254675,16.18112187,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MA,Massachusetts,High CAV adoption,2011,Health,5861.382426,88.61792015,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Massachusetts,High CAV adoption,2011,Health,2615.758241,39.54750571,Tons
+Sulfur Dioxide,SO2,MA,Massachusetts,High CAV adoption,2011,Health,524.450003,7.929130896,Tons
+Volatile Organic Compounds,VOC,MA,Massachusetts,High CAV adoption,2011,Health,34311.39638,518.7521243,Tons
+Carbon Dioxide,CO2,MD,Maryland,High CAV adoption,2011,GHG,30521013.08,522598.5209,Tons
+Carbon Monoxide,CO,MD,Maryland,High CAV adoption,2011,GHG,369069.3979,6319.420687,Tons
+Chromium (VI),Cr VI,MD,Maryland,High CAV adoption,2011,Health,1.495273367,0.02560293945,Lb's
+Manganese,Mn,MD,Maryland,High CAV adoption,2011,Health,193.230921,3.30861211,Lb's
+Mercury,Hg,MD,Maryland,High CAV adoption,2011,Health,13.95375173,0.2389242453,Lb's
+Methane,CH4,MD,Maryland,High CAV adoption,2011,GHG,1328.348556,22.74475584,Tons
+Nickel,Ni,MD,Maryland,High CAV adoption,2011,Health,241.8637814,4.141332205,Lb's
+Nitrogen Oxides,NOx,MD,Maryland,High CAV adoption,2011,Health,81571.87413,1396.721028,Tons
+Nitrous Oxide,N2O,MD,Maryland,High CAV adoption,2011,GHG,1005.652119,17.21935994,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MD,Maryland,High CAV adoption,2011,Health,5533.881118,94.75432808,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Maryland,High CAV adoption,2011,Health,2810.777502,48.12776566,Tons
+Sulfur Dioxide,SO2,MD,Maryland,High CAV adoption,2011,Health,545.4880303,9.340163023,Tons
+Volatile Organic Compounds,VOC,MD,Maryland,High CAV adoption,2011,Health,36718.94481,628.7231094,Tons
+Carbon Dioxide,CO2,VA,Virginia,High CAV adoption,2011,GHG,40902090.22,504812.1969,Tons
+Carbon Monoxide,CO,VA,Virginia,High CAV adoption,2011,GHG,566930.1474,6997.032465,Tons
+Chromium (VI),Cr VI,VA,Virginia,High CAV adoption,2011,Health,2.245118041,0.02770916998,Lb's
+Manganese,Mn,VA,Virginia,High CAV adoption,2011,Health,295.7733479,3.650424532,Lb's
+Mercury,Hg,VA,Virginia,High CAV adoption,2011,Health,20.81198098,0.2568607565,Lb's
+Methane,CH4,VA,Virginia,High CAV adoption,2011,GHG,2188.325596,27.00823957,Tons
+Nickel,Ni,VA,Virginia,High CAV adoption,2011,Health,374.2810768,4.619364234,Lb's
+Nitrogen Oxides,NOx,VA,Virginia,High CAV adoption,2011,Health,145761.7957,1798.987091,Tons
+Nitrous Oxide,N2O,VA,Virginia,High CAV adoption,2011,GHG,1653.878447,20.41211115,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VA,Virginia,High CAV adoption,2011,Health,7214.795769,89.04476233,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Virginia,High CAV adoption,2011,Health,4395.05155,54.24357574,Tons
+Sulfur Dioxide,SO2,VA,Virginia,High CAV adoption,2011,Health,712.7454427,8.796679847,Tons
+Volatile Organic Compounds,VOC,VA,Virginia,High CAV adoption,2011,Health,63850.08239,788.0355304,Tons
+Carbon Dioxide,CO2,WV,West Virginia,Low CAV adoption,2011,GHG,10631304.23,572620.3747,Tons
+Carbon Monoxide,CO,WV,West Virginia,Low CAV adoption,2011,GHG,185578.559,9995.581132,Tons
+Chromium (VI),Cr VI,WV,West Virginia,Low CAV adoption,2011,Health,0.4803780989,0.02587399259,Lb's
+Manganese,Mn,WV,West Virginia,Low CAV adoption,2011,Health,66.16179069,3.563588111,Lb's
+Mercury,Hg,WV,West Virginia,Low CAV adoption,2011,Health,4.328901891,0.233162119,Lb's
+Methane,CH4,WV,West Virginia,Low CAV adoption,2011,GHG,689.1972569,37.12135245,Tons
+Nickel,Ni,WV,West Virginia,Low CAV adoption,2011,Health,85.8708874,4.625154039,Lb's
+Nitrogen Oxides,NOx,WV,West Virginia,Low CAV adoption,2011,Health,41879.39165,2255.696236,Tons
+Nitrous Oxide,N2O,WV,West Virginia,Low CAV adoption,2011,GHG,462.6554079,24.9194179,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WV,West Virginia,Low CAV adoption,2011,Health,2201.828077,118.5942563,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,West Virginia,Low CAV adoption,2011,Health,1287.269379,69.33454802,Tons
+Sulfur Dioxide,SO2,WV,West Virginia,Low CAV adoption,2011,Health,179.5327393,9.669942859,Tons
+Volatile Organic Compounds,VOC,WV,West Virginia,Low CAV adoption,2011,Health,20759.03376,1118.117347,Tons
+Carbon Dioxide,CO2,AL,Alabama,Low CAV adoption,2011,GHG,40302510.91,839698.2714,Tons
+Carbon Monoxide,CO,AL,Alabama,Low CAV adoption,2011,GHG,701777.6915,14621.45909,Tons
+Chromium (VI),Cr VI,AL,Alabama,Low CAV adoption,2011,Health,1.749081486,0.03644191559,Lb's
+Manganese,Mn,AL,Alabama,Low CAV adoption,2011,Health,243.2231975,5.0675279,Lb's
+Mercury,Hg,AL,Alabama,Low CAV adoption,2011,Health,15.6803982,0.3266993287,Lb's
+Methane,CH4,AL,Alabama,Low CAV adoption,2011,GHG,2120.557737,44.1815814,Tons
+Nickel,Ni,AL,Alabama,Low CAV adoption,2011,Health,317.2904856,6.6107115,Lb's
+Nitrogen Oxides,NOx,AL,Alabama,Low CAV adoption,2011,Health,152745.4848,3182.434957,Tons
+Nitrous Oxide,N2O,AL,Alabama,Low CAV adoption,2011,GHG,1554.22982,32.3822031,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AL,Alabama,Low CAV adoption,2011,Health,8511.490016,177.335935,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Alabama,Low CAV adoption,2011,Health,4685.06149,97.61272799,Tons
+Sulfur Dioxide,SO2,AL,Alabama,Low CAV adoption,2011,Health,683.0679618,14.23164398,Tons
+Volatile Organic Compounds,VOC,AL,Alabama,Low CAV adoption,2011,Health,76388.35631,1591.542792,Tons
+Carbon Dioxide,CO2,KY,Kentucky,Low CAV adoption,2011,GHG,29756708.45,680804.2627,Tons
+Carbon Monoxide,CO,KY,Kentucky,Low CAV adoption,2011,GHG,498980.4462,11416.18252,Tons
+Chromium (VI),Cr VI,KY,Kentucky,Low CAV adoption,2011,Health,1.326651338,0.0303524796,Lb's
+Manganese,Mn,KY,Kentucky,Low CAV adoption,2011,Health,183.6560275,4.201869525,Lb's
+Mercury,Hg,KY,Kentucky,Low CAV adoption,2011,Health,11.92407944,0.2728112258,Lb's
+Methane,CH4,KY,Kentucky,Low CAV adoption,2011,GHG,1710.210739,39.12794196,Tons
+Nickel,Ni,KY,Kentucky,Low CAV adoption,2011,Health,239.0096674,5.468306439,Lb's
+Nitrogen Oxides,NOx,KY,Kentucky,Low CAV adoption,2011,Health,115640.8478,2645.749016,Tons
+Nitrous Oxide,N2O,KY,Kentucky,Low CAV adoption,2011,GHG,1138.956415,26.0582041,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,KY,Kentucky,Low CAV adoption,2011,Health,5786.261543,132.3839809,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Kentucky,Low CAV adoption,2011,Health,3390.327637,77.5673664,Tons
+Sulfur Dioxide,SO2,KY,Kentucky,Low CAV adoption,2011,Health,503.1565318,11.51172725,Tons
+Volatile Organic Compounds,VOC,KY,Kentucky,Low CAV adoption,2011,Health,50934.12284,1165.322704,Tons
+Carbon Dioxide,CO2,MI,Michigan,Low CAV adoption,2011,GHG,53515173.17,541484.2273,Tons
+Carbon Monoxide,CO,MI,Michigan,Low CAV adoption,2011,GHG,1047726.293,10601.24126,Tons
+Chromium (VI),Cr VI,MI,Michigan,Low CAV adoption,2011,Health,2.627776463,0.02658871164,Lb's
+Manganese,Mn,MI,Michigan,Low CAV adoption,2011,Health,343.3506745,3.47413572,Lb's
+Mercury,Hg,MI,Michigan,Low CAV adoption,2011,Health,24.45399009,0.2474335622,Lb's
+Methane,CH4,MI,Michigan,Low CAV adoption,2011,GHG,3466.262223,35.07278796,Tons
+Nickel,Ni,MI,Michigan,Low CAV adoption,2011,Health,432.3407403,4.374566647,Lb's
+Nitrogen Oxides,NOx,MI,Michigan,Low CAV adoption,2011,Health,194730.3861,1970.346472,Tons
+Nitrous Oxide,N2O,MI,Michigan,Low CAV adoption,2011,GHG,2193.100601,22.19051746,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MI,Michigan,Low CAV adoption,2011,Health,10972.23755,111.0207296,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Michigan,Low CAV adoption,2011,Health,6293.247319,63.67715846,Tons
+Sulfur Dioxide,SO2,MI,Michigan,Low CAV adoption,2011,Health,955.1634971,9.664660274,Tons
+Volatile Organic Compounds,VOC,MI,Michigan,Low CAV adoption,2011,Health,106976.4795,1082.423412,Tons
+Carbon Dioxide,CO2,LA,Louisiana,Low CAV adoption,2011,GHG,29232056.13,638778.3548,Tons
+Carbon Monoxide,CO,LA,Louisiana,Low CAV adoption,2011,GHG,464443.2791,10149.00602,Tons
+Chromium (VI),Cr VI,LA,Louisiana,Low CAV adoption,2011,Health,1.247536194,0.02726113804,Lb's
+Manganese,Mn,LA,Louisiana,Low CAV adoption,2011,Health,169.3171518,3.699915298,Lb's
+Mercury,Hg,LA,Louisiana,Low CAV adoption,2011,Health,11.32622818,0.2475005307,Lb's
+Methane,CH4,LA,Louisiana,Low CAV adoption,2011,GHG,1447.610472,31.63315749,Tons
+Nickel,Ni,LA,Louisiana,Low CAV adoption,2011,Health,218.0160756,4.764083287,Lb's
+Nitrogen Oxides,NOx,LA,Louisiana,Low CAV adoption,2011,Health,94078.36669,2055.798744,Tons
+Nitrous Oxide,N2O,LA,Louisiana,Low CAV adoption,2011,GHG,1095.587004,23.94074714,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,LA,Louisiana,Low CAV adoption,2011,Health,5906.59322,129.0707668,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Louisiana,Low CAV adoption,2011,Health,2983.73967,65.20062458,Tons
+Sulfur Dioxide,SO2,LA,Louisiana,Low CAV adoption,2011,Health,505.6317278,11.04905525,Tons
+Volatile Organic Compounds,VOC,LA,Louisiana,Low CAV adoption,2011,Health,48655.62534,1063.221833,Tons
+Carbon Dioxide,CO2,AR,Arkansas,Low CAV adoption,2011,GHG,22555450.55,766921.4255,Tons
+Carbon Monoxide,CO,AR,Arkansas,Low CAV adoption,2011,GHG,330470.6313,11236.53048,Tons
+Chromium (VI),Cr VI,AR,Arkansas,Low CAV adoption,2011,Health,0.8931665469,0.03036909237,Lb's
+Manganese,Mn,AR,Arkansas,Low CAV adoption,2011,Health,132.0641398,4.490392161,Lb's
+Mercury,Hg,AR,Arkansas,Low CAV adoption,2011,Health,7.711834642,0.2622147229,Lb's
+Methane,CH4,AR,Arkansas,Low CAV adoption,2011,GHG,1281.939861,43.58800741,Tons
+Nickel,Ni,AR,Arkansas,Low CAV adoption,2011,Health,177.7422107,6.043519694,Lb's
+Nitrogen Oxides,NOx,AR,Arkansas,Low CAV adoption,2011,Health,91215.33691,3101.467472,Tons
+Nitrous Oxide,N2O,AR,Arkansas,Low CAV adoption,2011,GHG,746.4205885,25.37949487,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AR,Arkansas,Low CAV adoption,2011,Health,4971.126635,169.0262633,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Arkansas,Low CAV adoption,2011,Health,2981.098531,101.3621222,Tons
+Sulfur Dioxide,SO2,AR,Arkansas,Low CAV adoption,2011,Health,360.1257768,12.2448529,Tons
+Volatile Organic Compounds,VOC,AR,Arkansas,Low CAV adoption,2011,Health,35406.5162,1203.878229,Tons
+Carbon Dioxide,CO2,OK,Oklahoma,Low CAV adoption,2011,GHG,30593845.92,807476.0378,Tons
+Carbon Monoxide,CO,OK,Oklahoma,Low CAV adoption,2011,GHG,516140.8327,13622.71862,Tons
+Chromium (VI),Cr VI,OK,Oklahoma,Low CAV adoption,2011,Health,1.278069291,0.03373261179,Lb's
+Manganese,Mn,OK,Oklahoma,Low CAV adoption,2011,Health,178.6091764,4.714105918,Lb's
+Mercury,Hg,OK,Oklahoma,Low CAV adoption,2011,Health,11.41653725,0.301321393,Lb's
+Methane,CH4,OK,Oklahoma,Low CAV adoption,2011,GHG,1683.975576,44.44586436,Tons
+Nickel,Ni,OK,Oklahoma,Low CAV adoption,2011,Health,233.6309386,6.16631806,Lb's
+Nitrogen Oxides,NOx,OK,Oklahoma,Low CAV adoption,2011,Health,115105.4862,3038.026739,Tons
+Nitrous Oxide,N2O,OK,Oklahoma,Low CAV adoption,2011,GHG,1199.063716,31.64738495,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OK,Oklahoma,Low CAV adoption,2011,Health,6566.062799,173.3008131,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Oklahoma,Low CAV adoption,2011,Health,3555.014737,93.82897534,Tons
+Sulfur Dioxide,SO2,OK,Oklahoma,Low CAV adoption,2011,Health,515.517095,13.60625606,Tons
+Volatile Organic Compounds,VOC,OK,Oklahoma,Low CAV adoption,2011,Health,54975.23975,1450.984257,Tons
+Carbon Dioxide,CO2,CA,California,High CAV adoption,2011,GHG,184193673.7,489404.1652,Tons
+Carbon Monoxide,CO,CA,California,High CAV adoption,2011,GHG,1586343.711,4214.928798,Tons
+Chromium (VI),Cr VI,CA,California,High CAV adoption,2011,Health,367.849033,0.9773780246,Lb's
+Manganese,Mn,CA,California,High CAV adoption,2011,Health,558.5488886,1.484069171,Lb's
+Mercury,Hg,CA,California,High CAV adoption,2011,Health,152.8261032,0.4060602623,Lb's
+Methane,CH4,CA,California,High CAV adoption,2011,GHG,4755.38817,12.63510701,Tons
+Nickel,Ni,CA,California,High CAV adoption,2011,Health,1066.833245,2.834585049,Lb's
+Nitrogen Oxides,NOx,CA,California,High CAV adoption,2011,Health,413442.2158,1098.519501,Tons
+Nitrous Oxide,N2O,CA,California,High CAV adoption,2011,GHG,7958.304718,21.14528365,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CA,California,High CAV adoption,2011,Health,29195.47105,77.57261611,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,California,High CAV adoption,2011,Health,16568.80417,44.0234543,Tons
+Sulfur Dioxide,SO2,CA,California,High CAV adoption,2011,Health,1976.909713,5.252666005,Tons
+Volatile Organic Compounds,VOC,CA,California,High CAV adoption,2011,Health,172028.3064,457.0806804,Tons
+Carbon Dioxide,CO2,WA,Washington,High CAV adoption,2011,GHG,36121182.39,529055.9281,Tons
+Carbon Monoxide,CO,WA,Washington,High CAV adoption,2011,GHG,809244.5358,11852.7576,Tons
+Chromium (VI),Cr VI,WA,Washington,High CAV adoption,2011,Health,1.540637423,0.02256524588,Lb's
+Manganese,Mn,WA,Washington,High CAV adoption,2011,Health,215.8316238,3.161219885,Lb's
+Mercury,Hg,WA,Washington,High CAV adoption,2011,Health,13.79377195,0.2020331655,Lb's
+Methane,CH4,WA,Washington,High CAV adoption,2011,GHG,2448.019305,35.85539121,Tons
+Nickel,Ni,WA,Washington,High CAV adoption,2011,Health,282.5849767,4.138935861,Lb's
+Nitrogen Oxides,NOx,WA,Washington,High CAV adoption,2011,Health,163897.755,2400.560368,Tons
+Nitrous Oxide,N2O,WA,Washington,High CAV adoption,2011,GHG,1900.079221,27.82988012,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WA,Washington,High CAV adoption,2011,Health,9406.817338,137.778781,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Washington,High CAV adoption,2011,Health,5389.699037,78.94127594,Tons
+Sulfur Dioxide,SO2,WA,Washington,High CAV adoption,2011,Health,618.4130271,9.057706763,Tons
+Volatile Organic Compounds,VOC,WA,Washington,High CAV adoption,2011,Health,77859.74148,1140.387857,Tons
+Carbon Dioxide,CO2,OR,Oregon,High CAV adoption,2011,GHG,19046666.95,491822.3632,Tons
+Carbon Monoxide,CO,OR,Oregon,High CAV adoption,2011,GHG,427977.0551,11051.20845,Tons
+Chromium (VI),Cr VI,OR,Oregon,High CAV adoption,2011,Health,0.8829130634,0.02279855003,Lb's
+Manganese,Mn,OR,Oregon,High CAV adoption,2011,Health,117.1110289,3.024036865,Lb's
+Mercury,Hg,OR,Oregon,High CAV adoption,2011,Health,8.134455388,0.2100476205,Lb's
+Methane,CH4,OR,Oregon,High CAV adoption,2011,GHG,1277.700692,32.99274228,Tons
+Nickel,Ni,OR,Oregon,High CAV adoption,2011,Health,148.8310636,3.843110482,Lb's
+Nitrogen Oxides,NOx,OR,Oregon,High CAV adoption,2011,Health,80981.2203,2091.094219,Tons
+Nitrous Oxide,N2O,OR,Oregon,High CAV adoption,2011,GHG,1164.921032,30.08054987,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OR,Oregon,High CAV adoption,2011,Health,4411.399991,113.9110152,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Oregon,High CAV adoption,2011,Health,2440.455326,63.01735147,Tons
+Sulfur Dioxide,SO2,OR,Oregon,High CAV adoption,2011,Health,333.0535118,8.600096054,Tons
+Volatile Organic Compounds,VOC,OR,Oregon,High CAV adoption,2011,Health,45206.58223,1167.322774,Tons
+Carbon Dioxide,CO2,HI,Hawaii,High CAV adoption,2011,GHG,5549074.457,402234.5104,Tons
+Carbon Monoxide,CO,HI,Hawaii,High CAV adoption,2011,GHG,109427.8825,7932.074275,Tons
+Chromium (VI),Cr VI,HI,Hawaii,High CAV adoption,2011,Health,0.2585178359,0.01873912415,Lb's
+Manganese,Mn,HI,Hawaii,High CAV adoption,2011,Health,31.89872944,2.312236017,Lb's
+Mercury,Hg,HI,Hawaii,High CAV adoption,2011,Health,2.469978432,0.1790407703,Lb's
+Methane,CH4,HI,Hawaii,High CAV adoption,2011,GHG,280.8774398,20.35989972,Tons
+Nickel,Ni,HI,Hawaii,High CAV adoption,2011,Health,38.80171386,2.812611094,Lb's
+Nitrogen Oxides,NOx,HI,Hawaii,High CAV adoption,2011,Health,15503.36819,1123.789159,Tons
+Nitrous Oxide,N2O,HI,Hawaii,High CAV adoption,2011,GHG,302.5562184,21.93132446,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,HI,Hawaii,High CAV adoption,2011,Health,305.2216673,22.12453426,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Hawaii,High CAV adoption,2011,Health,276.5932789,20.04935471,Tons
+Sulfur Dioxide,SO2,HI,Hawaii,High CAV adoption,2011,Health,102.4887215,7.429076874,Tons
+Volatile Organic Compounds,VOC,HI,Hawaii,High CAV adoption,2011,Health,11180.23794,810.4193893,Tons
+Carbon Dioxide,CO2,CO,Colorado,High CAV adoption,2011,GHG,27874763.08,544227.0071,Tons
+Carbon Monoxide,CO,CO,Colorado,High CAV adoption,2011,GHG,582060.3929,11364.14988,Tons
+Chromium (VI),Cr VI,CO,Colorado,High CAV adoption,2011,Health,1.245312255,0.02431348241,Lb's
+Manganese,Mn,CO,Colorado,High CAV adoption,2011,Health,162.5899594,3.174407141,Lb's
+Mercury,Hg,CO,Colorado,High CAV adoption,2011,Health,11.56242075,0.2257447578,Lb's
+Methane,CH4,CO,Colorado,High CAV adoption,2011,GHG,1902.554526,37.14548364,Tons
+Nickel,Ni,CO,Colorado,High CAV adoption,2011,Health,204.7606779,3.99774845,Lb's
+Nitrogen Oxides,NOx,CO,Colorado,High CAV adoption,2011,Health,105790.318,2065.450672,Tons
+Nitrous Oxide,N2O,CO,Colorado,High CAV adoption,2011,GHG,1377.639517,26.89704049,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CO,Colorado,High CAV adoption,2011,Health,6188.46871,120.8236926,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Colorado,High CAV adoption,2011,Health,3172.965137,61.94898644,Tons
+Sulfur Dioxide,SO2,CO,Colorado,High CAV adoption,2011,Health,496.5975262,9.695572467,Tons
+Volatile Organic Compounds,VOC,CO,Colorado,High CAV adoption,2011,Health,57198.96659,1116.752896,Tons
+Carbon Dioxide,CO2,NV,Nevada,High CAV adoption,2011,GHG,15612918.84,575461.2171,Tons
+Carbon Monoxide,CO,NV,Nevada,High CAV adoption,2011,GHG,258112.1977,9513.503588,Tons
+Chromium (VI),Cr VI,NV,Nevada,High CAV adoption,2011,Health,0.6771715358,0.0249591995,Lb's
+Manganese,Mn,NV,Nevada,High CAV adoption,2011,Health,89.00208548,3.280440316,Lb's
+Mercury,Hg,NV,Nevada,High CAV adoption,2011,Health,6.264685511,0.2309038806,Lb's
+Methane,CH4,NV,Nevada,High CAV adoption,2011,GHG,771.1588568,28.4233857,Tons
+Nickel,Ni,NV,Nevada,High CAV adoption,2011,Health,112.512485,4.146987006,Lb's
+Nitrogen Oxides,NOx,NV,Nevada,High CAV adoption,2011,Health,56022.07556,2064.862573,Tons
+Nitrous Oxide,N2O,NV,Nevada,High CAV adoption,2011,GHG,590.309321,21.75763057,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,NV,Nevada,High CAV adoption,2011,Health,3421.476231,126.1088266,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Nevada,High CAV adoption,2011,Health,1625.441724,59.91055755,Tons
+Sulfur Dioxide,SO2,NV,Nevada,High CAV adoption,2011,Health,272.1946197,10.03255372,Tons
+Volatile Organic Compounds,VOC,NV,Nevada,High CAV adoption,2011,Health,24209.49508,892.3139638,Tons
+Carbon Dioxide,CO2,ND,North Dakota,Low CAV adoption,2011,GHG,5916956.607,863126.5054,Tons
+Carbon Monoxide,CO,ND,North Dakota,Low CAV adoption,2011,GHG,111214.3534,16223.2145,Tons
+Chromium (VI),Cr VI,ND,North Dakota,Low CAV adoption,2011,Health,0.2475725704,0.03611424955,Lb's
+Manganese,Mn,ND,North Dakota,Low CAV adoption,2011,Health,36.19490791,5.279873836,Lb's
+Mercury,Hg,ND,North Dakota,Low CAV adoption,2011,Health,2.153209381,0.3140959468,Lb's
+Methane,CH4,ND,North Dakota,Low CAV adoption,2011,GHG,414.8329644,60.51308986,Tons
+Nickel,Ni,ND,North Dakota,Low CAV adoption,2011,Health,48.44485465,7.066815066,Lb's
+Nitrogen Oxides,NOx,ND,North Dakota,Low CAV adoption,2011,Health,26420.10728,3853.990553,Tons
+Nitrous Oxide,N2O,ND,North Dakota,Low CAV adoption,2011,GHG,226.1196421,32.98483823,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,ND,North Dakota,Low CAV adoption,2011,Health,1450.716175,211.620883,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,North Dakota,Low CAV adoption,2011,Health,941.4919194,137.3386158,Tons
+Sulfur Dioxide,SO2,ND,North Dakota,Low CAV adoption,2011,Health,96.77564247,14.11699082,Tons
+Volatile Organic Compounds,VOC,ND,North Dakota,Low CAV adoption,2011,Health,11719.23963,1709.525187,Tons
+Carbon Dioxide,CO2,WY,Wyoming,Low CAV adoption,2011,GHG,6695263.951,1179800.905,Tons
+Carbon Monoxide,CO,WY,Wyoming,Low CAV adoption,2011,GHG,111918.9571,19721.7149,Tons
+Chromium (VI),Cr VI,WY,Wyoming,Low CAV adoption,2011,Health,0.2526391185,0.04451861237,Lb's
+Manganese,Mn,WY,Wyoming,Low CAV adoption,2011,Health,39.28450959,6.922490328,Lb's
+Mercury,Hg,WY,Wyoming,Low CAV adoption,2011,Health,2.111298182,0.3720408222,Lb's
+Methane,CH4,WY,Wyoming,Low CAV adoption,2011,GHG,496.0136882,87.40467923,Tons
+Nickel,Ni,WY,Wyoming,Low CAV adoption,2011,Health,54.12777371,9.538084957,Lb's
+Nitrogen Oxides,NOx,WY,Wyoming,Low CAV adoption,2011,Health,35103.03424,6185.654794,Tons
+Nitrous Oxide,N2O,WY,Wyoming,Low CAV adoption,2011,GHG,219.8467043,38.74012175,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WY,Wyoming,Low CAV adoption,2011,Health,1644.465699,289.7782871,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Wyoming,Low CAV adoption,2011,Health,1107.479828,195.1537254,Tons
+Sulfur Dioxide,SO2,WY,Wyoming,Low CAV adoption,2011,Health,102.7827457,18.11178428,Tons
+Volatile Organic Compounds,VOC,WY,Wyoming,Low CAV adoption,2011,Health,11742.41386,2069.180632,Tons
+Carbon Dioxide,CO2,SD,South Dakota,Low CAV adoption,2011,GHG,5652567.455,686207.7178,Tons
+Carbon Monoxide,CO,SD,South Dakota,Low CAV adoption,2011,GHG,128983.7014,15658.30255,Tons
+Chromium (VI),Cr VI,SD,South Dakota,Low CAV adoption,2011,Health,0.2430979621,0.02951149175,Lb's
+Manganese,Mn,SD,South Dakota,Low CAV adoption,2011,Health,33.99660424,4.127103727,Lb's
+Mercury,Hg,SD,South Dakota,Low CAV adoption,2011,Health,2.173895392,0.2639055275,Lb's
+Methane,CH4,SD,South Dakota,Low CAV adoption,2011,GHG,468.6960252,56.898539,Tons
+Nickel,Ni,SD,South Dakota,Low CAV adoption,2011,Health,44.4799463,5.399755542,Lb's
+Nitrogen Oxides,NOx,SD,South Dakota,Low CAV adoption,2011,Health,26525.07488,3220.07853,Tons
+Nitrous Oxide,N2O,SD,South Dakota,Low CAV adoption,2011,GHG,288.0071226,34.96335284,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,SD,South Dakota,Low CAV adoption,2011,Health,1281.395428,155.5582378,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,South Dakota,Low CAV adoption,2011,Health,818.9455358,99.4179639,Tons
+Sulfur Dioxide,SO2,SD,South Dakota,Low CAV adoption,2011,Health,95.399377,11.58124857,Tons
+Volatile Organic Compounds,VOC,SD,South Dakota,Low CAV adoption,2011,Health,13920.38594,1689.900447,Tons
+Carbon Dioxide,CO2,VT,Vermont,High CAV adoption,2014,GHG,3900878.961,623449.3532,Tons
+Carbon Monoxide,CO,VT,Vermont,High CAV adoption,2014,GHG,47145.56044,7534.934935,Tons
+Chromium (VI),Cr VI,VT,Vermont,High CAV adoption,2014,Health,0.1865661473,0.02981752189,Lb's
+Manganese,Mn,VT,Vermont,High CAV adoption,2014,Health,107.15047,17.12508691,Lb's
+Mercury,Hg,VT,Vermont,High CAV adoption,2014,Health,1.759512973,0.2812102697,Lb's
+Methane,CH4,VT,Vermont,High CAV adoption,2014,GHG,186.5096622,29.80849429,Tons
+Nickel,Ni,VT,Vermont,High CAV adoption,2014,Health,28.5271536,4.559289236,Lb's
+Nitrogen Oxides,NOx,VT,Vermont,High CAV adoption,2014,Health,7618.983775,1217.687232,Tons
+Nitrous Oxide,N2O,VT,Vermont,High CAV adoption,2014,GHG,109.0310913,17.42565304,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VT,Vermont,High CAV adoption,2014,Health,683.2890245,109.2051572,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Vermont,High CAV adoption,2014,Health,315.6784019,50.45260245,Tons
+Sulfur Dioxide,SO2,VT,Vermont,High CAV adoption,2014,Health,80.93892994,12.93588548,Tons
+Volatile Organic Compounds,VOC,VT,Vermont,High CAV adoption,2014,Health,4523.276011,722.9225852,Tons
+Carbon Dioxide,CO2,MA,Massachusetts,High CAV adoption,2014,GHG,28297192.44,418296.5458,Tons
+Carbon Monoxide,CO,MA,Massachusetts,High CAV adoption,2014,GHG,312802.9221,4623.935116,Tons
+Chromium (VI),Cr VI,MA,Massachusetts,High CAV adoption,2014,Health,1.442371963,0.02132152195,Lb's
+Manganese,Mn,MA,Massachusetts,High CAV adoption,2014,Health,759.573289,11.22821226,Lb's
+Mercury,Hg,MA,Massachusetts,High CAV adoption,2014,Health,13.97711714,0.206613424,Lb's
+Methane,CH4,MA,Massachusetts,High CAV adoption,2014,GHG,1093.761586,16.16827162,Tons
+Nickel,Ni,MA,Massachusetts,High CAV adoption,2014,Health,202.9500739,3.000061404,Lb's
+Nitrogen Oxides,NOx,MA,Massachusetts,High CAV adoption,2014,Health,44728.95309,661.1951562,Tons
+Nitrous Oxide,N2O,MA,Massachusetts,High CAV adoption,2014,GHG,845.1577282,12.49334396,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MA,Massachusetts,High CAV adoption,2014,Health,4282.234259,63.3011138,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Massachusetts,High CAV adoption,2014,Health,1726.232805,25.51762763,Tons
+Sulfur Dioxide,SO2,MA,Massachusetts,High CAV adoption,2014,Health,554.9771128,8.203817738,Tons
+Volatile Organic Compounds,VOC,MA,Massachusetts,High CAV adoption,2014,Health,29365.42936,434.0875051,Tons
+Carbon Dioxide,CO2,MD,Maryland,High CAV adoption,2014,GHG,31508434.58,528659.3329,Tons
+Carbon Monoxide,CO,MD,Maryland,High CAV adoption,2014,GHG,369937.6277,6206.940525,Tons
+Chromium (VI),Cr VI,MD,Maryland,High CAV adoption,2014,Health,1.485784955,0.02492901007,Lb's
+Manganese,Mn,MD,Maryland,High CAV adoption,2014,Health,807.528098,13.54898367,Lb's
+Mercury,Hg,MD,Maryland,High CAV adoption,2014,Health,13.741875,0.2305658966,Lb's
+Methane,CH4,MD,Maryland,High CAV adoption,2014,GHG,1264.05251,21.20870699,Tons
+Nickel,Ni,MD,Maryland,High CAV adoption,2014,Health,239.8126263,4.023658576,Lb's
+Nitrogen Oxides,NOx,MD,Maryland,High CAV adoption,2014,Health,73231.69722,1228.706558,Tons
+Nitrous Oxide,N2O,MD,Maryland,High CAV adoption,2014,GHG,876.2502871,14.70202815,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MD,Maryland,High CAV adoption,2014,Health,5510.996451,92.46539048,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Maryland,High CAV adoption,2014,Health,2743.694708,46.03465178,Tons
+Sulfur Dioxide,SO2,MD,Maryland,High CAV adoption,2014,Health,536.6598624,9.004263417,Tons
+Volatile Organic Compounds,VOC,MD,Maryland,High CAV adoption,2014,Health,33808.0902,567.2437443,Tons
+Carbon Dioxide,CO2,VA,Virginia,High CAV adoption,2014,GHG,46861751.06,563551.7473,Tons
+Carbon Monoxide,CO,VA,Virginia,High CAV adoption,2014,GHG,704749.8139,8475.205899,Tons
+Chromium (VI),Cr VI,VA,Virginia,High CAV adoption,2014,Health,2.225244285,0.02676042352,Lb's
+Manganese,Mn,VA,Virginia,High CAV adoption,2014,Health,1081.417068,13.00494464,Lb's
+Mercury,Hg,VA,Virginia,High CAV adoption,2014,Health,20.53983794,0.2470087289,Lb's
+Methane,CH4,VA,Virginia,High CAV adoption,2014,GHG,2015.718486,24.24070055,Tons
+Nickel,Ni,VA,Virginia,High CAV adoption,2014,Health,365.7257401,4.398157883,Lb's
+Nitrogen Oxides,NOx,VA,Virginia,High CAV adoption,2014,Health,132762.4134,1596.579051,Tons
+Nitrous Oxide,N2O,VA,Virginia,High CAV adoption,2014,GHG,1520.226228,18.28199176,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VA,Virginia,High CAV adoption,2014,Health,7703.192829,92.637336,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Virginia,High CAV adoption,2014,Health,4021.517433,48.36211035,Tons
+Sulfur Dioxide,SO2,VA,Virginia,High CAV adoption,2014,Health,849.9167766,10.22096003,Tons
+Volatile Organic Compounds,VOC,VA,Virginia,High CAV adoption,2014,Health,65139.80759,783.3606632,Tons
+Carbon Dioxide,CO2,WV,West Virginia,Low CAV adoption,2014,GHG,11654260.92,629766.3538,Tons
+Carbon Monoxide,CO,WV,West Virginia,Low CAV adoption,2014,GHG,173600.7202,9380.937439,Tons
+Chromium (VI),Cr VI,WV,West Virginia,Low CAV adoption,2014,Health,0.5201910874,0.02810979149,Lb's
+Manganese,Mn,WV,West Virginia,Low CAV adoption,2014,Health,225.1547045,12.16678246,Lb's
+Mercury,Hg,WV,West Virginia,Low CAV adoption,2014,Health,4.527643923,0.2446622592,Lb's
+Methane,CH4,WV,West Virginia,Low CAV adoption,2014,GHG,641.9821513,34.69106806,Tons
+Nickel,Ni,WV,West Virginia,Low CAV adoption,2014,Health,98.13897866,5.303178571,Lb's
+Nitrogen Oxides,NOx,WV,West Virginia,Low CAV adoption,2014,Health,40879.73159,2209.035793,Tons
+Nitrous Oxide,N2O,WV,West Virginia,Low CAV adoption,2014,GHG,357.8037446,19.33479619,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WV,West Virginia,Low CAV adoption,2014,Health,2122.140727,114.6750392,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,West Virginia,Low CAV adoption,2014,Health,1336.746429,72.23434678,Tons
+Sulfur Dioxide,SO2,WV,West Virginia,Low CAV adoption,2014,Health,175.6806805,9.493333159,Tons
+Volatile Organic Compounds,VOC,WV,West Virginia,Low CAV adoption,2014,Health,17352.67408,937.6939784,Tons
+Carbon Dioxide,CO2,AL,Alabama,Low CAV adoption,2014,GHG,39592791.49,817401.7601,Tons
+Carbon Monoxide,CO,AL,Alabama,Low CAV adoption,2014,GHG,716553.7096,14793.40661,Tons
+Chromium (VI),Cr VI,AL,Alabama,Low CAV adoption,2014,Health,1.73979177,0.0359183781,Lb's
+Manganese,Mn,AL,Alabama,Low CAV adoption,2014,Health,933.9187768,19.28095553,Lb's
+Mercury,Hg,AL,Alabama,Low CAV adoption,2014,Health,15.57191096,0.3214854761,Lb's
+Methane,CH4,AL,Alabama,Low CAV adoption,2014,GHG,2014.727307,41.59448185,Tons
+Nickel,Ni,AL,Alabama,Low CAV adoption,2014,Health,307.2620427,6.343491456,Lb's
+Nitrogen Oxides,NOx,AL,Alabama,Low CAV adoption,2014,Health,129445.4645,2672.429665,Tons
+Nitrous Oxide,N2O,AL,Alabama,Low CAV adoption,2014,GHG,1361.933499,28.11741222,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AL,Alabama,Low CAV adoption,2014,Health,7149.451884,147.6019834,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Alabama,Low CAV adoption,2014,Health,3918.739084,80.90321758,Tons
+Sulfur Dioxide,SO2,AL,Alabama,Low CAV adoption,2014,Health,723.786687,14.942733,Tons
+Volatile Organic Compounds,VOC,AL,Alabama,Low CAV adoption,2014,Health,67278.32476,1388.975594,Tons
+Carbon Dioxide,CO2,KY,Kentucky,Low CAV adoption,2014,GHG,29372673.18,664992.6733,Tons
+Carbon Monoxide,CO,KY,Kentucky,Low CAV adoption,2014,GHG,486485.7159,11013.95963,Tons
+Chromium (VI),Cr VI,KY,Kentucky,Low CAV adoption,2014,Health,1.274554821,0.02885571948,Lb's
+Manganese,Mn,KY,Kentucky,Low CAV adoption,2014,Health,627.0281417,14.19581792,Lb's
+Mercury,Hg,KY,Kentucky,Low CAV adoption,2014,Health,11.18161955,0.2531500974,Lb's
+Methane,CH4,KY,Kentucky,Low CAV adoption,2014,GHG,1686.256008,38.17656922,Tons
+Nickel,Ni,KY,Kentucky,Low CAV adoption,2014,Health,237.8899583,5.385791017,Lb's
+Nitrogen Oxides,NOx,KY,Kentucky,Low CAV adoption,2014,Health,104469.8371,2365.180583,Tons
+Nitrous Oxide,N2O,KY,Kentucky,Low CAV adoption,2014,GHG,1001.429462,22.67220457,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,KY,Kentucky,Low CAV adoption,2014,Health,5510.775398,124.7630831,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Kentucky,Low CAV adoption,2014,Health,3321.923568,75.20782397,Tons
+Sulfur Dioxide,SO2,KY,Kentucky,Low CAV adoption,2014,Health,411.6612982,9.319946655,Tons
+Volatile Organic Compounds,VOC,KY,Kentucky,Low CAV adoption,2014,Health,47420.43926,1073.591242,Tons
+Carbon Dioxide,CO2,MI,Michigan,Low CAV adoption,2014,GHG,50093185.2,504359.8345,Tons
+Carbon Monoxide,CO,MI,Michigan,Low CAV adoption,2014,GHG,842202.0386,8479.65405,Tons
+Chromium (VI),Cr VI,MI,Michigan,Low CAV adoption,2014,Health,2.531264066,0.02548586041,Lb's
+Manganese,Mn,MI,Michigan,Low CAV adoption,2014,Health,1160.982767,11.68927617,Lb's
+Mercury,Hg,MI,Michigan,Low CAV adoption,2014,Health,23.81987635,0.239828808,Lb's
+Methane,CH4,MI,Michigan,Low CAV adoption,2014,GHG,2970.525594,29.90853528,Tons
+Nickel,Ni,MI,Michigan,Low CAV adoption,2014,Health,394.0719759,3.967686936,Lb's
+Nitrogen Oxides,NOx,MI,Michigan,Low CAV adoption,2014,Health,134323.1589,1352.423606,Tons
+Nitrous Oxide,N2O,MI,Michigan,Low CAV adoption,2014,GHG,1745.529029,17.57474053,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MI,Michigan,Low CAV adoption,2014,Health,8440.425075,84.98184687,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Michigan,Low CAV adoption,2014,Health,4462.843411,44.93383591,Tons
+Sulfur Dioxide,SO2,MI,Michigan,Low CAV adoption,2014,Health,745.4616755,7.505630272,Tons
+Volatile Organic Compounds,VOC,MI,Michigan,Low CAV adoption,2014,Health,84777.28153,853.5743038,Tons
+Carbon Dioxide,CO2,LA,Louisiana,Low CAV adoption,2014,GHG,32084576.38,690594.1573,Tons
+Carbon Monoxide,CO,LA,Louisiana,Low CAV adoption,2014,GHG,418958.4886,9017.7374,Tons
+Chromium (VI),Cr VI,LA,Louisiana,Low CAV adoption,2014,Health,1.271193268,0.02736139113,Lb's
+Manganese,Mn,LA,Louisiana,Low CAV adoption,2014,Health,743.0267487,15.99304056,Lb's
+Mercury,Hg,LA,Louisiana,Low CAV adoption,2014,Health,10.84319668,0.2333909036,Lb's
+Methane,CH4,LA,Louisiana,Low CAV adoption,2014,GHG,1586.117763,34.13988227,Tons
+Nickel,Ni,LA,Louisiana,Low CAV adoption,2014,Health,246.9531777,5.315464341,Lb's
+Nitrogen Oxides,NOx,LA,Louisiana,Low CAV adoption,2014,Health,96957.11406,2086.922255,Tons
+Nitrous Oxide,N2O,LA,Louisiana,Low CAV adoption,2014,GHG,867.4126893,18.67034578,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,LA,Louisiana,Low CAV adoption,2014,Health,5879.618091,126.5539508,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Louisiana,Low CAV adoption,2014,Health,3307.029583,71.1810959,Tons
+Sulfur Dioxide,SO2,LA,Louisiana,Low CAV adoption,2014,Health,568.307247,12.23234677,Tons
+Volatile Organic Compounds,VOC,LA,Louisiana,Low CAV adoption,2014,Health,40102.64871,863.1765794,Tons
+Carbon Dioxide,CO2,AR,Arkansas,Low CAV adoption,2014,GHG,22397857.89,754451.8734,Tons
+Carbon Monoxide,CO,AR,Arkansas,Low CAV adoption,2014,GHG,333500.4117,11233.66402,Tons
+Chromium (VI),Cr VI,AR,Arkansas,Low CAV adoption,2014,Health,0.9023295109,0.03039416507,Lb's
+Manganese,Mn,AR,Arkansas,Low CAV adoption,2014,Health,446.1522686,15.02824138,Lb's
+Mercury,Hg,AR,Arkansas,Low CAV adoption,2014,Health,7.714348028,0.2598509353,Lb's
+Methane,CH4,AR,Arkansas,Low CAV adoption,2014,GHG,1216.414993,40.97385449,Tons
+Nickel,Ni,AR,Arkansas,Low CAV adoption,2014,Health,175.9668843,5.927287607,Lb's
+Nitrogen Oxides,NOx,AR,Arkansas,Low CAV adoption,2014,Health,79428.34301,2675.472917,Tons
+Nitrous Oxide,N2O,AR,Arkansas,Low CAV adoption,2014,GHG,684.7558267,23.0653895,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AR,Arkansas,Low CAV adoption,2014,Health,4001.129901,134.7744934,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Arkansas,Low CAV adoption,2014,Health,2436.395971,82.06782601,Tons
+Sulfur Dioxide,SO2,AR,Arkansas,Low CAV adoption,2014,Health,333.2448092,11.22505428,Tons
+Volatile Organic Compounds,VOC,AR,Arkansas,Low CAV adoption,2014,Health,33171.47912,1117.351699,Tons
+Carbon Dioxide,CO2,OK,Oklahoma,Low CAV adoption,2014,GHG,29610611.68,763320.0378,Tons
+Carbon Monoxide,CO,OK,Oklahoma,Low CAV adoption,2014,GHG,428665.7612,11050.40209,Tons
+Chromium (VI),Cr VI,OK,Oklahoma,Low CAV adoption,2014,Health,1.254287428,0.03233377067,Lb's
+Manganese,Mn,OK,Oklahoma,Low CAV adoption,2014,Health,626.0156753,16.13780607,Lb's
+Mercury,Hg,OK,Oklahoma,Low CAV adoption,2014,Health,10.82329366,0.27900933,Lb's
+Methane,CH4,OK,Oklahoma,Low CAV adoption,2014,GHG,1597.925769,41.1922851,Tons
+Nickel,Ni,OK,Oklahoma,Low CAV adoption,2014,Health,236.657506,6.100698575,Lb's
+Nitrogen Oxides,NOx,OK,Oklahoma,Low CAV adoption,2014,Health,92071.25586,2373.467839,Tons
+Nitrous Oxide,N2O,OK,Oklahoma,Low CAV adoption,2014,GHG,913.8278545,23.55720037,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OK,Oklahoma,Low CAV adoption,2014,Health,4986.223075,128.5378373,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Oklahoma,Low CAV adoption,2014,Health,2834.430392,73.06764,Tons
+Sulfur Dioxide,SO2,OK,Oklahoma,Low CAV adoption,2014,Health,450.259706,11.6070637,Tons
+Volatile Organic Compounds,VOC,OK,Oklahoma,Low CAV adoption,2014,Health,42735.22388,1101.654132,Tons
+Carbon Dioxide,CO2,CA,California,High CAV adoption,2014,GHG,182923241.5,474057.6755,Tons
+Carbon Monoxide,CO,CA,California,High CAV adoption,2014,GHG,971515.6625,2517.747077,Tons
+Chromium (VI),Cr VI,CA,California,High CAV adoption,2014,Health,116.9504318,0.303084777,Lb's
+Manganese,Mn,CA,California,High CAV adoption,2014,Health,53159.7191,137.766927,Lb's
+Mercury,Hg,CA,California,High CAV adoption,2014,Health,77.59966354,0.2011046591,Lb's
+Methane,CH4,CA,California,High CAV adoption,2014,GHG,10824.19611,28.05161993,Tons
+Nickel,Ni,CA,California,High CAV adoption,2014,Health,21127.05228,54.75215294,Lb's
+Nitrogen Oxides,NOx,CA,California,High CAV adoption,2014,Health,274369.3965,711.0464327,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CA,California,High CAV adoption,2014,Health,22283.96937,57.75038007,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,California,High CAV adoption,2014,Health,11073.12305,28.69673055,Tons
+Sulfur Dioxide,SO2,CA,California,High CAV adoption,2014,Health,1722.437592,4.463810908,Tons
+Volatile Organic Compounds,VOC,CA,California,High CAV adoption,2014,Health,124804.4038,323.4388646,Tons
+Carbon Dioxide,CO2,WA,Washington,High CAV adoption,2014,GHG,34484024.64,488613.1516,Tons
+Carbon Monoxide,CO,WA,Washington,High CAV adoption,2014,GHG,712299.9736,10092.76436,Tons
+Chromium (VI),Cr VI,WA,Washington,High CAV adoption,2014,Health,1.544803183,0.02188871977,Lb's
+Manganese,Mn,WA,Washington,High CAV adoption,2014,Health,882.5477342,12.50504935,Lb's
+Mercury,Hg,WA,Washington,High CAV adoption,2014,Health,13.7851188,0.1953249487,Lb's
+Methane,CH4,WA,Washington,High CAV adoption,2014,GHG,2201.30445,31.19085768,Tons
+Nickel,Ni,WA,Washington,High CAV adoption,2014,Health,277.5660017,3.932905172,Lb's
+Nitrogen Oxides,NOx,WA,Washington,High CAV adoption,2014,Health,129267.2393,1831.621275,Tons
+Nitrous Oxide,N2O,WA,Washington,High CAV adoption,2014,GHG,1638.441302,23.21550273,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WA,Washington,High CAV adoption,2014,Health,6857.369407,97.16385812,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Washington,High CAV adoption,2014,Health,3777.587439,53.52562305,Tons
+Sulfur Dioxide,SO2,WA,Washington,High CAV adoption,2014,Health,547.6468683,7.759751509,Tons
+Volatile Organic Compounds,VOC,WA,Washington,High CAV adoption,2014,Health,70567.02096,999.8825504,Tons
+Carbon Dioxide,CO2,OR,Oregon,High CAV adoption,2014,GHG,19172947.29,483500.2786,Tons
+Carbon Monoxide,CO,OR,Oregon,High CAV adoption,2014,GHG,388940.7441,9808.244671,Tons
+Chromium (VI),Cr VI,OR,Oregon,High CAV adoption,2014,Health,0.8821422019,0.02224571913,Lb's
+Manganese,Mn,OR,Oregon,High CAV adoption,2014,Health,478.7065127,12.07194328,Lb's
+Mercury,Hg,OR,Oregon,High CAV adoption,2014,Health,7.84149729,0.1977456082,Lb's
+Methane,CH4,OR,Oregon,High CAV adoption,2014,GHG,1147.277228,28.93185127,Tons
+Nickel,Ni,OR,Oregon,High CAV adoption,2014,Health,161.5095741,4.072922274,Lb's
+Nitrogen Oxides,NOx,OR,Oregon,High CAV adoption,2014,Health,71134.43514,1793.856661,Tons
+Nitrous Oxide,N2O,OR,Oregon,High CAV adoption,2014,GHG,954.7853132,24.07762134,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OR,Oregon,High CAV adoption,2014,Health,3646.986833,91.9691231,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Oregon,High CAV adoption,2014,Health,2000.414607,50.44613147,Tons
+Sulfur Dioxide,SO2,OR,Oregon,High CAV adoption,2014,Health,306.5700422,7.731033656,Tons
+Volatile Organic Compounds,VOC,OR,Oregon,High CAV adoption,2014,Health,40290.60449,1016.041936,Tons
+Carbon Dioxide,CO2,HI,Hawaii,High CAV adoption,2014,GHG,5599418.064,395624.9272,Tons
+Carbon Monoxide,CO,HI,Hawaii,High CAV adoption,2014,GHG,97732.21758,6905.235692,Tons
+Chromium (VI),Cr VI,HI,Hawaii,High CAV adoption,2014,Health,0.2582441198,0.01824614807,Lb's
+Manganese,Mn,HI,Hawaii,High CAV adoption,2014,Health,141.5282818,9.999631309,Lb's
+Mercury,Hg,HI,Hawaii,High CAV adoption,2014,Health,2.465948724,0.1742307457,Lb's
+Methane,CH4,HI,Hawaii,High CAV adoption,2014,GHG,287.7758819,20.33270441,Tons
+Nickel,Ni,HI,Hawaii,High CAV adoption,2014,Health,37.79587121,2.670454077,Lb's
+Nitrogen Oxides,NOx,HI,Hawaii,High CAV adoption,2014,Health,12076.50531,853.261264,Tons
+Nitrous Oxide,N2O,HI,Hawaii,High CAV adoption,2014,GHG,264.4857694,18.68714965,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,HI,Hawaii,High CAV adoption,2014,Health,770.1538468,54.41495101,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Hawaii,High CAV adoption,2014,Health,300.3097363,21.21827951,Tons
+Sulfur Dioxide,SO2,HI,Hawaii,High CAV adoption,2014,Health,103.6191434,7.32117438,Tons
+Volatile Organic Compounds,VOC,HI,Hawaii,High CAV adoption,2014,Health,10383.07985,733.6128793,Tons
+Carbon Dioxide,CO2,CO,Colorado,High CAV adoption,2014,GHG,28179383.67,526457.9621,Tons
+Carbon Monoxide,CO,CO,Colorado,High CAV adoption,2014,GHG,497501.4177,9294.510681,Tons
+Chromium (VI),Cr VI,CO,Colorado,High CAV adoption,2014,Health,1.301269075,0.02431080372,Lb's
+Manganese,Mn,CO,Colorado,High CAV adoption,2014,Health,678.7687643,12.68101619,Lb's
+Mercury,Hg,CO,Colorado,High CAV adoption,2014,Health,11.79141363,0.2202916737,Lb's
+Methane,CH4,CO,Colorado,High CAV adoption,2014,GHG,1621.968805,30.30223803,Tons
+Nickel,Ni,CO,Colorado,High CAV adoption,2014,Health,225.0106047,4.203733687,Lb's
+Nitrogen Oxides,NOx,CO,Colorado,High CAV adoption,2014,Health,89794.36785,1677.572528,Tons
+Nitrous Oxide,N2O,CO,Colorado,High CAV adoption,2014,GHG,1200.567734,22.42946298,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CO,Colorado,High CAV adoption,2014,Health,5223.508503,97.58757232,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Colorado,High CAV adoption,2014,Health,2868.219943,53.58517573,Tons
+Sulfur Dioxide,SO2,CO,Colorado,High CAV adoption,2014,Health,457.2442955,8.542411814,Tons
+Volatile Organic Compounds,VOC,CO,Colorado,High CAV adoption,2014,Health,47417.22087,885.8665527,Tons
+Carbon Dioxide,CO2,NV,Nevada,High CAV adoption,2014,GHG,14292596.19,507021.1335,Tons
+Carbon Monoxide,CO,NV,Nevada,High CAV adoption,2014,GHG,202123.302,7170.200875,Tons
+Chromium (VI),Cr VI,NV,Nevada,High CAV adoption,2014,Health,0.670513839,0.02378606953,Lb's
+Manganese,Mn,NV,Nevada,High CAV adoption,2014,Health,368.6485638,13.07758298,Lb's
+Mercury,Hg,NV,Nevada,High CAV adoption,2014,Health,6.139828996,0.2178066893,Lb's
+Methane,CH4,NV,Nevada,High CAV adoption,2014,GHG,765.5175034,27.15626658,Tons
+Nickel,Ni,NV,Nevada,High CAV adoption,2014,Health,113.063469,4.010857612,Lb's
+Nitrogen Oxides,NOx,NV,Nevada,High CAV adoption,2014,Health,44313.39004,1571.990487,Tons
+Nitrous Oxide,N2O,NV,Nevada,High CAV adoption,2014,GHG,468.8962266,16.63380768,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,NV,Nevada,High CAV adoption,2014,Health,2481.209874,88.0194071,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Nevada,High CAV adoption,2014,Health,1229.671663,43.62185233,Tons
+Sulfur Dioxide,SO2,NV,Nevada,High CAV adoption,2014,Health,195.8541812,6.947807635,Tons
+Volatile Organic Compounds,VOC,NV,Nevada,High CAV adoption,2014,Health,20005.55517,709.6848692,Tons
+Carbon Dioxide,CO2,ND,North Dakota,Low CAV adoption,2014,GHG,8229329.857,1113974.391,Tons
+Carbon Monoxide,CO,ND,North Dakota,Low CAV adoption,2014,GHG,110770.3748,14994.58193,Tons
+Chromium (VI),Cr VI,ND,North Dakota,Low CAV adoption,2014,Health,0.2816623951,0.03812761191,Lb's
+Manganese,Mn,ND,North Dakota,Low CAV adoption,2014,Health,174.7597343,23.65658831,Lb's
+Mercury,Hg,ND,North Dakota,Low CAV adoption,2014,Health,2.043466916,0.276616669,Lb's
+Methane,CH4,ND,North Dakota,Low CAV adoption,2014,GHG,519.5318226,70.32712939,Tons
+Nickel,Ni,ND,North Dakota,Low CAV adoption,2014,Health,72.82234219,9.857695062,Lb's
+Nitrogen Oxides,NOx,ND,North Dakota,Low CAV adoption,2014,Health,36072.73362,4883.034483,Tons
+Nitrous Oxide,N2O,ND,North Dakota,Low CAV adoption,2014,GHG,200.0542103,27.08060935,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,ND,North Dakota,Low CAV adoption,2014,Health,2111.44128,285.818111,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,North Dakota,Low CAV adoption,2014,Health,1455.599227,197.0391624,Tons
+Sulfur Dioxide,SO2,ND,North Dakota,Low CAV adoption,2014,Health,99.44923854,13.46208098,Tons
+Volatile Organic Compounds,VOC,ND,North Dakota,Low CAV adoption,2014,Health,11495.59851,1556.117274,Tons
+Carbon Dioxide,CO2,WY,Wyoming,Low CAV adoption,2014,GHG,6889738.622,1181451.135,Tons
+Carbon Monoxide,CO,WY,Wyoming,Low CAV adoption,2014,GHG,102343.7736,17549.89182,Tons
+Chromium (VI),Cr VI,WY,Wyoming,Low CAV adoption,2014,Health,0.255101002,0.04374467375,Lb's
+Manganese,Mn,WY,Wyoming,Low CAV adoption,2014,Health,123.7159775,21.21479347,Lb's
+Mercury,Hg,WY,Wyoming,Low CAV adoption,2014,Health,1.960573746,0.3361988318,Lb's
+Methane,CH4,WY,Wyoming,Low CAV adoption,2014,GHG,570.8949564,97.89696401,Tons
+Nickel,Ni,WY,Wyoming,Low CAV adoption,2014,Health,61.00279435,10.46074816,Lb's
+Nitrogen Oxides,NOx,WY,Wyoming,Low CAV adoption,2014,Health,32044.61003,5495.00394,Tons
+Nitrous Oxide,N2O,WY,Wyoming,Low CAV adoption,2014,GHG,184.6066308,31.65631172,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WY,Wyoming,Low CAV adoption,2014,Health,1427.618104,244.8076946,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Wyoming,Low CAV adoption,2014,Health,979.5565379,167.9741782,Tons
+Sulfur Dioxide,SO2,WY,Wyoming,Low CAV adoption,2014,Health,93.58486518,16.04791578,Tons
+Volatile Organic Compounds,VOC,WY,Wyoming,Low CAV adoption,2014,Health,10391.62965,1781.954775,Tons
+Carbon Dioxide,CO2,SD,South Dakota,Low CAV adoption,2014,GHG,6372085.279,749948.248,Tons
+Carbon Monoxide,CO,SD,South Dakota,Low CAV adoption,2014,GHG,121062.1465,14248.13709,Tons
+Chromium (VI),Cr VI,SD,South Dakota,Low CAV adoption,2014,Health,0.2476698003,0.02914894021,Lb's
+Manganese,Mn,SD,South Dakota,Low CAV adoption,2014,Health,119.7176121,14.08989515,Lb's
+Mercury,Hg,SD,South Dakota,Low CAV adoption,2014,Health,2.007711502,0.2362930905,Lb's
+Methane,CH4,SD,South Dakota,Low CAV adoption,2014,GHG,484.8983404,57.06901979,Tons
+Nickel,Ni,SD,South Dakota,Low CAV adoption,2014,Health,54.35559549,6.397259582,Lb's
+Nitrogen Oxides,NOx,SD,South Dakota,Low CAV adoption,2014,Health,27733.73568,3264.059656,Tons
+Nitrous Oxide,N2O,SD,South Dakota,Low CAV adoption,2014,GHG,240.4894984,28.30387072,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,SD,South Dakota,Low CAV adoption,2014,Health,1405.588534,165.4275818,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,South Dakota,Low CAV adoption,2014,Health,963.0670167,113.3460069,Tons
+Sulfur Dioxide,SO2,SD,South Dakota,Low CAV adoption,2014,Health,83.1146197,9.781988266,Tons
+Volatile Organic Compounds,VOC,SD,South Dakota,Low CAV adoption,2014,Health,12516.44443,1473.094781,Tons
+Carbon Dioxide,CO2,VT,Vermont,High CAV adoption,2017,GHG,3639303.878,582165.6671,Tons
+Carbon Monoxide,CO,VT,Vermont,High CAV adoption,2017,GHG,36762.37247,5880.737583,Tons
+Chromium (VI),Cr VI,VT,Vermont,High CAV adoption,2017,Health,0.1941046155,0.03105018068,Lb's
+Manganese,Mn,VT,Vermont,High CAV adoption,2017,Health,74.52911383,11.92214026,Lb's
+Mercury,Hg,VT,Vermont,High CAV adoption,2017,Health,1.865284066,0.2983824322,Lb's
+Methane,CH4,VT,Vermont,High CAV adoption,2017,GHG,164.6626509,26.34046104,Tons
+Nickel,Ni,VT,Vermont,High CAV adoption,2017,Health,27.15141032,4.343308344,Lb's
+Nitrogen Oxides,NOx,VT,Vermont,High CAV adoption,2017,Health,5121.17516,819.2150075,Tons
+Nitrous Oxide,N2O,VT,Vermont,High CAV adoption,2017,GHG,75.57669443,12.08971776,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VT,Vermont,High CAV adoption,2017,Health,426.4216367,68.21305527,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Vermont,High CAV adoption,2017,Health,184.2750245,29.47777821,Tons
+Sulfur Dioxide,SO2,VT,Vermont,High CAV adoption,2017,Health,69.44022197,11.10808949,Tons
+Volatile Organic Compounds,VOC,VT,Vermont,High CAV adoption,2017,Health,3097.002208,495.4157215,Tons
+Carbon Dioxide,CO2,MA,Massachusetts,High CAV adoption,2017,GHG,33282780.96,484920.0846,Tons
+Carbon Monoxide,CO,MA,Massachusetts,High CAV adoption,2017,GHG,292921.9093,4267.78391,Tons
+Chromium (VI),Cr VI,MA,Massachusetts,High CAV adoption,2017,Health,1.627989548,0.02371931692,Lb's
+Manganese,Mn,MA,Massachusetts,High CAV adoption,2017,Health,857.540073,12.49410034,Lb's
+Mercury,Hg,MA,Massachusetts,High CAV adoption,2017,Health,15.65001873,0.2280160549,Lb's
+Methane,CH4,MA,Massachusetts,High CAV adoption,2017,GHG,1104.470987,16.09180931,Tons
+Nickel,Ni,MA,Massachusetts,High CAV adoption,2017,Health,228.23131,3.325261381,Lb's
+Nitrogen Oxides,NOx,MA,Massachusetts,High CAV adoption,2017,Health,41863.03478,609.9317961,Tons
+Nitrous Oxide,N2O,MA,Massachusetts,High CAV adoption,2017,GHG,706.3765594,10.29169351,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MA,Massachusetts,High CAV adoption,2017,Health,4628.841701,67.4408281,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Massachusetts,High CAV adoption,2017,Health,1785.700381,26.0171162,Tons
+Sulfur Dioxide,SO2,MA,Massachusetts,High CAV adoption,2017,Health,622.687174,9.0723644,Tons
+Volatile Organic Compounds,VOC,MA,Massachusetts,High CAV adoption,2017,Health,24742.26167,360.4872934,Tons
+Carbon Dioxide,CO2,MD,Maryland,High CAV adoption,2017,GHG,31699972.86,525862.554,Tons
+Carbon Monoxide,CO,MD,Maryland,High CAV adoption,2017,GHG,282596.907,4687.926135,Tons
+Chromium (VI),Cr VI,MD,Maryland,High CAV adoption,2017,Health,1.553235452,0.02576621644,Lb's
+Manganese,Mn,MD,Maryland,High CAV adoption,2017,Health,719.8163754,11.94084548,Lb's
+Mercury,Hg,MD,Maryland,High CAV adoption,2017,Health,14.72652959,0.2442945454,Lb's
+Methane,CH4,MD,Maryland,High CAV adoption,2017,GHG,1094.798716,18.16132939,Tons
+Nickel,Ni,MD,Maryland,High CAV adoption,2017,Health,223.1116525,3.701140816,Lb's
+Nitrogen Oxides,NOx,MD,Maryland,High CAV adoption,2017,Health,46615.78193,773.2970072,Tons
+Nitrous Oxide,N2O,MD,Maryland,High CAV adoption,2017,GHG,649.3235019,10.77145765,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MD,Maryland,High CAV adoption,2017,Health,3973.332873,65.91257922,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Maryland,High CAV adoption,2017,Health,1607.088045,26.659563,Tons
+Sulfur Dioxide,SO2,MD,Maryland,High CAV adoption,2017,Health,571.7258267,9.484210121,Tons
+Volatile Organic Compounds,VOC,MD,Maryland,High CAV adoption,2017,Health,24087.55867,399.5822072,Tons
+Carbon Dioxide,CO2,VA,Virginia,High CAV adoption,2017,GHG,45721570.59,539741.6034,Tons
+Carbon Monoxide,CO,VA,Virginia,High CAV adoption,2017,GHG,604590.4295,7137.169689,Tons
+Chromium (VI),Cr VI,VA,Virginia,High CAV adoption,2017,Health,2.211579183,0.02610761789,Lb's
+Manganese,Mn,VA,Virginia,High CAV adoption,2017,Health,848.9496215,10.02182173,Lb's
+Mercury,Hg,VA,Virginia,High CAV adoption,2017,Health,20.87116303,0.2463833777,Lb's
+Methane,CH4,VA,Virginia,High CAV adoption,2017,GHG,2113.468642,24.94942625,Tons
+Nickel,Ni,VA,Virginia,High CAV adoption,2017,Health,326.6907695,3.856573548,Lb's
+Nitrogen Oxides,NOx,VA,Virginia,High CAV adoption,2017,Health,96522.9234,1139.449865,Tons
+Nitrous Oxide,N2O,VA,Virginia,High CAV adoption,2017,GHG,1316.498917,15.54122545,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VA,Virginia,High CAV adoption,2017,Health,5393.781353,63.6734075,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Virginia,High CAV adoption,2017,Health,2611.027352,30.82309009,Tons
+Sulfur Dioxide,SO2,VA,Virginia,High CAV adoption,2017,Health,830.0265452,9.798435455,Tons
+Volatile Organic Compounds,VOC,VA,Virginia,High CAV adoption,2017,Health,54937.6931,648.5376196,Tons
+Carbon Dioxide,CO2,WV,West Virginia,Low CAV adoption,2017,GHG,10950847.48,602130.6342,Tons
+Carbon Monoxide,CO,WV,West Virginia,Low CAV adoption,2017,GHG,150103.277,8253.405182,Tons
+Chromium (VI),Cr VI,WV,West Virginia,Low CAV adoption,2017,Health,0.5095654731,0.02801837775,Lb's
+Manganese,Mn,WV,West Virginia,Low CAV adoption,2017,Health,226.9938108,12.48121915,Lb's
+Mercury,Hg,WV,West Virginia,Low CAV adoption,2017,Health,4.749194142,0.2611336963,Lb's
+Methane,CH4,WV,West Virginia,Low CAV adoption,2017,GHG,536.1736891,29.48142634,Tons
+Nickel,Ni,WV,West Virginia,Low CAV adoption,2017,Health,77.90109542,4.283379534,Lb's
+Nitrogen Oxides,NOx,WV,West Virginia,Low CAV adoption,2017,Health,24336.05531,1338.114191,Tons
+Nitrous Oxide,N2O,WV,West Virginia,Low CAV adoption,2017,GHG,310.5506769,17.07558035,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WV,West Virginia,Low CAV adoption,2017,Health,1457.938214,80.16450441,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,West Virginia,Low CAV adoption,2017,Health,703.5222446,38.68306047,Tons
+Sulfur Dioxide,SO2,WV,West Virginia,Low CAV adoption,2017,Health,153.1390635,8.42032743,Tons
+Volatile Organic Compounds,VOC,WV,West Virginia,Low CAV adoption,2017,Health,13932.18246,766.0588711,Tons
+Carbon Dioxide,CO2,AL,Alabama,Low CAV adoption,2017,GHG,41527599.34,851326.2195,Tons
+Carbon Monoxide,CO,AL,Alabama,Low CAV adoption,2017,GHG,556784.9027,11414.23039,Tons
+Chromium (VI),Cr VI,AL,Alabama,Low CAV adoption,2017,Health,1.826868726,0.03745126785,Lb's
+Manganese,Mn,AL,Alabama,Low CAV adoption,2017,Health,853.4607459,17.49615971,Lb's
+Mercury,Hg,AL,Alabama,Low CAV adoption,2017,Health,16.77563033,0.3439046364,Lb's
+Methane,CH4,AL,Alabama,Low CAV adoption,2017,GHG,1723.742901,35.33716253,Tons
+Nickel,Ni,AL,Alabama,Low CAV adoption,2017,Health,286.2632836,5.868469231,Lb's
+Nitrogen Oxides,NOx,AL,Alabama,Low CAV adoption,2017,Health,94852.84884,1944.507231,Tons
+Nitrous Oxide,N2O,AL,Alabama,Low CAV adoption,2017,GHG,1039.15422,21.30292257,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AL,Alabama,Low CAV adoption,2017,Health,5512.599618,113.0096771,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Alabama,Low CAV adoption,2017,Health,2652.425385,54.37538676,Tons
+Sulfur Dioxide,SO2,AL,Alabama,Low CAV adoption,2017,Health,725.0759568,14.86423928,Tons
+Volatile Organic Compounds,VOC,AL,Alabama,Low CAV adoption,2017,Health,50953.3208,1044.555877,Tons
+Carbon Dioxide,CO2,KY,Kentucky,Low CAV adoption,2017,GHG,30228213.49,678433.4619,Tons
+Carbon Monoxide,CO,KY,Kentucky,Low CAV adoption,2017,GHG,378525.5766,8495.520832,Tons
+Chromium (VI),Cr VI,KY,Kentucky,Low CAV adoption,2017,Health,1.273110366,0.02857332847,Lb's
+Manganese,Mn,KY,Kentucky,Low CAV adoption,2017,Health,564.4818182,12.66907005,Lb's
+Mercury,Hg,KY,Kentucky,Low CAV adoption,2017,Health,11.40322341,0.2559307164,Lb's
+Methane,CH4,KY,Kentucky,Low CAV adoption,2017,GHG,1340.618585,30.08846381,Tons
+Nickel,Ni,KY,Kentucky,Low CAV adoption,2017,Health,212.2503384,4.763686479,Lb's
+Nitrogen Oxides,NOx,KY,Kentucky,Low CAV adoption,2017,Health,72247.79571,1621.509064,Tons
+Nitrous Oxide,N2O,KY,Kentucky,Low CAV adoption,2017,GHG,742.8198343,16.67163797,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,KY,Kentucky,Low CAV adoption,2017,Health,4167.559265,93.53551977,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Kentucky,Low CAV adoption,2017,Health,2260.609477,50.73647883,Tons
+Sulfur Dioxide,SO2,KY,Kentucky,Low CAV adoption,2017,Health,318.0711891,7.13869968,Tons
+Volatile Organic Compounds,VOC,KY,Kentucky,Low CAV adoption,2017,Health,34295.55462,769.7197143,Tons
+Carbon Dioxide,CO2,MI,Michigan,Low CAV adoption,2017,GHG,54716340.15,548438.4111,Tons
+Carbon Monoxide,CO,MI,Michigan,Low CAV adoption,2017,GHG,679678.0198,6812.618173,Tons
+Chromium (VI),Cr VI,MI,Michigan,Low CAV adoption,2017,Health,2.58342788,0.02589447828,Lb's
+Manganese,Mn,MI,Michigan,Low CAV adoption,2017,Health,1124.8191,11.27440173,Lb's
+Mercury,Hg,MI,Michigan,Low CAV adoption,2017,Health,24.16888612,0.2422520488,Lb's
+Methane,CH4,MI,Michigan,Low CAV adoption,2017,GHG,2719.624155,27.2596147,Tons
+Nickel,Ni,MI,Michigan,Low CAV adoption,2017,Health,385.0520235,3.859492784,Lb's
+Nitrogen Oxides,NOx,MI,Michigan,Low CAV adoption,2017,Health,105629.6177,1058.757577,Tons
+Nitrous Oxide,N2O,MI,Michigan,Low CAV adoption,2017,GHG,1326.061806,13.29151819,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MI,Michigan,Low CAV adoption,2017,Health,7300.388467,73.17399959,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Michigan,Low CAV adoption,2017,Health,3533.419602,35.41653238,Tons
+Sulfur Dioxide,SO2,MI,Michigan,Low CAV adoption,2017,Health,639.2629262,6.407525477,Tons
+Volatile Organic Compounds,VOC,MI,Michigan,Low CAV adoption,2017,Health,61789.7211,619.3370458,Tons
+Carbon Dioxide,CO2,LA,Louisiana,Low CAV adoption,2017,GHG,32591982.64,697352.6527,Tons
+Carbon Monoxide,CO,LA,Louisiana,Low CAV adoption,2017,GHG,335524.9938,7179.042988,Tons
+Chromium (VI),Cr VI,LA,Louisiana,Low CAV adoption,2017,Health,1.248864956,0.02672127373,Lb's
+Manganese,Mn,LA,Louisiana,Low CAV adoption,2017,Health,655.9785922,14.03561165,Lb's
+Mercury,Hg,LA,Louisiana,Low CAV adoption,2017,Health,10.91262255,0.2334913579,Lb's
+Methane,CH4,LA,Louisiana,Low CAV adoption,2017,GHG,1366.857679,29.24589887,Tons
+Nickel,Ni,LA,Louisiana,Low CAV adoption,2017,Health,213.1083729,4.559762159,Lb's
+Nitrogen Oxides,NOx,LA,Louisiana,Low CAV adoption,2017,Health,68212.58941,1459.507103,Tons
+Nitrous Oxide,N2O,LA,Louisiana,Low CAV adoption,2017,GHG,652.7662687,13.96687934,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,LA,Louisiana,Low CAV adoption,2017,Health,4520.506763,96.72278661,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Louisiana,Low CAV adoption,2017,Health,2287.898697,48.95290485,Tons
+Sulfur Dioxide,SO2,LA,Louisiana,Low CAV adoption,2017,Health,524.3914913,11.22011513,Tons
+Volatile Organic Compounds,VOC,LA,Louisiana,Low CAV adoption,2017,Health,30141.80764,644.9276112,Tons
+Carbon Dioxide,CO2,AR,Arkansas,Low CAV adoption,2017,GHG,23919183.56,796282.895,Tons
+Carbon Monoxide,CO,AR,Arkansas,Low CAV adoption,2017,GHG,247804.1459,8249.537542,Tons
+Chromium (VI),Cr VI,AR,Arkansas,Low CAV adoption,2017,Health,0.9282972219,0.03090352969,Lb's
+Manganese,Mn,AR,Arkansas,Low CAV adoption,2017,Health,413.2389855,13.75695516,Lb's
+Mercury,Hg,AR,Arkansas,Low CAV adoption,2017,Health,8.186025693,0.2725173383,Lb's
+Methane,CH4,AR,Arkansas,Low CAV adoption,2017,GHG,1048.058066,34.89043465,Tons
+Nickel,Ni,AR,Arkansas,Low CAV adoption,2017,Health,155.9971984,5.193233307,Lb's
+Nitrogen Oxides,NOx,AR,Arkansas,Low CAV adoption,2017,Health,54277.79817,1806.938024,Tons
+Nitrous Oxide,N2O,AR,Arkansas,Low CAV adoption,2017,GHG,469.4859325,15.62944724,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AR,Arkansas,Low CAV adoption,2017,Health,3007.015583,100.1052176,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Arkansas,Low CAV adoption,2017,Health,1599.565451,53.25042156,Tons
+Sulfur Dioxide,SO2,AR,Arkansas,Low CAV adoption,2017,Health,311.7730607,10.37909821,Tons
+Volatile Organic Compounds,VOC,AR,Arkansas,Low CAV adoption,2017,Health,22587.82869,751.9613527,Tons
+Carbon Dioxide,CO2,OK,Oklahoma,Low CAV adoption,2017,GHG,30561234.48,776927.4695,Tons
+Carbon Monoxide,CO,OK,Oklahoma,Low CAV adoption,2017,GHG,375929.9576,9556.888512,Tons
+Chromium (VI),Cr VI,OK,Oklahoma,Low CAV adoption,2017,Health,1.263948742,0.03213209526,Lb's
+Manganese,Mn,OK,Oklahoma,Low CAV adoption,2017,Health,560.4684384,14.24822436,Lb's
+Mercury,Hg,OK,Oklahoma,Low CAV adoption,2017,Health,11.1488803,0.2834267499,Lb's
+Methane,CH4,OK,Oklahoma,Low CAV adoption,2017,GHG,1434.894308,36.47787214,Tons
+Nickel,Ni,OK,Oklahoma,Low CAV adoption,2017,Health,214.3610106,5.449483975,Lb's
+Nitrogen Oxides,NOx,OK,Oklahoma,Low CAV adoption,2017,Health,72377.39938,1839.977694,Tons
+Nitrous Oxide,N2O,OK,Oklahoma,Low CAV adoption,2017,GHG,816.8394954,20.76568741,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OK,Oklahoma,Low CAV adoption,2017,Health,4076.768954,103.6395892,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Oklahoma,Low CAV adoption,2017,Health,2185.197743,55.55208033,Tons
+Sulfur Dioxide,SO2,OK,Oklahoma,Low CAV adoption,2017,Health,408.6832389,10.38954218,Tons
+Volatile Organic Compounds,VOC,OK,Oklahoma,Low CAV adoption,2017,Health,36947.33645,939.2749051,Tons
+Carbon Dioxide,CO2,CA,California,High CAV adoption,2017,GHG,181615552.3,461682.2029,Tons
+Carbon Monoxide,CO,CA,California,High CAV adoption,2017,GHG,721087.9457,1833.066976,Tons
+Chromium (VI),Cr VI,CA,California,High CAV adoption,2017,Health,2.425186041,0.006165029477,Lb's
+Manganese,Mn,CA,California,High CAV adoption,2017,Health,325.5482131,0.8275712856,Lb's
+Mercury,Hg,CA,California,High CAV adoption,2017,Health,20.95925778,0.05328021845,Lb's
+Methane,CH4,CA,California,High CAV adoption,2017,GHG,6048.620117,15.37610752,Tons
+Nickel,Ni,CA,California,High CAV adoption,2017,Health,412.6776536,1.049061745,Lb's
+Nitrogen Oxides,NOx,CA,California,High CAV adoption,2017,Health,201240.7924,511.5712347,Tons
+Nitrous Oxide,N2O,CA,California,High CAV adoption,2017,GHG,4815.905313,12.24244149,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CA,California,High CAV adoption,2017,Health,22169.97309,56.3579599,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,California,High CAV adoption,2017,Health,10690.44035,27.17600992,Tons
+Sulfur Dioxide,SO2,CA,California,High CAV adoption,2017,Health,1574.287452,4.001972791,Tons
+Volatile Organic Compounds,VOC,CA,California,High CAV adoption,2017,Health,89109.67299,226.5243785,Tons
+Carbon Dioxide,CO2,WA,Washington,High CAV adoption,2017,GHG,35131315.57,472961.0572,Tons
+Carbon Monoxide,CO,WA,Washington,High CAV adoption,2017,GHG,537748.3448,7239.524666,Tons
+Chromium (VI),Cr VI,WA,Washington,High CAV adoption,2017,Health,1.587668528,0.02137424612,Lb's
+Manganese,Mn,WA,Washington,High CAV adoption,2017,Health,779.9452351,10.50013974,Lb's
+Mercury,Hg,WA,Washington,High CAV adoption,2017,Health,14.60158788,0.1965762547,Lb's
+Methane,CH4,WA,Washington,High CAV adoption,2017,GHG,2137.687793,28.77897004,Tons
+Nickel,Ni,WA,Washington,High CAV adoption,2017,Health,250.0645682,3.366534973,Lb's
+Nitrogen Oxides,NOx,WA,Washington,High CAV adoption,2017,Health,89318.76803,1202.46846,Tons
+Nitrous Oxide,N2O,WA,Washington,High CAV adoption,2017,GHG,1444.885452,19.4520057,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WA,Washington,High CAV adoption,2017,Health,5219.333016,70.26612071,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Washington,High CAV adoption,2017,Health,2572.719369,34.63565348,Tons
+Sulfur Dioxide,SO2,WA,Washington,High CAV adoption,2017,Health,409.992282,5.519587865,Tons
+Volatile Organic Compounds,VOC,WA,Washington,High CAV adoption,2017,Health,59158.4624,796.4304341,Tons
+Carbon Dioxide,CO2,OR,Oregon,High CAV adoption,2017,GHG,23791868.98,573672.1097,Tons
+Carbon Monoxide,CO,OR,Oregon,High CAV adoption,2017,GHG,301253.3816,7263.854012,Tons
+Chromium (VI),Cr VI,OR,Oregon,High CAV adoption,2017,Health,0.9438414069,0.02275800575,Lb's
+Manganese,Mn,OR,Oregon,High CAV adoption,2017,Health,561.3824099,13.53611318,Lb's
+Mercury,Hg,OR,Oregon,High CAV adoption,2017,Health,8.12362931,0.1958778256,Lb's
+Methane,CH4,OR,Oregon,High CAV adoption,2017,GHG,1300.946327,31.36855807,Tons
+Nickel,Ni,OR,Oregon,High CAV adoption,2017,Health,171.4031098,4.132890261,Lb's
+Nitrogen Oxides,NOx,OR,Oregon,High CAV adoption,2017,Health,65195.71805,1572.006182,Tons
+Nitrous Oxide,N2O,OR,Oregon,High CAV adoption,2017,GHG,786.7560362,18.97034636,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OR,Oregon,High CAV adoption,2017,Health,4113.892974,99.19463086,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Oregon,High CAV adoption,2017,Health,2170.964772,52.34653661,Tons
+Sulfur Dioxide,SO2,OR,Oregon,High CAV adoption,2017,Health,265.6523966,6.405439223,Tons
+Volatile Organic Compounds,VOC,OR,Oregon,High CAV adoption,2017,Health,33895.9237,817.3021661,Tons
+Carbon Dioxide,CO2,HI,Hawaii,High CAV adoption,2017,GHG,5722168.136,401340.7653,Tons
+Carbon Monoxide,CO,HI,Hawaii,High CAV adoption,2017,GHG,78655.83422,5516.753782,Tons
+Chromium (VI),Cr VI,HI,Hawaii,High CAV adoption,2017,Health,0.2818444326,0.01976797214,Lb's
+Manganese,Mn,HI,Hawaii,High CAV adoption,2017,Health,160.3157101,11.24420469,Lb's
+Mercury,Hg,HI,Hawaii,High CAV adoption,2017,Health,2.705933903,0.1897884784,Lb's
+Methane,CH4,HI,Hawaii,High CAV adoption,2017,GHG,228.3407785,16.01533905,Tons
+Nickel,Ni,HI,Hawaii,High CAV adoption,2017,Health,40.50756382,2.841114815,Lb's
+Nitrogen Oxides,NOx,HI,Hawaii,High CAV adoption,2017,Health,9327.104049,654.1833425,Tons
+Nitrous Oxide,N2O,HI,Hawaii,High CAV adoption,2017,GHG,195.3789269,13.70346453,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,HI,Hawaii,High CAV adoption,2017,Health,841.0162248,58.98709847,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Hawaii,High CAV adoption,2017,Health,307.9980097,21.6023287,Tons
+Sulfur Dioxide,SO2,HI,Hawaii,High CAV adoption,2017,Health,52.14280179,3.657185787,Tons
+Volatile Organic Compounds,VOC,HI,Hawaii,High CAV adoption,2017,Health,8109.081887,568.7538452,Tons
+Carbon Dioxide,CO2,CO,Colorado,High CAV adoption,2017,GHG,29905638.57,532373.1044,Tons
+Carbon Monoxide,CO,CO,Colorado,High CAV adoption,2017,GHG,373574.417,6650.283412,Tons
+Chromium (VI),Cr VI,CO,Colorado,High CAV adoption,2017,Health,1.38636438,0.02467973078,Lb's
+Manganese,Mn,CO,Colorado,High CAV adoption,2017,Health,634.3508224,11.2925633,Lb's
+Mercury,Hg,CO,Colorado,High CAV adoption,2017,Health,12.84845799,0.2287252102,Lb's
+Methane,CH4,CO,Colorado,High CAV adoption,2017,GHG,1429.417699,25.4461558,Tons
+Nickel,Ni,CO,Colorado,High CAV adoption,2017,Health,215.6746,3.839388218,Lb's
+Nitrogen Oxides,NOx,CO,Colorado,High CAV adoption,2017,Health,64093.94173,1140.985191,Tons
+Nitrous Oxide,N2O,CO,Colorado,High CAV adoption,2017,GHG,910.2368576,16.20382125,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CO,Colorado,High CAV adoption,2017,Health,4064.345436,72.35251615,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Colorado,High CAV adoption,2017,Health,1950.690369,34.72572857,Tons
+Sulfur Dioxide,SO2,CO,Colorado,High CAV adoption,2017,Health,352.9424274,6.282997615,Tons
+Volatile Organic Compounds,VOC,CO,Colorado,High CAV adoption,2017,Health,37413.68635,666.0295953,Tons
+Carbon Dioxide,CO2,NV,Nevada,High CAV adoption,2017,GHG,14328646.66,482105.6198,Tons
+Carbon Monoxide,CO,NV,Nevada,High CAV adoption,2017,GHG,167945.3761,5650.736707,Tons
+Chromium (VI),Cr VI,NV,Nevada,High CAV adoption,2017,Health,0.675786187,0.02273768948,Lb's
+Manganese,Mn,NV,Nevada,High CAV adoption,2017,Health,299.5305874,10.07808922,Lb's
+Mercury,Hg,NV,Nevada,High CAV adoption,2017,Health,6.33885209,0.2132787756,Lb's
+Methane,CH4,NV,Nevada,High CAV adoption,2017,GHG,618.1192692,20.79741237,Tons
+Nickel,Ni,NV,Nevada,High CAV adoption,2017,Health,101.5425635,3.416529256,Lb's
+Nitrogen Oxides,NOx,NV,Nevada,High CAV adoption,2017,Health,28506.76136,959.1463993,Tons
+Nitrous Oxide,N2O,NV,Nevada,High CAV adoption,2017,GHG,387.0136796,13.02156961,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,NV,Nevada,High CAV adoption,2017,Health,1810.541412,60.91797853,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Nevada,High CAV adoption,2017,Health,823.2386024,27.69891435,Tons
+Sulfur Dioxide,SO2,NV,Nevada,High CAV adoption,2017,Health,129.2150219,4.347604467,Tons
+Volatile Organic Compounds,VOC,NV,Nevada,High CAV adoption,2017,Health,16101.06549,541.7409151,Tons
+Carbon Dioxide,CO2,ND,North Dakota,Low CAV adoption,2017,GHG,6230691.515,823343.2901,Tons
+Carbon Monoxide,CO,ND,North Dakota,Low CAV adoption,2017,GHG,77803.1789,10281.15822,Tons
+Chromium (VI),Cr VI,ND,North Dakota,Low CAV adoption,2017,Health,0.2494375506,0.03296146714,Lb's
+Manganese,Mn,ND,North Dakota,Low CAV adoption,2017,Health,115.6045248,15.27634767,Lb's
+Mercury,Hg,ND,North Dakota,Low CAV adoption,2017,Health,2.116051987,0.2796218045,Lb's
+Methane,CH4,ND,North Dakota,Low CAV adoption,2017,GHG,351.1212274,46.3982699,Tons
+Nickel,Ni,ND,North Dakota,Low CAV adoption,2017,Health,46.41426527,6.133327862,Lb's
+Nitrogen Oxides,NOx,ND,North Dakota,Low CAV adoption,2017,Health,16583.23156,2191.360686,Tons
+Nitrous Oxide,N2O,ND,North Dakota,Low CAV adoption,2017,GHG,148.2796573,19.59414306,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,ND,North Dakota,Low CAV adoption,2017,Health,1018.125446,134.5383177,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,North Dakota,Low CAV adoption,2017,Health,613.1384419,81.02205362,Tons
+Sulfur Dioxide,SO2,ND,North Dakota,Low CAV adoption,2017,Health,65.70674984,8.682697814,Tons
+Volatile Organic Compounds,VOC,ND,North Dakota,Low CAV adoption,2017,Health,7631.353331,1008.431174,Tons
+Carbon Dioxide,CO2,WY,Wyoming,Low CAV adoption,2017,GHG,6958900.724,1199822.882,Tons
+Carbon Monoxide,CO,WY,Wyoming,Low CAV adoption,2017,GHG,75986.56279,13101.26705,Tons
+Chromium (VI),Cr VI,WY,Wyoming,Low CAV adoption,2017,Health,0.2499310418,0.04309200472,Lb's
+Manganese,Mn,WY,Wyoming,Low CAV adoption,2017,Health,107.2198141,18.48636609,Lb's
+Mercury,Hg,WY,Wyoming,Low CAV adoption,2017,Health,2.036970085,0.3512053719,Lb's
+Methane,CH4,WY,Wyoming,Low CAV adoption,2017,GHG,389.7077876,67.19169294,Tons
+Nickel,Ni,WY,Wyoming,Low CAV adoption,2017,Health,49.51069595,8.536415195,Lb's
+Nitrogen Oxides,NOx,WY,Wyoming,Low CAV adoption,2017,Health,20265.67352,3494.117787,Tons
+Nitrous Oxide,N2O,WY,Wyoming,Low CAV adoption,2017,GHG,142.3845558,24.5493153,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WY,Wyoming,Low CAV adoption,2017,Health,973.7979135,167.8979289,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Wyoming,Low CAV adoption,2017,Health,599.3591783,103.3388584,Tons
+Sulfur Dioxide,SO2,WY,Wyoming,Low CAV adoption,2017,Health,74.42520126,12.832064,Tons
+Volatile Organic Compounds,VOC,WY,Wyoming,Low CAV adoption,2017,Health,7380.375494,1272.491697,Tons
+Carbon Dioxide,CO2,SD,South Dakota,Low CAV adoption,2017,GHG,6084728.507,696406.7365,Tons
+Carbon Monoxide,CO,SD,South Dakota,Low CAV adoption,2017,GHG,91465.46017,10468.3656,Tons
+Chromium (VI),Cr VI,SD,South Dakota,Low CAV adoption,2017,Health,0.2497389784,0.0285830184,Lb's
+Manganese,Mn,SD,South Dakota,Low CAV adoption,2017,Health,98.73182502,11.30001248,Lb's
+Mercury,Hg,SD,South Dakota,Low CAV adoption,2017,Health,2.175395867,0.2489774744,Lb's
+Methane,CH4,SD,South Dakota,Low CAV adoption,2017,GHG,362.5287675,41.49198696,Tons
+Nickel,Ni,SD,South Dakota,Low CAV adoption,2017,Health,44.6141572,5.106160379,Lb's
+Nitrogen Oxides,NOx,SD,South Dakota,Low CAV adoption,2017,Health,17382.68239,1989.475307,Tons
+Nitrous Oxide,N2O,SD,South Dakota,Low CAV adoption,2017,GHG,183.4807111,20.99965563,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,SD,South Dakota,Low CAV adoption,2017,Health,877.7950449,100.4650219,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,South Dakota,Low CAV adoption,2017,Health,536.8388777,61.44205291,Tons
+Sulfur Dioxide,SO2,SD,South Dakota,Low CAV adoption,2017,Health,64.84794997,7.421949747,Tons
+Volatile Organic Compounds,VOC,SD,South Dakota,Low CAV adoption,2017,Health,9093.324488,1040.745273,Tons
+Carbon Dioxide,CO2,VT,Vermont,High CAV adoption,2020,GHG,2854235.077,457888.6362,Tons
+Carbon Monoxide,CO,VT,Vermont,High CAV adoption,2020,GHG,21233.00036,3406.289011,Tons
+Chromium (VI),Cr VI,VT,Vermont,High CAV adoption,2020,Health,0.1524868327,0.0244625919,Lb's
+Manganese,Mn,VT,Vermont,High CAV adoption,2020,Health,106.2390487,17.04332398,Lb's
+Mercury,Hg,VT,Vermont,High CAV adoption,2020,Health,1.503515825,0.241200459,Lb's
+Methane,CH4,VT,Vermont,High CAV adoption,2020,GHG,174.2094063,27.94742035,Tons
+Nickel,Ni,VT,Vermont,High CAV adoption,2020,Health,20.13564109,3.230245929,Lb's
+Nitrogen Oxides,NOx,VT,Vermont,High CAV adoption,2020,Health,2375.320609,381.0591227,Tons
+Nitrous Oxide,N2O,VT,Vermont,High CAV adoption,2020,GHG,50.52018726,8.10466518,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VT,Vermont,High CAV adoption,2020,Health,289.2094561,46.39622171,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VT,Vermont,High CAV adoption,2020,Health,102.0077245,16.36451679,Tons
+Sulfur Dioxide,SO2,VT,Vermont,High CAV adoption,2020,Health,17.64794807,2.831159542,Tons
+Volatile Organic Compounds,VOC,VT,Vermont,High CAV adoption,2020,Health,1678.231752,269.2291376,Tons
+Carbon Dioxide,CO2,MA,Massachusetts,High CAV adoption,2020,GHG,27128316.12,393530.4983,Tons
+Carbon Monoxide,CO,MA,Massachusetts,High CAV adoption,2020,GHG,182735.8092,2650.813775,Tons
+Chromium (VI),Cr VI,MA,Massachusetts,High CAV adoption,2020,Health,1.368563573,0.01985274362,Lb's
+Manganese,Mn,MA,Massachusetts,High CAV adoption,2020,Health,1337.726635,19.40541489,Lb's
+Mercury,Hg,MA,Massachusetts,High CAV adoption,2020,Health,13.42740641,0.1947814937,Lb's
+Methane,CH4,MA,Massachusetts,High CAV adoption,2020,GHG,1278.386071,18.54460503,Tons
+Nickel,Ni,MA,Massachusetts,High CAV adoption,2020,Health,183.8292446,2.666675436,Lb's
+Nitrogen Oxides,NOx,MA,Massachusetts,High CAV adoption,2020,Health,21606.91204,313.4355566,Tons
+Nitrous Oxide,N2O,MA,Massachusetts,High CAV adoption,2020,GHG,428.2236117,6.211924492,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MA,Massachusetts,High CAV adoption,2020,Health,3387.278578,49.13675516,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MA,Massachusetts,High CAV adoption,2020,Health,1035.001499,15.01400433,Tons
+Sulfur Dioxide,SO2,MA,Massachusetts,High CAV adoption,2020,Health,166.5737786,2.416363102,Tons
+Volatile Organic Compounds,VOC,MA,Massachusetts,High CAV adoption,2020,Health,13360.72622,193.8142133,Tons
+Carbon Dioxide,CO2,MD,Maryland,High CAV adoption,2020,GHG,27053779.39,446741.4785,Tons
+Carbon Monoxide,CO,MD,Maryland,High CAV adoption,2020,GHG,206479.2546,3409.610396,Tons
+Chromium (VI),Cr VI,MD,Maryland,High CAV adoption,2020,Health,1.27052056,0.02098021963,Lb's
+Manganese,Mn,MD,Maryland,High CAV adoption,2020,Health,1065.556501,17.59562979,Lb's
+Mercury,Hg,MD,Maryland,High CAV adoption,2020,Health,12.305027,0.2031940113,Lb's
+Methane,CH4,MD,Maryland,High CAV adoption,2020,GHG,1349.290651,22.28095719,Tons
+Nickel,Ni,MD,Maryland,High CAV adoption,2020,Health,178.3548877,2.945190211,Lb's
+Nitrogen Oxides,NOx,MD,Maryland,High CAV adoption,2020,Health,30919.30646,510.5732727,Tons
+Nitrous Oxide,N2O,MD,Maryland,High CAV adoption,2020,GHG,422.132592,6.970713243,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MD,Maryland,High CAV adoption,2020,Health,3006.498421,49.64657729,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MD,Maryland,High CAV adoption,2020,Health,1106.642443,18.27408563,Tons
+Sulfur Dioxide,SO2,MD,Maryland,High CAV adoption,2020,Health,159.1802063,2.628556982,Tons
+Volatile Organic Compounds,VOC,MD,Maryland,High CAV adoption,2020,Health,15164.35445,250.4103411,Tons
+Carbon Dioxide,CO2,VA,Virginia,High CAV adoption,2020,GHG,40576733.55,472340.7947,Tons
+Carbon Monoxide,CO,VA,Virginia,High CAV adoption,2020,GHG,397167.7475,4623.302891,Tons
+Chromium (VI),Cr VI,VA,Virginia,High CAV adoption,2020,Health,1.93407654,0.02251396725,Lb's
+Manganese,Mn,VA,Virginia,High CAV adoption,2020,Health,1459.745034,16.99242569,Lb's
+Mercury,Hg,VA,Virginia,High CAV adoption,2020,Health,18.58975244,0.2163973704,Lb's
+Methane,CH4,VA,Virginia,High CAV adoption,2020,GHG,2304.710135,26.82839454,Tons
+Nickel,Ni,VA,Virginia,High CAV adoption,2020,Health,280.840791,3.269177946,Lb's
+Nitrogen Oxides,NOx,VA,Virginia,High CAV adoption,2020,Health,60394.38634,703.0317611,Tons
+Nitrous Oxide,N2O,VA,Virginia,High CAV adoption,2020,GHG,725.151528,8.441257319,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,VA,Virginia,High CAV adoption,2020,Health,4564.267906,53.13118483,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,VA,Virginia,High CAV adoption,2020,Health,1939.334056,22.57516831,Tons
+Sulfur Dioxide,SO2,VA,Virginia,High CAV adoption,2020,Health,238.4539521,2.775766292,Tons
+Volatile Organic Compounds,VOC,VA,Virginia,High CAV adoption,2020,Health,27552.53706,320.7302834,Tons
+Carbon Dioxide,CO2,WV,West Virginia,Low CAV adoption,2020,GHG,9270785.719,519433.7318,Tons
+Carbon Monoxide,CO,WV,West Virginia,Low CAV adoption,2020,GHG,84610.03524,4740.623684,Tons
+Chromium (VI),Cr VI,WV,West Virginia,Low CAV adoption,2020,Health,0.3794588846,0.02126073782,Lb's
+Manganese,Mn,WV,West Virginia,Low CAV adoption,2020,Health,328.9555835,18.43108357,Lb's
+Mercury,Hg,WV,West Virginia,Low CAV adoption,2020,Health,3.57279435,0.2001804333,Lb's
+Methane,CH4,WV,West Virginia,Low CAV adoption,2020,GHG,509.2234456,28.5313287,Tons
+Nickel,Ni,WV,West Virginia,Low CAV adoption,2020,Health,57.97098475,3.2480618,Lb's
+Nitrogen Oxides,NOx,WV,West Virginia,Low CAV adoption,2020,Health,15877.02447,889.5753091,Tons
+Nitrous Oxide,N2O,WV,West Virginia,Low CAV adoption,2020,GHG,145.733442,8.165312836,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WV,West Virginia,Low CAV adoption,2020,Health,1126.592619,63.12196466,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WV,West Virginia,Low CAV adoption,2020,Health,519.9783699,29.13391738,Tons
+Sulfur Dioxide,SO2,WV,West Virginia,Low CAV adoption,2020,Health,51.34411163,2.876764097,Tons
+Volatile Organic Compounds,VOC,WV,West Virginia,Low CAV adoption,2020,Health,6054.641133,339.236062,Tons
+Carbon Dioxide,CO2,AL,Alabama,Low CAV adoption,2020,GHG,37188161.45,755621.6529,Tons
+Carbon Monoxide,CO,AL,Alabama,Low CAV adoption,2020,GHG,413435.1239,8400.537147,Tons
+Chromium (VI),Cr VI,AL,Alabama,Low CAV adoption,2020,Health,1.693540729,0.03441084461,Lb's
+Manganese,Mn,AL,Alabama,Low CAV adoption,2020,Health,1254.256175,25.48507609,Lb's
+Mercury,Hg,AL,Alabama,Low CAV adoption,2020,Health,16.3034686,0.3312681619,Lb's
+Methane,CH4,AL,Alabama,Low CAV adoption,2020,GHG,2228.236212,45.27525599,Tons
+Nickel,Ni,AL,Alabama,Low CAV adoption,2020,Health,241.871956,4.914566359,Lb's
+Nitrogen Oxides,NOx,AL,Alabama,Low CAV adoption,2020,Health,55185.27724,1121.302823,Tons
+Nitrous Oxide,N2O,AL,Alabama,Low CAV adoption,2020,GHG,601.293492,12.21760809,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AL,Alabama,Low CAV adoption,2020,Health,3804.602486,77.30524735,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AL,Alabama,Low CAV adoption,2020,Health,1545.982297,31.41262307,Tons
+Sulfur Dioxide,SO2,AL,Alabama,Low CAV adoption,2020,Health,215.8110822,4.385038686,Tons
+Volatile Organic Compounds,VOC,AL,Alabama,Low CAV adoption,2020,Health,27848.96746,565.8597253,Tons
+Carbon Dioxide,CO2,KY,Kentucky,Low CAV adoption,2020,GHG,27234431.75,608284.6761,Tons
+Carbon Monoxide,CO,KY,Kentucky,Low CAV adoption,2020,GHG,270933.6365,6051.339014,Tons
+Chromium (VI),Cr VI,KY,Kentucky,Low CAV adoption,2020,Health,1.163156517,0.02597925641,Lb's
+Manganese,Mn,KY,Kentucky,Low CAV adoption,2020,Health,844.6302869,18.86493044,Lb's
+Mercury,Hg,KY,Kentucky,Low CAV adoption,2020,Health,11.01521389,0.2460262757,Lb's
+Methane,CH4,KY,Kentucky,Low CAV adoption,2020,GHG,1646.20988,36.76831788,Tons
+Nickel,Ni,KY,Kentucky,Low CAV adoption,2020,Health,175.207778,3.913289159,Lb's
+Nitrogen Oxides,NOx,KY,Kentucky,Low CAV adoption,2020,Health,45122.49869,1007.817044,Tons
+Nitrous Oxide,N2O,KY,Kentucky,Low CAV adoption,2020,GHG,430.6740376,9.61916224,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,KY,Kentucky,Low CAV adoption,2020,Health,2907.870779,64.94768282,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,KY,Kentucky,Low CAV adoption,2020,Health,1360.530783,30.38763702,Tons
+Sulfur Dioxide,SO2,KY,Kentucky,Low CAV adoption,2020,Health,152.8622996,3.414199909,Tons
+Volatile Organic Compounds,VOC,KY,Kentucky,Low CAV adoption,2020,Health,18042.97764,402.9923191,Tons
+Carbon Dioxide,CO2,MI,Michigan,Low CAV adoption,2020,GHG,44938314.1,450891.1465,Tons
+Carbon Monoxide,CO,MI,Michigan,Low CAV adoption,2020,GHG,440874.6529,4423.541062,Tons
+Chromium (VI),Cr VI,MI,Michigan,Low CAV adoption,2020,Health,2.19261068,0.02199968474,Lb's
+Manganese,Mn,MI,Michigan,Low CAV adoption,2020,Health,1643.497046,16.49012168,Lb's
+Mercury,Hg,MI,Michigan,Low CAV adoption,2020,Health,21.27297224,0.2134435844,Lb's
+Methane,CH4,MI,Michigan,Low CAV adoption,2020,GHG,2724.691983,27.33835295,Tons
+Nickel,Ni,MI,Michigan,Low CAV adoption,2020,Health,306.6105575,3.076394576,Lb's
+Nitrogen Oxides,NOx,MI,Michigan,Low CAV adoption,2020,Health,53213.58095,533.9215099,Tons
+Nitrous Oxide,N2O,MI,Michigan,Low CAV adoption,2020,GHG,745.0733199,7.475735797,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,MI,Michigan,Low CAV adoption,2020,Health,4821.037161,48.37215228,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,MI,Michigan,Low CAV adoption,2020,Health,1893.235647,18.99588821,Tons
+Sulfur Dioxide,SO2,MI,Michigan,Low CAV adoption,2020,Health,268.9039749,2.698063422,Tons
+Volatile Organic Compounds,VOC,MI,Michigan,Low CAV adoption,2020,Health,29344.56457,294.4303681,Tons
+Carbon Dioxide,CO2,LA,Louisiana,Low CAV adoption,2020,GHG,28164056.3,606289.0916,Tons
+Carbon Monoxide,CO,LA,Louisiana,Low CAV adoption,2020,GHG,255590.9289,5502.1191,Tons
+Chromium (VI),Cr VI,LA,Louisiana,Low CAV adoption,2020,Health,1.182345254,0.02545240721,Lb's
+Manganese,Mn,LA,Louisiana,Low CAV adoption,2020,Health,980.0330635,21.09722227,Lb's
+Mercury,Hg,LA,Louisiana,Low CAV adoption,2020,Health,11.31275719,0.2435303072,Lb's
+Methane,CH4,LA,Louisiana,Low CAV adoption,2020,GHG,1336.664442,28.77444433,Tons
+Nickel,Ni,LA,Louisiana,Low CAV adoption,2020,Health,170.8051081,3.676930365,Lb's
+Nitrogen Oxides,NOx,LA,Louisiana,Low CAV adoption,2020,Health,38174.37804,821.7818034,Tons
+Nitrous Oxide,N2O,LA,Louisiana,Low CAV adoption,2020,GHG,385.9793281,8.308996888,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,LA,Louisiana,Low CAV adoption,2020,Health,2971.307365,63.96348679,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,LA,Louisiana,Low CAV adoption,2020,Health,1197.354273,25.77550715,Tons
+Sulfur Dioxide,SO2,LA,Louisiana,Low CAV adoption,2020,Health,158.1352441,3.404185551,Tons
+Volatile Organic Compounds,VOC,LA,Louisiana,Low CAV adoption,2020,Health,16184.04957,348.3948693,Tons
+Carbon Dioxide,CO2,AR,Arkansas,Low CAV adoption,2020,GHG,20515420.87,676959.9715,Tons
+Carbon Monoxide,CO,AR,Arkansas,Low CAV adoption,2020,GHG,184552.7315,6089.80009,Tons
+Chromium (VI),Cr VI,AR,Arkansas,Low CAV adoption,2020,Health,0.8273698459,0.02730123213,Lb's
+Manganese,Mn,AR,Arkansas,Low CAV adoption,2020,Health,640.5037763,21.13509739,Lb's
+Mercury,Hg,AR,Arkansas,Low CAV adoption,2020,Health,7.820614429,0.2580616286,Lb's
+Methane,CH4,AR,Arkansas,Low CAV adoption,2020,GHG,1007.338631,33.23977291,Tons
+Nickel,Ni,AR,Arkansas,Low CAV adoption,2020,Health,124.7480629,4.116388626,Lb's
+Nitrogen Oxides,NOx,AR,Arkansas,Low CAV adoption,2020,Health,32494.67104,1072.246664,Tons
+Nitrous Oxide,N2O,AR,Arkansas,Low CAV adoption,2020,GHG,275.4711686,9.089891727,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,AR,Arkansas,Low CAV adoption,2020,Health,2169.036249,71.57302436,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,AR,Arkansas,Low CAV adoption,2020,Health,984.8927974,32.49911393,Tons
+Sulfur Dioxide,SO2,AR,Arkansas,Low CAV adoption,2020,Health,113.0957504,3.731890096,Tons
+Volatile Organic Compounds,VOC,AR,Arkansas,Low CAV adoption,2020,Health,11722.78499,386.8239528,Tons
+Carbon Dioxide,CO2,OK,Oklahoma,Low CAV adoption,2020,GHG,28479010.2,715412.2745,Tons
+Carbon Monoxide,CO,OK,Oklahoma,Low CAV adoption,2020,GHG,252947.5658,6354.21639,Tons
+Chromium (VI),Cr VI,OK,Oklahoma,Low CAV adoption,2020,Health,0.9812379483,0.02464937045,Lb's
+Manganese,Mn,OK,Oklahoma,Low CAV adoption,2020,Health,842.4618,21.16321839,Lb's
+Mercury,Hg,OK,Oklahoma,Low CAV adoption,2020,Health,9.130555566,0.2293658199,Lb's
+Methane,CH4,OK,Oklahoma,Low CAV adoption,2020,GHG,1950.129798,48.98859843,Tons
+Nickel,Ni,OK,Oklahoma,Low CAV adoption,2020,Health,152.895818,3.840847844,Lb's
+Nitrogen Oxides,NOx,OK,Oklahoma,Low CAV adoption,2020,Health,50833.05959,1276.961331,Tons
+Nitrous Oxide,N2O,OK,Oklahoma,Low CAV adoption,2020,GHG,468.5235321,11.76963256,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OK,Oklahoma,Low CAV adoption,2020,Health,3028.498265,76.07795414,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OK,Oklahoma,Low CAV adoption,2020,Health,1431.54362,35.96135785,Tons
+Sulfur Dioxide,SO2,OK,Oklahoma,Low CAV adoption,2020,Health,148.782484,3.737518071,Tons
+Volatile Organic Compounds,VOC,OK,Oklahoma,Low CAV adoption,2020,Health,19518.5298,490.3188594,Tons
+Carbon Dioxide,CO2,CA,California,High CAV adoption,2020,GHG,169832605.1,431396.7401,Tons
+Carbon Monoxide,CO,CA,California,High CAV adoption,2020,GHG,540113.071,1371.956922,Tons
+Chromium (VI),Cr VI,CA,California,High CAV adoption,2020,Health,66.89267793,0.1699160369,Lb's
+Manganese,Mn,CA,California,High CAV adoption,2020,Health,15341.44117,38.96924093,Lb's
+Mercury,Hg,CA,California,High CAV adoption,2020,Health,41.68775738,0.1058922851,Lb's
+Methane,CH4,CA,California,High CAV adoption,2020,GHG,6062.945213,15.40066348,Tons
+Nickel,Ni,CA,California,High CAV adoption,2020,Health,21097.10022,53.58935791,Lb's
+Nitrogen Oxides,NOx,CA,California,High CAV adoption,2020,Health,147314.3252,374.1974022,Tons
+Nitrous Oxide,N2O,CA,California,High CAV adoption,2020,GHG,2595.590378,6.593134615,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CA,California,High CAV adoption,2020,Health,20730.70053,52.65865541,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CA,California,High CAV adoption,2020,Health,9491.133221,24.10870356,Tons
+Sulfur Dioxide,SO2,CA,California,High CAV adoption,2020,Health,1438.219644,3.653263549,Tons
+Volatile Organic Compounds,VOC,CA,California,High CAV adoption,2020,Health,69247.77048,175.8982759,Tons
+Carbon Dioxide,CO2,WA,Washington,High CAV adoption,2020,GHG,31062952.87,403749.9275,Tons
+Carbon Monoxide,CO,WA,Washington,High CAV adoption,2020,GHG,326374.8475,4242.153718,Tons
+Chromium (VI),Cr VI,WA,Washington,High CAV adoption,2020,Health,1.319932618,0.01715621502,Lb's
+Manganese,Mn,WA,Washington,High CAV adoption,2020,Health,1330.920174,17.29902903,Lb's
+Mercury,Hg,WA,Washington,High CAV adoption,2020,Health,12.4765518,0.1621676763,Lb's
+Methane,CH4,WA,Washington,High CAV adoption,2020,GHG,2699.034141,35.08149541,Tons
+Nickel,Ni,WA,Washington,High CAV adoption,2020,Health,201.0225365,2.612849939,Lb's
+Nitrogen Oxides,NOx,WA,Washington,High CAV adoption,2020,Health,60062.97744,780.6863336,Tons
+Nitrous Oxide,N2O,WA,Washington,High CAV adoption,2020,GHG,755.6368652,9.821613894,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WA,Washington,High CAV adoption,2020,Health,4220.170026,54.85290947,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WA,Washington,High CAV adoption,2020,Health,1799.293287,23.38684726,Tons
+Sulfur Dioxide,SO2,WA,Washington,High CAV adoption,2020,Health,175.5274156,2.281469557,Tons
+Volatile Organic Compounds,VOC,WA,Washington,High CAV adoption,2020,Health,28634.69585,372.1879379,Tons
+Carbon Dioxide,CO2,OR,Oregon,High CAV adoption,2020,GHG,20899424.41,492735.8227,Tons
+Carbon Monoxide,CO,OR,Oregon,High CAV adoption,2020,GHG,237933.533,5609.646123,Tons
+Chromium (VI),Cr VI,OR,Oregon,High CAV adoption,2020,Health,0.7762577066,0.01830145999,Lb's
+Manganese,Mn,OR,Oregon,High CAV adoption,2020,Health,819.7666123,19.32724884,Lb's
+Mercury,Hg,OR,Oregon,High CAV adoption,2020,Health,7.083035427,0.1669933688,Lb's
+Methane,CH4,OR,Oregon,High CAV adoption,2020,GHG,2076.371842,48.95363469,Tons
+Nickel,Ni,OR,Oregon,High CAV adoption,2020,Health,130.8638557,3.085315094,Lb's
+Nitrogen Oxides,NOx,OR,Oregon,High CAV adoption,2020,Health,52550.63223,1238.961346,Tons
+Nitrous Oxide,N2O,OR,Oregon,High CAV adoption,2020,GHG,619.6138935,14.60834306,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,OR,Oregon,High CAV adoption,2020,Health,3026.538778,71.35527015,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,OR,Oregon,High CAV adoption,2020,Health,1488.722267,35.09889921,Tons
+Sulfur Dioxide,SO2,OR,Oregon,High CAV adoption,2020,Health,112.2083921,2.645484073,Tons
+Volatile Organic Compounds,VOC,OR,Oregon,High CAV adoption,2020,Health,25138.01763,592.6671258,Tons
+Carbon Dioxide,CO2,HI,Hawaii,High CAV adoption,2020,GHG,4732339.723,336341.1189,Tons
+Carbon Monoxide,CO,HI,Hawaii,High CAV adoption,2020,GHG,55508.96979,3945.183588,Tons
+Chromium (VI),Cr VI,HI,Hawaii,High CAV adoption,2020,Health,0.2218466382,0.01576728444,Lb's
+Manganese,Mn,HI,Hawaii,High CAV adoption,2020,Health,211.2925631,15.01717569,Lb's
+Mercury,Hg,HI,Hawaii,High CAV adoption,2020,Health,2.149474219,0.1527693712,Lb's
+Methane,CH4,HI,Hawaii,High CAV adoption,2020,GHG,342.077126,24.31241416,Tons
+Nickel,Ni,HI,Hawaii,High CAV adoption,2020,Health,31.17811283,2.215918968,Lb's
+Nitrogen Oxides,NOx,HI,Hawaii,High CAV adoption,2020,Health,5840.930159,415.1318586,Tons
+Nitrous Oxide,N2O,HI,Hawaii,High CAV adoption,2020,GHG,108.7985627,7.732629621,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,HI,Hawaii,High CAV adoption,2020,Health,593.3859538,42.17366193,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,HI,Hawaii,High CAV adoption,2020,Health,217.4422107,15.454249,Tons
+Sulfur Dioxide,SO2,HI,Hawaii,High CAV adoption,2020,Health,28.45099909,2.022095079,Tons
+Volatile Organic Compounds,VOC,HI,Hawaii,High CAV adoption,2020,Health,4684.470695,332.9389281,Tons
+Carbon Dioxide,CO2,CO,Colorado,High CAV adoption,2020,GHG,27125607.76,467061.2982,Tons
+Carbon Monoxide,CO,CO,Colorado,High CAV adoption,2020,GHG,269131.1461,4634.024926,Tons
+Chromium (VI),Cr VI,CO,Colorado,High CAV adoption,2020,Health,1.215650831,0.02093163995,Lb's
+Manganese,Mn,CO,Colorado,High CAV adoption,2020,Health,1004.112921,17.28928209,Lb's
+Mercury,Hg,CO,Colorado,High CAV adoption,2020,Health,11.57260712,0.199262518,Lb's
+Methane,CH4,CO,Colorado,High CAV adoption,2020,GHG,1967.596108,33.87898258,Tons
+Nickel,Ni,CO,Colorado,High CAV adoption,2020,Health,181.3220102,3.122086488,Lb's
+Nitrogen Oxides,NOx,CO,Colorado,High CAV adoption,2020,Health,44380.78542,764.1689521,Tons
+Nitrous Oxide,N2O,CO,Colorado,High CAV adoption,2020,GHG,528.2907734,9.096355615,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,CO,Colorado,High CAV adoption,2020,Health,3196.411853,55.03730214,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,CO,Colorado,High CAV adoption,2020,Health,1382.302671,23.80112865,Tons
+Sulfur Dioxide,SO2,CO,Colorado,High CAV adoption,2020,Health,157.5131313,2.712134167,Tons
+Volatile Organic Compounds,VOC,CO,Colorado,High CAV adoption,2020,Health,22247.34998,383.0651927,Tons
+Carbon Dioxide,CO2,NV,Nevada,High CAV adoption,2020,GHG,14085472.98,448830.8002,Tons
+Carbon Monoxide,CO,NV,Nevada,High CAV adoption,2020,GHG,130962.4922,4173.093813,Tons
+Chromium (VI),Cr VI,NV,Nevada,High CAV adoption,2020,Health,0.6130182368,0.01953370441,Lb's
+Manganese,Mn,NV,Nevada,High CAV adoption,2020,Health,569.8328294,18.15760998,Lb's
+Mercury,Hg,NV,Nevada,High CAV adoption,2020,Health,5.850484498,0.186424527,Lb's
+Methane,CH4,NV,Nevada,High CAV adoption,2020,GHG,960.068686,30.59239808,Tons
+Nickel,Ni,NV,Nevada,High CAV adoption,2020,Health,90.43769004,2.881779039,Lb's
+Nitrogen Oxides,NOx,NV,Nevada,High CAV adoption,2020,Health,22447.78576,715.2942367,Tons
+Nitrous Oxide,N2O,NV,Nevada,High CAV adoption,2020,GHG,234.8601965,7.483773535,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,NV,Nevada,High CAV adoption,2020,Health,1719.915474,54.80476512,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,NV,Nevada,High CAV adoption,2020,Health,694.4347282,22.12802475,Tons
+Sulfur Dioxide,SO2,NV,Nevada,High CAV adoption,2020,Health,80.94551719,2.579312835,Tons
+Volatile Organic Compounds,VOC,NV,Nevada,High CAV adoption,2020,Health,10666.66507,339.8911649,Tons
+Carbon Dioxide,CO2,ND,North Dakota,Low CAV adoption,2020,GHG,5913614.811,772709.43,Tons
+Carbon Monoxide,CO,ND,North Dakota,Low CAV adoption,2020,GHG,54318.79099,7097.628669,Tons
+Chromium (VI),Cr VI,ND,North Dakota,Low CAV adoption,2020,Health,0.2093028317,0.02734880051,Lb's
+Manganese,Mn,ND,North Dakota,Low CAV adoption,2020,Health,167.5055974,21.88731577,Lb's
+Mercury,Hg,ND,North Dakota,Low CAV adoption,2020,Health,1.896169936,0.2477652733,Lb's
+Methane,CH4,ND,North Dakota,Low CAV adoption,2020,GHG,382.2142111,49.94246913,Tons
+Nickel,Ni,ND,North Dakota,Low CAV adoption,2020,Health,35.60621796,4.65252832,Lb's
+Nitrogen Oxides,NOx,ND,North Dakota,Low CAV adoption,2020,Health,12567.7205,1642.175971,Tons
+Nitrous Oxide,N2O,ND,North Dakota,Low CAV adoption,2020,GHG,86.36789533,11.28536256,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,ND,North Dakota,Low CAV adoption,2020,Health,706.0042443,92.25087439,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,ND,North Dakota,Low CAV adoption,2020,Health,384.6589436,50.26191298,Tons
+Sulfur Dioxide,SO2,ND,North Dakota,Low CAV adoption,2020,Health,30.97961803,4.047988202,Tons
+Volatile Organic Compounds,VOC,ND,North Dakota,Low CAV adoption,2020,Health,4055.334464,529.8950442,Tons
+Carbon Dioxide,CO2,WY,Wyoming,Low CAV adoption,2020,GHG,6953488.941,1194084.595,Tons
+Carbon Monoxide,CO,WY,Wyoming,Low CAV adoption,2020,GHG,59054.08916,10141.03549,Tons
+Chromium (VI),Cr VI,WY,Wyoming,Low CAV adoption,2020,Health,0.2309872063,0.0396661686,Lb's
+Manganese,Mn,WY,Wyoming,Low CAV adoption,2020,Health,181.001053,31.08232011,Lb's
+Mercury,Hg,WY,Wyoming,Low CAV adoption,2020,Health,2.030532784,0.3486922807,Lb's
+Methane,CH4,WY,Wyoming,Low CAV adoption,2020,GHG,405.6415189,69.65859772,Tons
+Nickel,Ni,WY,Wyoming,Low CAV adoption,2020,Health,42.29089041,7.262383127,Lb's
+Nitrogen Oxides,NOx,WY,Wyoming,Low CAV adoption,2020,Health,17353.6623,2980.04944,Tons
+Nitrous Oxide,N2O,WY,Wyoming,Low CAV adoption,2020,GHG,87.33236299,14.99710867,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,WY,Wyoming,Low CAV adoption,2020,Health,816.6924206,140.2461191,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,WY,Wyoming,Low CAV adoption,2020,Health,465.3926651,79.91933499,Tons
+Sulfur Dioxide,SO2,WY,Wyoming,Low CAV adoption,2020,Health,34.8863061,5.990834392,Tons
+Volatile Organic Compounds,VOC,WY,Wyoming,Low CAV adoption,2020,Health,4354.45661,747.766999,Tons
+Carbon Dioxide,CO2,SD,South Dakota,Low CAV adoption,2020,GHG,5880043.298,658668.2339,Tons
+Carbon Monoxide,CO,SD,South Dakota,Low CAV adoption,2020,GHG,67640.14399,7576.885395,Tons
+Chromium (VI),Cr VI,SD,South Dakota,Low CAV adoption,2020,Health,0.2416105663,0.02706463149,Lb's
+Manganese,Mn,SD,South Dakota,Low CAV adoption,2020,Health,156.9464166,17.58075813,Lb's
+Mercury,Hg,SD,South Dakota,Low CAV adoption,2020,Health,2.236392165,0.2505152433,Lb's
+Methane,CH4,SD,South Dakota,Low CAV adoption,2020,GHG,412.6665073,46.22590444,Tons
+Nickel,Ni,SD,South Dakota,Low CAV adoption,2020,Health,39.25033542,4.396727677,Lb's
+Nitrogen Oxides,NOx,SD,South Dakota,Low CAV adoption,2020,Health,12248.67102,1372.066513,Tons
+Nitrous Oxide,N2O,SD,South Dakota,Low CAV adoption,2020,GHG,106.0383311,11.87815748,Tons
+PM10 Primary (Filt + Cond),PM10 Prime,SD,South Dakota,Low CAV adoption,2020,Health,642.0694546,71.92306796,Tons
+PM2.5 Primary (Filt + Cond),PM2.5 Prime,SD,South Dakota,Low CAV adoption,2020,Health,349.9495992,39.20050802,Tons
+Sulfur Dioxide,SO2,SD,South Dakota,Low CAV adoption,2020,Health,32.5283345,3.643745387,Tons
+Volatile Organic Compounds,VOC,SD,South Dakota,Low CAV adoption,2020,Health,4977.768962,557.5976442,Tons
